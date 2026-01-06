@@ -1,0 +1,10 @@
+# GitHub Pages configuration
+plugins:
+  - jekyll-sitemap
+  
+# CORS headers
+headers:
+  "/api/*.json":
+    - "Access-Control-Allow-Origin: *"
+    - "Access-Control-Allow-Methods: GET"
+    - "Content-Type: application/json"
