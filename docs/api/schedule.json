@@ -43,6 +43,48 @@
       "change_reason": null
     },
     {
+      "id": 99,
+      "date": "2026-01-12",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 100,
+      "date": "2026-01-12",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3,
       "date": "2026-01-13",
       "pair_number": 1,
@@ -85,6 +127,48 @@
       "change_reason": null
     },
     {
+      "id": 101,
+      "date": "2026-01-13",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 102,
+      "date": "2026-01-13",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 5,
       "date": "2026-01-15",
       "pair_number": 1,
@@ -93,6 +177,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 103,
+      "date": "2026-01-15",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -148,6 +253,48 @@
       "change_reason": null
     },
     {
+      "id": 104,
+      "date": "2026-01-19",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 105,
+      "date": "2026-01-19",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8,
       "date": "2026-01-20",
       "pair_number": 1,
@@ -190,6 +337,48 @@
       "change_reason": null
     },
     {
+      "id": 106,
+      "date": "2026-01-20",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 107,
+      "date": "2026-01-20",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 10,
       "date": "2026-01-22",
       "pair_number": 1,
@@ -198,6 +387,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 108,
+      "date": "2026-01-22",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -253,6 +463,48 @@
       "change_reason": null
     },
     {
+      "id": 109,
+      "date": "2026-01-26",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 110,
+      "date": "2026-01-26",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13,
       "date": "2026-01-27",
       "pair_number": 1,
@@ -295,6 +547,48 @@
       "change_reason": null
     },
     {
+      "id": 111,
+      "date": "2026-01-27",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 112,
+      "date": "2026-01-27",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15,
       "date": "2026-01-29",
       "pair_number": 1,
@@ -303,6 +597,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 113,
+      "date": "2026-01-29",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -358,6 +673,48 @@
       "change_reason": null
     },
     {
+      "id": 114,
+      "date": "2026-02-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 115,
+      "date": "2026-02-02",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 18,
       "date": "2026-02-03",
       "pair_number": 1,
@@ -400,6 +757,48 @@
       "change_reason": null
     },
     {
+      "id": 116,
+      "date": "2026-02-03",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 117,
+      "date": "2026-02-03",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 20,
       "date": "2026-02-05",
       "pair_number": 1,
@@ -408,6 +807,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 118,
+      "date": "2026-02-05",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -463,6 +883,48 @@
       "change_reason": null
     },
     {
+      "id": 119,
+      "date": "2026-02-09",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 120,
+      "date": "2026-02-09",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 23,
       "date": "2026-02-10",
       "pair_number": 1,
@@ -505,6 +967,48 @@
       "change_reason": null
     },
     {
+      "id": 121,
+      "date": "2026-02-10",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 122,
+      "date": "2026-02-10",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 25,
       "date": "2026-02-12",
       "pair_number": 1,
@@ -513,6 +1017,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 123,
+      "date": "2026-02-12",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -568,6 +1093,48 @@
       "change_reason": null
     },
     {
+      "id": 124,
+      "date": "2026-02-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 125,
+      "date": "2026-02-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 28,
       "date": "2026-02-17",
       "pair_number": 1,
@@ -610,6 +1177,48 @@
       "change_reason": null
     },
     {
+      "id": 126,
+      "date": "2026-02-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 127,
+      "date": "2026-02-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 30,
       "date": "2026-02-19",
       "pair_number": 1,
@@ -618,6 +1227,27 @@
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 10,
+        "name": "Аяпбергенова О."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 128,
+      "date": "2026-02-19",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык (COMN/SPCH)",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 10,
@@ -2023,8 +2653,8 @@
       "status": "planned",
       "discipline": "Английский язык (COMN/SPCH)",
       "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
+        "id": 17,
+        "name": "БНГС 1-25"
       },
       "teacher": {
         "id": 10,
@@ -2044,8 +2674,8 @@
       "status": "planned",
       "discipline": "Английский язык (COMN/SPCH)",
       "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
+        "id": 17,
+        "name": "БНГС 1-25"
       },
       "teacher": {
         "id": 10,
