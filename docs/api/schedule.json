@@ -1558,7 +1558,7 @@
       "id": 28,
       "date": "2026-01-13",
       "pair_number": 1,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Физика",
       "group": {
         "id": 36,
@@ -1573,7 +1573,7 @@
         "number": "105"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болезнь"
     },
     {
       "id": 52,
