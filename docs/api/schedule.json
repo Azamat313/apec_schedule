@@ -9311,6 +9311,28 @@
       "change_reason": null
     },
     {
+      "id": 6887,
+      "date": "2026-01-19",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1229,
       "date": "2026-01-19",
       "pair_number": 3,
@@ -10648,6 +10670,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6871,
+      "date": "2026-01-20",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -14608,6 +14652,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6880,
+      "date": "2026-01-23",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -23875,6 +23941,28 @@
       "change_reason": null
     },
     {
+      "id": 6888,
+      "date": "2026-02-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1251,
       "date": "2026-02-02",
       "pair_number": 3,
@@ -25212,6 +25300,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6872,
+      "date": "2026-02-03",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -29172,6 +29282,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6881,
+      "date": "2026-02-06",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -38439,6 +38571,28 @@
       "change_reason": null
     },
     {
+      "id": 6889,
+      "date": "2026-02-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1273,
       "date": "2026-02-16",
       "pair_number": 3,
@@ -39776,6 +39930,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6873,
+      "date": "2026-02-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -43736,6 +43912,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6882,
+      "date": "2026-02-20",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -53003,6 +53201,28 @@
       "change_reason": null
     },
     {
+      "id": 6890,
+      "date": "2026-03-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1295,
       "date": "2026-03-02",
       "pair_number": 3,
@@ -54340,6 +54560,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6874,
+      "date": "2026-03-03",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -58300,6 +58542,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6883,
+      "date": "2026-03-06",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -67567,6 +67831,28 @@
       "change_reason": null
     },
     {
+      "id": 6891,
+      "date": "2026-03-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1317,
       "date": "2026-03-16",
       "pair_number": 3,
@@ -68904,6 +69190,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6875,
+      "date": "2026-03-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -72864,6 +73172,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6884,
+      "date": "2026-03-20",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -82857,6 +83187,28 @@
       "change_reason": null
     },
     {
+      "id": 6876,
+      "date": "2026-03-31",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 4773,
       "date": "2026-03-31",
       "pair_number": 3,
@@ -86724,6 +87076,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6885,
+      "date": "2026-04-03",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -95991,6 +96365,28 @@
       "change_reason": null
     },
     {
+      "id": 6892,
+      "date": "2026-04-13",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1361,
       "date": "2026-04-13",
       "pair_number": 3,
@@ -97328,6 +97724,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6877,
+      "date": "2026-04-14",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -101288,6 +101706,28 @@
       "room": {
         "id": 40,
         "number": "306"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6886,
+      "date": "2026-04-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 83,
+        "name": "Вакант"
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -111914,6 +112354,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6878,
+      "date": "2026-04-28",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
@@ -131785,6 +132247,28 @@
       "change_reason": null
     },
     {
+      "id": 6893,
+      "date": "2026-05-25",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "room": {
+        "id": 2,
+        "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1418,
       "date": "2026-05-25",
       "pair_number": 3,
@@ -133122,6 +133606,28 @@
       "room": {
         "id": 2,
         "number": "17"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 6879,
+      "date": "2026-05-26",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "room": {
+        "id": 1,
+        "number": "5"
       },
       "notes": null,
       "change_reason": null
