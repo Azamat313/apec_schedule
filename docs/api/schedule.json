@@ -4545,7 +4545,7 @@
         "id": 48,
         "number": "314"
       },
-      "notes": null,
+      "notes": "",
       "change_reason": null
     },
     {
@@ -138851,44 +138851,6 @@
       "change_reason": null
     },
     {
-      "id": 8296,
-      "date": "2026-05-11",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8297,
-      "date": "2026-05-11",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8230,
       "date": "2026-05-12",
       "pair_number": 1,
@@ -138965,82 +138927,6 @@
       "teacher": {
         "id": 32,
         "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8298,
-      "date": "2026-05-13",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8299,
-      "date": "2026-05-13",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8300,
-      "date": "2026-05-15",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8301,
-      "date": "2026-05-15",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
       },
       "room": null,
       "notes": null,
@@ -155630,28 +155516,6 @@
       "change_reason": null
     },
     {
-      "id": 5738,
-      "date": "2026-06-01",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 5828,
       "date": "2026-06-01",
       "pair_number": 1,
@@ -163422,28 +163286,6 @@
       "change_reason": null
     },
     {
-      "id": 5739,
-      "date": "2026-06-08",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 5833,
       "date": "2026-06-08",
       "pair_number": 1,
@@ -164280,28 +164122,6 @@
       "change_reason": null
     },
     {
-      "id": 8114,
-      "date": "2026-06-08",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8311,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -164646,28 +164466,6 @@
       "room": {
         "id": 24,
         "number": "204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8124,
-      "date": "2026-06-08",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
       },
       "notes": null,
       "change_reason": null
@@ -167436,28 +167234,6 @@
       "change_reason": null
     },
     {
-      "id": 8136,
-      "date": "2026-06-10",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8313,
       "date": "2026-06-10",
       "pair_number": 3,
@@ -167802,28 +167578,6 @@
       "room": {
         "id": 33,
         "number": "213"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8138,
-      "date": "2026-06-10",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
       },
       "notes": null,
       "change_reason": null
@@ -170246,28 +170000,6 @@
       "change_reason": null
     },
     {
-      "id": 8192,
-      "date": "2026-06-12",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8315,
       "date": "2026-06-12",
       "pair_number": 3,
@@ -170283,7 +170015,7 @@
         "name": "Ихсанова Г."
       },
       "room": null,
-      "notes": null,
+      "notes": "",
       "change_reason": null
     },
     {
@@ -170617,28 +170349,6 @@
       "change_reason": null
     },
     {
-      "id": 8195,
-      "date": "2026-06-12",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8316,
       "date": "2026-06-12",
       "pair_number": 4,
@@ -170894,120 +170604,6 @@
       "change_reason": null
     },
     {
-      "id": 8317,
-      "date": "2026-06-17",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8318,
-      "date": "2026-06-17",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8319,
-      "date": "2026-06-19",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8320,
-      "date": "2026-06-19",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8321,
-      "date": "2026-06-22",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8322,
-      "date": "2026-06-22",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8246,
       "date": "2026-06-23",
       "pair_number": 1,
@@ -171084,82 +170680,6 @@
       "teacher": {
         "id": 32,
         "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8323,
-      "date": "2026-06-24",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8324,
-      "date": "2026-06-24",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8325,
-      "date": "2026-06-26",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8326,
-      "date": "2026-06-26",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 72,
-        "name": "ХТП 1-25б"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
       },
       "room": null,
       "notes": null,
