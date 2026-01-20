@@ -601,8 +601,10 @@ function loadSchedule() {
     }
     
     if (currentTeacherId) {
-        filteredSchedules = filteredSchedules.filter(s => 
-            s.teacher && s.teacher.id === currentTeacherId
+        // Фильтруем по основному преподавателю ИЛИ по заменяющему
+        filteredSchedules = filteredSchedules.filter(s =>
+            (s.teacher && s.teacher.id === currentTeacherId) ||
+            (s.substitute_teacher && s.substitute_teacher.id === currentTeacherId)
         );
     }
     
