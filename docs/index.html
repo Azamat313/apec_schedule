@@ -870,36 +870,47 @@ function displayDaySchedule(schedules, targetDate) {
     document.getElementById('scheduleContent').innerHTML = html;
 }
 
-// Отображение месячного расписания
+// Отображение месячного расписания (только рабочие дни пн-пт)
 function displayMonthSchedule(schedules, startDate, endDate) {
+    // Группируем по датам (только рабочие дни)
     const schedulesByDate = {};
     schedules.forEach(schedule => {
         const dateKey = schedule.date;
+        const dayOfWeek = new Date(dateKey).getDay();
+        // Пропускаем выходные (0 - воскресенье, 6 - суббота)
+        if (dayOfWeek === 0 || dayOfWeek === 6) return;
         if (!schedulesByDate[dateKey]) {
             schedulesByDate[dateKey] = [];
         }
         schedulesByDate[dateKey].push(schedule);
     });
-    
+
     let html = `
         <div class="card">
             <div class="card-body">
                 <div class="row g-2">`;
-    
+
     const currentDate = new Date(startDate);
     while (currentDate <= endDate) {
+        const isWeekend = currentDate.getDay() === 0 || currentDate.getDay() === 6;
+
+        // Пропускаем выходные дни
+        if (isWeekend) {
+            currentDate.setDate(currentDate.getDate() + 1);
+            continue;
+        }
+
         const dateKey = currentDate.toISOString().split('T')[0];
         const daySchedules = schedulesByDate[dateKey] || [];
-        const isWeekend = currentDate.getDay() === 0 || currentDate.getDay() === 6;
-        
+
         html += `
             <div class="col-md-6 col-lg-4">
-                <div class="card ${isWeekend ? 'bg-light' : ''}">
+                <div class="card">
                     <div class="card-header py-1">
                         <small><strong>${currentDate.toLocaleDateString('ru-RU', {weekday: 'short', day: '2-digit', month: '2-digit'})}</strong></small>
                     </div>
                     <div class="card-body py-2">`;
-        
+
         if (daySchedules.length > 0) {
             daySchedules.forEach(schedule => {
                 html += `
@@ -908,28 +919,28 @@ function displayMonthSchedule(schedules, startDate, endDate) {
                             <div class="discipline" style="font-size: 0.75rem;">${schedule.discipline}</div>
                             <span class="badge bg-${getStatusInfo(schedule.status).color}" style="font-size: 0.6rem;">${getStatusInfo(schedule.status).name}</span>
                         </div>`;
-                        
+
                 if (currentTeacherId && schedule.group) {
                     html += `<div class="teacher" style="font-size: 0.65rem;">гр. ${schedule.group.name}</div>`;
                 } else if (schedule.teacher) {
                     html += `<div class="teacher" style="font-size: 0.65rem;">${schedule.teacher.name}</div>`;
                 }
-                
+
                 html += `<div class="room" style="font-size: 0.65rem;">ауд. ${schedule.room ? schedule.room.number : '-'}</div>
                     </div>`;
             });
-        } else if (!isWeekend) {
+        } else {
             html += `<div class="text-muted" style="font-size: 0.75rem;">Нет занятий</div>`;
         }
-        
+
         html += `
                     </div>
                 </div>
             </div>`;
-        
+
         currentDate.setDate(currentDate.getDate() + 1);
     }
-    
+
     html += `</div></div></div>`;
     document.getElementById('scheduleContent').innerHTML = html;
 }

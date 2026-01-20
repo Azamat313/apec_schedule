@@ -19727,7 +19727,7 @@
       "id": 559,
       "date": "2026-01-27",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -19743,7 +19743,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 782,
@@ -20211,7 +20211,7 @@
       "id": 784,
       "date": "2026-01-28",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -20223,11 +20223,11 @@
         "name": "Тулегенова К."
       },
       "room": {
-        "id": 33,
-        "number": "213"
+        "id": 46,
+        "number": "312"
       },
-      "notes": null,
-      "change_reason": null
+      "notes": "",
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 4539,
@@ -20453,7 +20453,7 @@
       "id": 3470,
       "date": "2026-01-28",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -20469,7 +20469,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 3690,
@@ -22980,7 +22980,7 @@
       "id": 8161,
       "date": "2026-01-29",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -22996,7 +22996,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 5850,
@@ -23772,7 +23772,7 @@
       "id": 2549,
       "date": "2026-01-30",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -23788,7 +23788,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 5852,
@@ -24759,7 +24759,7 @@
       "id": 789,
       "date": "2026-01-30",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -24775,7 +24775,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Командировка Тулегенова К"
     },
     {
       "id": 1037,
