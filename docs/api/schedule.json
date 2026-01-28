@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T16:26:56.035570",
+  "generated_at": "2026-01-28T16:40:30.199877",
   "schedules": [
     {
       "id": 1,
@@ -22769,30 +22769,27 @@
       "change_reason": null
     },
     {
-      "id": 2278,
+      "id": 9610,
       "date": "2026-01-29",
       "pair_number": 1,
-      "status": "substitution",
-      "discipline": "Математика",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 36,
         "name": "ТДНГ 1-25"
       },
       "teacher": {
-        "id": 68,
-        "name": "Тулегенова К."
+        "id": 82,
+        "name": "Ибетова Г."
       },
-      "substitute_teacher": {
-        "id": 40,
-        "name": "Каламгали Т."
-      },
+      "substitute_teacher": null,
       "room": {
-        "id": 33,
-        "number": "213"
+        "id": 29,
+        "number": "209"
       },
       "notes": null,
-      "change_reason": "Командировка Тулегенова К"
+      "change_reason": null
     },
     {
       "id": 3252,
@@ -23140,30 +23137,27 @@
       "change_reason": null
     },
     {
-      "id": 7011,
+      "id": 9611,
       "date": "2026-01-29",
       "pair_number": 2,
-      "status": "substitution",
-      "discipline": "Математика",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 17,
         "name": "БНГС 1-25"
       },
       "teacher": {
-        "id": 68,
-        "name": "Тулегенова К."
+        "id": 82,
+        "name": "Ибетова Г."
       },
-      "substitute_teacher": {
-        "id": 40,
-        "name": "Каламгали Т."
-      },
+      "substitute_teacher": null,
       "room": {
-        "id": 33,
-        "number": "213"
+        "id": 29,
+        "number": "209"
       },
       "notes": null,
-      "change_reason": "Командировка Тулегенова К"
+      "change_reason": null
     },
     {
       "id": 2279,
@@ -23718,30 +23712,27 @@
       "change_reason": null
     },
     {
-      "id": 3692,
+      "id": 9612,
       "date": "2026-01-29",
       "pair_number": 3,
-      "status": "substitution",
-      "discipline": "Математика",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 68,
-        "name": "Тулегенова К."
+        "id": 82,
+        "name": "Ибетова Г."
       },
-      "substitute_teacher": {
-        "id": 40,
-        "name": "Каламгали Т."
-      },
+      "substitute_teacher": null,
       "room": {
-        "id": 33,
-        "number": "213"
+        "id": 29,
+        "number": "209"
       },
       "notes": null,
-      "change_reason": "Командировка Тулегенова К"
+      "change_reason": null
     },
     {
       "id": 3919,
