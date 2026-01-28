@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T20:33:32.971671",
+  "generated_at": "2026-01-28T16:26:56.035570",
   "schedules": [
     {
       "id": 1,
@@ -9024,29 +9024,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3898,
-      "date": "2026-01-19",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -26358,29 +26335,6 @@
       "change_reason": null
     },
     {
-      "id": 3925,
-      "date": "2026-02-02",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2798,
       "date": "2026-02-02",
       "pair_number": 1,
@@ -43660,29 +43614,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3952,
-      "date": "2026-02-16",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -60972,29 +60903,6 @@
       "change_reason": null
     },
     {
-      "id": 3979,
-      "date": "2026-03-02",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2844,
       "date": "2026-03-02",
       "pair_number": 1,
@@ -78187,29 +78095,6 @@
       "change_reason": null
     },
     {
-      "id": 4006,
-      "date": "2026-03-16",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2867,
       "date": "2026-03-16",
       "pair_number": 1,
@@ -94661,29 +94546,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4033,
-      "date": "2026-03-30",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -111945,29 +111807,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4060,
-      "date": "2026-04-13",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -129252,29 +129091,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4087,
-      "date": "2026-04-27",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -154694,29 +154510,6 @@
       "change_reason": null
     },
     {
-      "id": 4128,
-      "date": "2026-05-25",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2971,
       "date": "2026-05-25",
       "pair_number": 1,
@@ -170800,29 +170593,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4155,
-      "date": "2026-06-08",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
