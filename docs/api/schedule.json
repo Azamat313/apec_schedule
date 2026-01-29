@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T18:47:43.830615",
+  "generated_at": "2026-01-29T15:40:21.729565",
   "schedules": [
     {
       "id": 1,
@@ -24523,7 +24523,7 @@
       "id": 2548,
       "date": "2026-01-30",
       "pair_number": 1,
-      "status": "substitution",
+      "status": "cancelled",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -24543,7 +24543,7 @@
         "number": "213"
       },
       "notes": null,
-      "change_reason": "Командировка Тулегенова К"
+      "change_reason": "Болеет"
     },
     {
       "id": 5851,
