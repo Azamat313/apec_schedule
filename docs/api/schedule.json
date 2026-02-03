@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T16:06:01.594262",
+  "generated_at": "2026-02-03T18:58:27.164512",
   "schedules": [
     {
       "id": 1,
@@ -27555,7 +27555,7 @@
       "id": 9641,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.3 Осуществлять отладку программного кода программного обеспечения на уровне программных модулей",
       "lesson_type": "theory",
       "group": {
@@ -27566,13 +27566,16 @@
         "id": 41,
         "name": "Калмен С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9642,
@@ -28389,7 +28392,7 @@
       "id": 9657,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.3 Осуществлять отладку программного кода программного обеспечения на уровне программных модулей",
       "lesson_type": "theory",
       "group": {
@@ -28400,13 +28403,16 @@
         "id": 41,
         "name": "Калмен С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9658,
@@ -29591,7 +29597,7 @@
       "id": 9668,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 10.2 Разрабатывать мероприятия по снижению расхода материальных и энергетических ресурсов",
       "lesson_type": "theory",
       "group": {
@@ -29608,13 +29614,13 @@
         "number": "26"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "суранып кетти"
     },
     {
       "id": 9669,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
       "lesson_type": "theory",
       "group": {
@@ -29631,7 +29637,7 @@
         "number": "206"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "суранып кетти"
     },
     {
       "id": 9670,
@@ -31118,7 +31124,7 @@
       "id": 9681,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.3 Вести контроль состояния охраны труда и техники безопасности на производстве",
       "lesson_type": "theory",
       "group": {
@@ -31129,19 +31135,22 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 9688,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.3 Осуществлять отладку программного кода программного обеспечения на уровне программных модулей",
       "lesson_type": "theory",
       "group": {
@@ -31152,13 +31161,16 @@
         "id": 41,
         "name": "Калмен С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9689,
@@ -32786,7 +32798,7 @@
       "id": 9720,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.3 Осуществлять отладку программного кода программного обеспечения на уровне программных модулей",
       "lesson_type": "theory",
       "group": {
@@ -32797,13 +32809,16 @@
         "id": 41,
         "name": "Калмен С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9721,
@@ -37217,7 +37232,7 @@
       "id": 9783,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.3 Осуществлять отладку программного кода программного обеспечения на уровне программных модулей",
       "lesson_type": "theory",
       "group": {
@@ -37228,13 +37243,16 @@
         "id": 41,
         "name": "Калмен С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9784,
@@ -39336,7 +39354,7 @@
       "id": 3262,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -39347,13 +39365,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 8716,
@@ -40345,7 +40366,7 @@
       "id": 799,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -40356,13 +40377,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 1043,
@@ -45761,7 +45785,7 @@
       "id": 9903,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -45772,13 +45796,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9911,
