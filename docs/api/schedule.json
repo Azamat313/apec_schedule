@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T15:25:49.686172",
+  "generated_at": "2026-02-03T16:06:01.594262",
   "schedules": [
     {
       "id": 1,
@@ -32668,7 +32668,7 @@
       "id": 9719,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 8.1 Проводить анализ систем автоматического управления релейно-контактных схем управления технологическим оборудованием",
       "lesson_type": "theory",
       "group": {
@@ -32679,13 +32679,16 @@
         "id": 50,
         "name": "Омурсинова А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 1,
         "number": "5"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9709,
@@ -33519,7 +33522,7 @@
       "id": 11252,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.1 Осуществлять предмонтажную проверку инструмента, оборудования и приспособлений",
       "lesson_type": "theory",
       "group": {
@@ -33530,13 +33533,16 @@
         "id": 50,
         "name": "Омурсинова А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 1,
         "number": "5"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 11253,
