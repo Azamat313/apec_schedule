@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-03T19:04:43.415626",
+  "generated_at": "2026-02-03T19:55:05.302746",
   "schedules": [
     {
       "id": 1,
@@ -34920,6 +34920,26 @@
       "change_reason": null
     },
     {
+      "id": 16166,
+      "date": "2026-02-03",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 388,
       "date": "2026-02-04",
       "pair_number": 1,
@@ -55643,6 +55663,26 @@
       "change_reason": null
     },
     {
+      "id": 16172,
+      "date": "2026-02-10",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 41,
+        "name": "ХТП 2-22"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 10050,
       "date": "2026-02-10",
       "pair_number": 4,
@@ -56516,6 +56556,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16167,
+      "date": "2026-02-10",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -77215,6 +77275,26 @@
       "change_reason": null
     },
     {
+      "id": 16173,
+      "date": "2026-02-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 41,
+        "name": "ХТП 2-22"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 10368,
       "date": "2026-02-17",
       "pair_number": 4,
@@ -78062,6 +78142,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16168,
+      "date": "2026-02-17",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -98485,6 +98585,26 @@
       "change_reason": null
     },
     {
+      "id": 16174,
+      "date": "2026-02-24",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 41,
+        "name": "ХТП 2-22"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 10686,
       "date": "2026-02-24",
       "pair_number": 4,
@@ -99332,6 +99452,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16169,
+      "date": "2026-02-24",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -119824,6 +119964,26 @@
       "change_reason": null
     },
     {
+      "id": 16175,
+      "date": "2026-03-03",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 41,
+        "name": "ХТП 2-22"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 11004,
       "date": "2026-03-03",
       "pair_number": 4,
@@ -120671,6 +120831,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16170,
+      "date": "2026-03-03",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -138334,6 +138514,26 @@
       "change_reason": null
     },
     {
+      "id": 16176,
+      "date": "2026-03-10",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 41,
+        "name": "ХТП 2-22"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12517,
       "date": "2026-03-10",
       "pair_number": 4,
@@ -139181,6 +139381,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16171,
+      "date": "2026-03-10",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
+      "lesson_type": "theory",
+      "group": {
+        "id": 47,
+        "name": "ХТП 3-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
