@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T09:21:40.556012",
+  "generated_at": "2026-02-09T16:42:10.222497",
   "schedules": [
     {
       "id": 1,
@@ -26120,7 +26120,7 @@
       "id": 386,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26143,7 +26143,7 @@
       "id": 471,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26166,7 +26166,7 @@
       "id": 7086,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26189,7 +26189,7 @@
       "id": 8614,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26212,7 +26212,7 @@
       "id": 7179,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -26235,7 +26235,7 @@
       "id": 3477,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -26258,7 +26258,7 @@
       "id": 3697,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -26281,7 +26281,7 @@
       "id": 2798,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -26304,7 +26304,7 @@
       "id": 7467,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26327,7 +26327,7 @@
       "id": 6114,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26350,7 +26350,7 @@
       "id": 7577,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -26373,7 +26373,7 @@
       "id": 7670,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26396,7 +26396,7 @@
       "id": 4451,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26419,7 +26419,7 @@
       "id": 1038,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -26442,7 +26442,7 @@
       "id": 1249,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -26465,7 +26465,7 @@
       "id": 7835,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -26488,7 +26488,7 @@
       "id": 1855,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -26511,7 +26511,7 @@
       "id": 2057,
       "date": "2026-02-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -26905,7 +26905,7 @@
       "id": 387,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26928,7 +26928,7 @@
       "id": 472,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26951,7 +26951,7 @@
       "id": 7098,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26974,7 +26974,7 @@
       "id": 8615,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -26997,7 +26997,7 @@
       "id": 7191,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -27020,7 +27020,7 @@
       "id": 7254,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -27069,7 +27069,7 @@
       "id": 3922,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -27092,7 +27092,7 @@
       "id": 2550,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -27115,7 +27115,7 @@
       "id": 2799,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -27138,7 +27138,7 @@
       "id": 7477,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27161,7 +27161,7 @@
       "id": 6115,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27184,7 +27184,7 @@
       "id": 569,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -27207,7 +27207,7 @@
       "id": 4367,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27230,7 +27230,7 @@
       "id": 4452,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27253,7 +27253,7 @@
       "id": 7727,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -27276,7 +27276,7 @@
       "id": 1250,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -27299,7 +27299,7 @@
       "id": 1469,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -27322,7 +27322,7 @@
       "id": 1856,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -27345,7 +27345,7 @@
       "id": 2058,
       "date": "2026-02-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -27742,7 +27742,7 @@
       "id": 6898,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -27765,7 +27765,7 @@
       "id": 2284,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -27788,7 +27788,7 @@
       "id": 3257,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -27811,7 +27811,7 @@
       "id": 8712,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27834,7 +27834,7 @@
       "id": 8808,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27857,7 +27857,7 @@
       "id": 6512,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27880,7 +27880,7 @@
       "id": 6607,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27903,7 +27903,7 @@
       "id": 9094,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27926,7 +27926,7 @@
       "id": 9192,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27949,7 +27949,7 @@
       "id": 8097,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27972,7 +27972,7 @@
       "id": 9519,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -27995,7 +27995,7 @@
       "id": 2800,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -28018,7 +28018,7 @@
       "id": 3029,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -28041,7 +28041,7 @@
       "id": 7587,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -28064,7 +28064,7 @@
       "id": 7683,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -28087,7 +28087,7 @@
       "id": 6888,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -28110,7 +28110,7 @@
       "id": 1251,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -28133,7 +28133,7 @@
       "id": 1470,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -28156,7 +28156,7 @@
       "id": 7896,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -28179,7 +28179,7 @@
       "id": 2059,
       "date": "2026-02-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -28579,7 +28579,7 @@
       "id": 6928,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -28602,7 +28602,7 @@
       "id": 2285,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -28625,7 +28625,7 @@
       "id": 3258,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -28648,7 +28648,7 @@
       "id": 8713,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28671,7 +28671,7 @@
       "id": 8809,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28694,7 +28694,7 @@
       "id": 6513,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28717,7 +28717,7 @@
       "id": 6608,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28740,7 +28740,7 @@
       "id": 9095,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28763,7 +28763,7 @@
       "id": 9193,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28786,7 +28786,7 @@
       "id": 8116,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28809,7 +28809,7 @@
       "id": 9567,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -28832,7 +28832,7 @@
       "id": 2801,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -28855,7 +28855,7 @@
       "id": 3030,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -28878,7 +28878,7 @@
       "id": 792,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -28901,7 +28901,7 @@
       "id": 7741,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -28924,7 +28924,7 @@
       "id": 7845,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -28947,7 +28947,7 @@
       "id": 7907,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -28970,7 +28970,7 @@
       "id": 2060,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -29088,7 +29088,7 @@
       "id": 11212,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Осуществлять предмонтажную проверку инструмента, оборудования и приспособлений",
       "lesson_type": "theory",
       "group": {
@@ -29111,7 +29111,7 @@
       "id": 11213,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять последовательность и оптимальные способы монтажа приборов и электрических схем различных систем автоматики",
       "lesson_type": "theory",
       "group": {
@@ -29134,7 +29134,7 @@
       "id": 11214,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -29364,7 +29364,7 @@
       "id": 11215,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 3.2 Развивать навыки интегрирования графических элементов в разработке программного обеспечения, включая создание интерфейсов и визуализацию данных",
       "lesson_type": "theory",
       "group": {
@@ -29387,7 +29387,7 @@
       "id": 11216,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Выполнять диагностику, устранять неполадки и сбои аппаратного обеспечения средств вычислительной техники",
       "lesson_type": "theory",
       "group": {
@@ -29574,7 +29574,7 @@
       "id": 11211,
       "date": "2026-02-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -29712,7 +29712,7 @@
       "id": 11225,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять последовательность и оптимальные способы монтажа приборов и электрических схем различных систем автоматики",
       "lesson_type": "theory",
       "group": {
@@ -29735,7 +29735,7 @@
       "id": 11226,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -29758,7 +29758,7 @@
       "id": 11227,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Выполнять слесарные работы по монтажу контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -29850,7 +29850,7 @@
       "id": 11228,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять работоспособность компьютерных систем на уровне схемотехники",
       "lesson_type": "theory",
       "group": {
@@ -29873,7 +29873,7 @@
       "id": 11229,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 3.2 Развивать навыки интегрирования графических элементов в разработке программного обеспечения, включая создание интерфейсов и визуализацию данных",
       "lesson_type": "theory",
       "group": {
@@ -29942,7 +29942,7 @@
       "id": 11224,
       "date": "2026-02-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "theory",
       "group": {
@@ -30011,7 +30011,7 @@
       "id": 11238,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -30034,7 +30034,7 @@
       "id": 11239,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Выполнять слесарные работы по монтажу контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -30057,7 +30057,7 @@
       "id": 11240,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять последовательность и оптимальные способы монтажа приборов и электрических схем различных систем автоматики",
       "lesson_type": "theory",
       "group": {
@@ -30149,7 +30149,7 @@
       "id": 11241,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 3.1 Владеть навыками создания инженерных чертежей и схем",
       "lesson_type": "theory",
       "group": {
@@ -30172,7 +30172,7 @@
       "id": 11242,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять работоспособность компьютерных систем на уровне схемотехники",
       "lesson_type": "theory",
       "group": {
@@ -30241,7 +30241,7 @@
       "id": 11237,
       "date": "2026-02-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Разрабатывать и оптимизировать автоматизированные технологические процессы в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -30310,7 +30310,7 @@
       "id": 15436,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -30333,7 +30333,7 @@
       "id": 15453,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -30356,7 +30356,7 @@
       "id": 15470,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -30451,7 +30451,7 @@
       "id": 15487,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.7 Управлять внутренними и внешними устройствами персонального компьютера",
       "lesson_type": "practice",
       "group": {
@@ -30474,7 +30474,7 @@
       "id": 15504,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 3.1 Владеть навыками создания инженерных чертежей и схем",
       "lesson_type": "theory",
       "group": {
@@ -30543,7 +30543,7 @@
       "id": 15430,
       "date": "2026-02-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Выбирать и использовать конструкционные материалы в химическом аппаратостроении",
       "lesson_type": "theory",
       "group": {
@@ -30566,7 +30566,7 @@
       "id": 2286,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -30589,7 +30589,7 @@
       "id": 6210,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30612,7 +30612,7 @@
       "id": 9390,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30635,7 +30635,7 @@
       "id": 7284,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -30658,7 +30658,7 @@
       "id": 3698,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -30681,7 +30681,7 @@
       "id": 3926,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -30704,7 +30704,7 @@
       "id": 2553,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -30727,7 +30727,7 @@
       "id": 2802,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -30750,7 +30750,7 @@
       "id": 6040,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30773,7 +30773,7 @@
       "id": 8900,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30796,7 +30796,7 @@
       "id": 8998,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30819,7 +30819,7 @@
       "id": 1040,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -30842,7 +30842,7 @@
       "id": 7774,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -30865,7 +30865,7 @@
       "id": 4927,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30888,7 +30888,7 @@
       "id": 5023,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30911,7 +30911,7 @@
       "id": 5118,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -30934,7 +30934,7 @@
       "id": 5215,
       "date": "2026-02-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31337,7 +31337,7 @@
       "id": 6939,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -31360,7 +31360,7 @@
       "id": 7117,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -31383,7 +31383,7 @@
       "id": 6211,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31406,7 +31406,7 @@
       "id": 9391,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31429,7 +31429,7 @@
       "id": 3478,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -31452,7 +31452,7 @@
       "id": 7346,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -31475,7 +31475,7 @@
       "id": 3927,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -31498,7 +31498,7 @@
       "id": 2554,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -31521,7 +31521,7 @@
       "id": 2803,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -31544,7 +31544,7 @@
       "id": 6041,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31567,7 +31567,7 @@
       "id": 8901,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31590,7 +31590,7 @@
       "id": 8999,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31613,7 +31613,7 @@
       "id": 795,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -31636,7 +31636,7 @@
       "id": 1039,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -31659,7 +31659,7 @@
       "id": 1252,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -31682,7 +31682,7 @@
       "id": 4928,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31705,7 +31705,7 @@
       "id": 5024,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31728,7 +31728,7 @@
       "id": 5119,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31751,7 +31751,7 @@
       "id": 5216,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -31774,7 +31774,7 @@
       "id": 2061,
       "date": "2026-02-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -32171,7 +32171,7 @@
       "id": 6959,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -32194,7 +32194,7 @@
       "id": 2287,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -32217,7 +32217,7 @@
       "id": 3259,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -32240,7 +32240,7 @@
       "id": 8714,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32263,7 +32263,7 @@
       "id": 8810,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32286,7 +32286,7 @@
       "id": 3699,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -32309,7 +32309,7 @@
       "id": 8049,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -32332,7 +32332,7 @@
       "id": 2555,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -32355,7 +32355,7 @@
       "id": 5853,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32378,7 +32378,7 @@
       "id": 9292,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32401,7 +32401,7 @@
       "id": 8202,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32424,7 +32424,7 @@
       "id": 571,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -32447,7 +32447,7 @@
       "id": 796,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -32470,7 +32470,7 @@
       "id": 6872,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -32493,7 +32493,7 @@
       "id": 4733,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32516,7 +32516,7 @@
       "id": 4829,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32539,7 +32539,7 @@
       "id": 1471,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -32562,7 +32562,7 @@
       "id": 1857,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -32585,7 +32585,7 @@
       "id": 5313,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -32608,7 +32608,7 @@
       "id": 5409,
       "date": "2026-02-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33008,7 +33008,7 @@
       "id": 6978,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -33031,7 +33031,7 @@
       "id": 2288,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -33054,7 +33054,7 @@
       "id": 7207,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -33077,7 +33077,7 @@
       "id": 8715,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33100,7 +33100,7 @@
       "id": 8811,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33123,7 +33123,7 @@
       "id": 3700,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -33146,7 +33146,7 @@
       "id": 3928,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -33169,7 +33169,7 @@
       "id": 5854,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33192,7 +33192,7 @@
       "id": 9293,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33215,7 +33215,7 @@
       "id": 8203,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33238,7 +33238,7 @@
       "id": 572,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -33261,7 +33261,7 @@
       "id": 797,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -33284,7 +33284,7 @@
       "id": 7753,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -33307,7 +33307,7 @@
       "id": 4734,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33330,7 +33330,7 @@
       "id": 4830,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33353,7 +33353,7 @@
       "id": 1472,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -33376,7 +33376,7 @@
       "id": 1858,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -33399,7 +33399,7 @@
       "id": 5314,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33422,7 +33422,7 @@
       "id": 5410,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -33537,7 +33537,7 @@
       "id": 11251,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -33586,7 +33586,7 @@
       "id": 11253,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -33813,7 +33813,7 @@
       "id": 11254,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Соблюдать требования и нормы охраны труда и техники безопасности, промышленной и экологической безопасности. на предприятиях информационного обслуживания",
       "lesson_type": "theory",
       "group": {
@@ -33836,7 +33836,7 @@
       "id": 11255,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.5 Восстанавливать оборудование после аппаратных и программных сбоев и предотвращать их",
       "lesson_type": "practice",
       "group": {
@@ -34020,7 +34020,7 @@
       "id": 11250,
       "date": "2026-02-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -34135,7 +34135,7 @@
       "id": 11264,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Выполнять слесарные работы по монтажу контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34158,7 +34158,7 @@
       "id": 11265,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34181,7 +34181,7 @@
       "id": 11266,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Выполнять монтаж контрольно-измерительных приборов средней сложности и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34273,7 +34273,7 @@
       "id": 11267,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.5 Восстанавливать оборудование после аппаратных и программных сбоев и предотвращать их",
       "lesson_type": "practice",
       "group": {
@@ -34296,7 +34296,7 @@
       "id": 11268,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Осуществлять эксплуатацию и контроль за работой компьютеров и периферийных устройств",
       "lesson_type": "theory",
       "group": {
@@ -34365,7 +34365,7 @@
       "id": 11263,
       "date": "2026-02-03",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -34434,7 +34434,7 @@
       "id": 11277,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Выполнять монтаж контрольно-измерительных приборов средней сложности и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34457,7 +34457,7 @@
       "id": 11278,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -34480,7 +34480,7 @@
       "id": 11279,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34575,7 +34575,7 @@
       "id": 11280,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -34598,7 +34598,7 @@
       "id": 11281,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Восстанавливать оборудование после аппаратных и программных сбоев и предотвращать их",
       "lesson_type": "theory",
       "group": {
@@ -34667,7 +34667,7 @@
       "id": 11276,
       "date": "2026-02-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
       "lesson_type": "theory",
       "group": {
@@ -34733,7 +34733,7 @@
       "id": 15593,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -34756,7 +34756,7 @@
       "id": 15612,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Выполнять монтаж контрольно-измерительных приборов средней сложности и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -34779,7 +34779,7 @@
       "id": 15630,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -34874,7 +34874,7 @@
       "id": 15648,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Восстанавливать оборудование после аппаратных и программных сбоев и предотвращать их",
       "lesson_type": "theory",
       "group": {
@@ -34897,7 +34897,7 @@
       "id": 15666,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.7 Управлять внутренними и внешними устройствами персонального компьютера",
       "lesson_type": "practice",
       "group": {
@@ -34966,7 +34966,7 @@
       "id": 16166,
       "date": "2026-02-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
       "lesson_type": "theory",
       "group": {
@@ -34986,7 +34986,7 @@
       "id": 388,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35009,7 +35009,7 @@
       "id": 473,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35032,7 +35032,7 @@
       "id": 7127,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -35055,7 +35055,7 @@
       "id": 7217,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -35078,7 +35078,7 @@
       "id": 3480,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -35101,7 +35101,7 @@
       "id": 7356,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -35124,7 +35124,7 @@
       "id": 9096,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35147,7 +35147,7 @@
       "id": 9194,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35170,7 +35170,7 @@
       "id": 2556,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -35193,7 +35193,7 @@
       "id": 2805,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -35216,7 +35216,7 @@
       "id": 3032,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -35239,7 +35239,7 @@
       "id": 8902,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35262,7 +35262,7 @@
       "id": 9000,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35285,7 +35285,7 @@
       "id": 7693,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -35308,7 +35308,7 @@
       "id": 4543,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35331,7 +35331,7 @@
       "id": 4635,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35354,7 +35354,7 @@
       "id": 1253,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -35377,7 +35377,7 @@
       "id": 1474,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -35400,7 +35400,7 @@
       "id": 7921,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -35423,7 +35423,7 @@
       "id": 2062,
       "date": "2026-02-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -35817,7 +35817,7 @@
       "id": 389,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35840,7 +35840,7 @@
       "id": 474,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35863,7 +35863,7 @@
       "id": 2290,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -35886,7 +35886,7 @@
       "id": 3260,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -35909,7 +35909,7 @@
       "id": 3481,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -35932,7 +35932,7 @@
       "id": 3701,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -35955,7 +35955,7 @@
       "id": 9097,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -35978,7 +35978,7 @@
       "id": 9195,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36001,7 +36001,7 @@
       "id": 8126,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -36024,7 +36024,7 @@
       "id": 2804,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -36047,7 +36047,7 @@
       "id": 7531,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -36070,7 +36070,7 @@
       "id": 8903,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36093,7 +36093,7 @@
       "id": 9001,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36116,7 +36116,7 @@
       "id": 798,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -36139,7 +36139,7 @@
       "id": 4544,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36162,7 +36162,7 @@
       "id": 4636,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36185,7 +36185,7 @@
       "id": 1254,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -36208,7 +36208,7 @@
       "id": 1473,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -36231,7 +36231,7 @@
       "id": 1859,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -36254,7 +36254,7 @@
       "id": 2063,
       "date": "2026-02-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -36648,7 +36648,7 @@
       "id": 6990,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -36671,7 +36671,7 @@
       "id": 5502,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36694,7 +36694,7 @@
       "id": 8616,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36717,7 +36717,7 @@
       "id": 3261,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -36740,7 +36740,7 @@
       "id": 3479,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -36763,7 +36763,7 @@
       "id": 6514,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36786,7 +36786,7 @@
       "id": 6609,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36809,7 +36809,7 @@
       "id": 3929,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -36832,7 +36832,7 @@
       "id": 5676,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36855,7 +36855,7 @@
       "id": 9520,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36878,7 +36878,7 @@
       "id": 7409,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -36901,7 +36901,7 @@
       "id": 7541,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -36924,7 +36924,7 @@
       "id": 573,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -36947,7 +36947,7 @@
       "id": 4368,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36970,7 +36970,7 @@
       "id": 4453,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -36993,7 +36993,7 @@
       "id": 1041,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -37016,7 +37016,7 @@
       "id": 1255,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -37039,7 +37039,7 @@
       "id": 12174,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -37062,7 +37062,7 @@
       "id": 1860,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -37085,7 +37085,7 @@
       "id": 7980,
       "date": "2026-02-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -37482,7 +37482,7 @@
       "id": 1686,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -37505,7 +37505,7 @@
       "id": 5503,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37528,7 +37528,7 @@
       "id": 8617,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37551,7 +37551,7 @@
       "id": 3482,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -37574,7 +37574,7 @@
       "id": 6515,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37597,7 +37597,7 @@
       "id": 6610,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37620,7 +37620,7 @@
       "id": 3930,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -37643,7 +37643,7 @@
       "id": 5677,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37666,7 +37666,7 @@
       "id": 9568,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37689,7 +37689,7 @@
       "id": 3031,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -37712,7 +37712,7 @@
       "id": 574,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -37735,7 +37735,7 @@
       "id": 4369,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37758,7 +37758,7 @@
       "id": 4454,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -37781,7 +37781,7 @@
       "id": 12176,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -37804,7 +37804,7 @@
       "id": 7931,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -37827,7 +37827,7 @@
       "id": 7990,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -37945,7 +37945,7 @@
       "id": 11290,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -37968,7 +37968,7 @@
       "id": 11291,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -37991,7 +37991,7 @@
       "id": 11292,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -38218,7 +38218,7 @@
       "id": 11293,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Выполнять диагностику, устранять неполадки и сбои аппаратного обеспечения средств вычислительной техники",
       "lesson_type": "theory",
       "group": {
@@ -38241,7 +38241,7 @@
       "id": 11294,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Устанавливать операционные системы на персональных компьютерах, серверах и производить настройку интерфейса пользователя",
       "lesson_type": "theory",
       "group": {
@@ -38425,7 +38425,7 @@
       "id": 11289,
       "date": "2026-02-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Проводить визуальный осмотр исправности оборудования и коммуникаций",
       "lesson_type": "theory",
       "group": {
@@ -38566,7 +38566,7 @@
       "id": 11303,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -38589,7 +38589,7 @@
       "id": 11304,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -38612,7 +38612,7 @@
       "id": 11305,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -38701,7 +38701,7 @@
       "id": 11306,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.6 Заменять расходные материалы, используемые в средствах вычислительной техники и оргтехники",
       "lesson_type": "theory",
       "group": {
@@ -38724,7 +38724,7 @@
       "id": 11307,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1 Соблюдать правила техники безопасности при работе с персональным компьютером",
       "lesson_type": "theory",
       "group": {
@@ -38793,7 +38793,7 @@
       "id": 11302,
       "date": "2026-02-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.6 Выполнять процедуры отключения аварийной остановки технологического процесса",
       "lesson_type": "theory",
       "group": {
@@ -38862,7 +38862,7 @@
       "id": 11316,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -38885,7 +38885,7 @@
       "id": 11317,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -38908,7 +38908,7 @@
       "id": 11318,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -38997,7 +38997,7 @@
       "id": 11319,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -39020,7 +39020,7 @@
       "id": 11320,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.2 Определять работоспособность компьютерных систем на уровне схемотехники",
       "lesson_type": "theory",
       "group": {
@@ -39092,7 +39092,7 @@
       "id": 11315,
       "date": "2026-02-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "theory",
       "group": {
@@ -39161,7 +39161,7 @@
       "id": 15804,
       "date": "2026-02-04",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -39184,7 +39184,7 @@
       "id": 15823,
       "date": "2026-02-04",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -39276,7 +39276,7 @@
       "id": 15842,
       "date": "2026-02-04",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Устанавливать операционные системы на персональных компьютерах, серверах и производить настройку интерфейса пользователя",
       "lesson_type": "theory",
       "group": {
@@ -39371,7 +39371,7 @@
       "id": 15786,
       "date": "2026-02-04",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Приготавливать смеси и растворы в соответствии с рецептурой",
       "lesson_type": "theory",
       "group": {
@@ -39394,7 +39394,7 @@
       "id": 6899,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -39417,7 +39417,7 @@
       "id": 2291,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -39466,7 +39466,7 @@
       "id": 8716,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39489,7 +39489,7 @@
       "id": 8812,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39512,7 +39512,7 @@
       "id": 3702,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -39535,7 +39535,7 @@
       "id": 8069,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -39558,7 +39558,7 @@
       "id": 2558,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -39581,7 +39581,7 @@
       "id": 2806,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -39604,7 +39604,7 @@
       "id": 6042,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39627,7 +39627,7 @@
       "id": 6118,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39650,7 +39650,7 @@
       "id": 7619,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -39673,7 +39673,7 @@
       "id": 1044,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -39696,7 +39696,7 @@
       "id": 4735,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39719,7 +39719,7 @@
       "id": 4831,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39742,7 +39742,7 @@
       "id": 12175,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -39765,7 +39765,7 @@
       "id": 5120,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -39788,7 +39788,7 @@
       "id": 5217,
       "date": "2026-02-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40176,7 +40176,7 @@
       "id": 7012,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -40199,7 +40199,7 @@
       "id": 2292,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -40222,7 +40222,7 @@
       "id": 3263,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -40245,7 +40245,7 @@
       "id": 8717,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40268,7 +40268,7 @@
       "id": 8813,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40291,7 +40291,7 @@
       "id": 3704,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -40314,7 +40314,7 @@
       "id": 3932,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -40337,7 +40337,7 @@
       "id": 8142,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -40360,7 +40360,7 @@
       "id": 7419,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -40383,7 +40383,7 @@
       "id": 6043,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40406,7 +40406,7 @@
       "id": 6119,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40429,7 +40429,7 @@
       "id": 7629,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -40478,7 +40478,7 @@
       "id": 1043,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -40501,7 +40501,7 @@
       "id": 4736,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40524,7 +40524,7 @@
       "id": 4832,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40547,7 +40547,7 @@
       "id": 1476,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -40570,7 +40570,7 @@
       "id": 5121,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40593,7 +40593,7 @@
       "id": 5218,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -40616,7 +40616,7 @@
       "id": 2064,
       "date": "2026-02-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -41007,7 +41007,7 @@
       "id": 1689,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -41030,7 +41030,7 @@
       "id": 2293,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -41053,7 +41053,7 @@
       "id": 6212,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41076,7 +41076,7 @@
       "id": 9392,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41099,7 +41099,7 @@
       "id": 3483,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -41122,7 +41122,7 @@
       "id": 3703,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -41145,7 +41145,7 @@
       "id": 3933,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -41168,7 +41168,7 @@
       "id": 2559,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -41191,7 +41191,7 @@
       "id": 5855,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41214,7 +41214,7 @@
       "id": 9294,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41237,7 +41237,7 @@
       "id": 3033,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -41260,7 +41260,7 @@
       "id": 575,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -41283,7 +41283,7 @@
       "id": 801,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -41306,7 +41306,7 @@
       "id": 1042,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -41329,7 +41329,7 @@
       "id": 1257,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -41352,7 +41352,7 @@
       "id": 4929,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41375,7 +41375,7 @@
       "id": 5025,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41398,7 +41398,7 @@
       "id": 1861,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -41421,7 +41421,7 @@
       "id": 5315,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41444,7 +41444,7 @@
       "id": 5411,
       "date": "2026-02-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41835,7 +41835,7 @@
       "id": 7032,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -41858,7 +41858,7 @@
       "id": 6213,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41881,7 +41881,7 @@
       "id": 9393,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41904,7 +41904,7 @@
       "id": 3931,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -41927,7 +41927,7 @@
       "id": 8162,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -41950,7 +41950,7 @@
       "id": 5856,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41973,7 +41973,7 @@
       "id": 9295,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -41996,7 +41996,7 @@
       "id": 3034,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -42019,7 +42019,7 @@
       "id": 800,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -42042,7 +42042,7 @@
       "id": 1045,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -42065,7 +42065,7 @@
       "id": 1256,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -42088,7 +42088,7 @@
       "id": 4930,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -42111,7 +42111,7 @@
       "id": 5026,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -42134,7 +42134,7 @@
       "id": 5316,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -42157,7 +42157,7 @@
       "id": 5412,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -42272,7 +42272,7 @@
       "id": 11329,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -42295,7 +42295,7 @@
       "id": 11330,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -42318,7 +42318,7 @@
       "id": 11331,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Осуществлять предмонтажную проверку инструмента, оборудования и приспособлений",
       "lesson_type": "theory",
       "group": {
@@ -42545,7 +42545,7 @@
       "id": 11332,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -42568,7 +42568,7 @@
       "id": 11333,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Соблюдать требования и нормы охраны труда и техники безопасности, промышленной и экологической безопасности. на предприятиях информационного обслуживания",
       "lesson_type": "theory",
       "group": {
@@ -42726,7 +42726,7 @@
       "id": 11328,
       "date": "2026-02-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -42864,7 +42864,7 @@
       "id": 11342,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -42887,7 +42887,7 @@
       "id": 11343,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -42910,7 +42910,7 @@
       "id": 11344,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -42999,7 +42999,7 @@
       "id": 11345,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Осуществлять эксплуатацию и контроль за работой компьютеров и периферийных устройств",
       "lesson_type": "theory",
       "group": {
@@ -43022,7 +43022,7 @@
       "id": 11346,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.6 Заменять расходные материалы, используемые в средствах вычислительной техники и оргтехники",
       "lesson_type": "theory",
       "group": {
@@ -43091,7 +43091,7 @@
       "id": 11341,
       "date": "2026-02-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.2 Проводить визуальный осмотр исправности оборудования и коммуникаций",
       "lesson_type": "practice",
       "group": {
@@ -43160,7 +43160,7 @@
       "id": 11355,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -43183,7 +43183,7 @@
       "id": 11356,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -43206,7 +43206,7 @@
       "id": 11357,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -43295,7 +43295,7 @@
       "id": 11358,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -43318,7 +43318,7 @@
       "id": 11359,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -43387,7 +43387,7 @@
       "id": 11354,
       "date": "2026-02-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.4 Соблюдать правила личной гигиены и использования средств индивидуальной защиты в производственных условиях",
       "lesson_type": "theory",
       "group": {
@@ -43453,7 +43453,7 @@
       "id": 15984,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -43476,7 +43476,7 @@
       "id": 16001,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -43499,7 +43499,7 @@
       "id": 16013,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -43588,7 +43588,7 @@
       "id": 16021,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "theory",
       "group": {
@@ -43611,7 +43611,7 @@
       "id": 16033,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -43680,7 +43680,7 @@
       "id": 15966,
       "date": "2026-02-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1 Подготавливать сырье к подаче в производство",
       "lesson_type": "theory",
       "group": {
@@ -43703,7 +43703,7 @@
       "id": 390,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43726,7 +43726,7 @@
       "id": 475,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43749,7 +43749,7 @@
       "id": 3484,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -43772,7 +43772,7 @@
       "id": 7370,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -43795,7 +43795,7 @@
       "id": 3934,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -43818,7 +43818,7 @@
       "id": 2560,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -43841,7 +43841,7 @@
       "id": 7435,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -43864,7 +43864,7 @@
       "id": 7557,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -43887,7 +43887,7 @@
       "id": 7639,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -43910,7 +43910,7 @@
       "id": 4370,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43933,7 +43933,7 @@
       "id": 4455,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43956,7 +43956,7 @@
       "id": 4545,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43979,7 +43979,7 @@
       "id": 4637,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -43999,19 +43999,19 @@
       "change_reason": null
     },
     {
-      "id": 7792,
+      "id": 16213,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
-      "discipline": "Информатика",
+      "status": "done",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -44025,7 +44025,7 @@
       "id": 1477,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -44048,7 +44048,7 @@
       "id": 7946,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -44071,7 +44071,7 @@
       "id": 8006,
       "date": "2026-02-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -44462,7 +44462,7 @@
       "id": 6846,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44485,7 +44485,7 @@
       "id": 6856,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44508,7 +44508,7 @@
       "id": 7154,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -44531,7 +44531,7 @@
       "id": 7235,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -44554,7 +44554,7 @@
       "id": 7302,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -44603,7 +44603,7 @@
       "id": 8079,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -44626,7 +44626,7 @@
       "id": 8181,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -44649,7 +44649,7 @@
       "id": 7446,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -44672,7 +44672,7 @@
       "id": 576,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -44695,7 +44695,7 @@
       "id": 4371,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44718,7 +44718,7 @@
       "id": 4456,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44741,7 +44741,7 @@
       "id": 4546,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44764,7 +44764,7 @@
       "id": 4638,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -44784,24 +44784,24 @@
       "change_reason": null
     },
     {
-      "id": 7804,
+      "id": 7792,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
-      "discipline": "Химия",
+      "status": "done",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -44810,7 +44810,7 @@
       "id": 12177,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -44833,7 +44833,7 @@
       "id": 1862,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -44856,7 +44856,7 @@
       "id": 8017,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -44879,7 +44879,7 @@
       "id": 7567,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -44994,7 +44994,7 @@
       "id": 9884,
       "date": "2026-02-06",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 10.1 Организовать работы при осложненных условиях",
       "lesson_type": "theory",
       "group": {
@@ -45005,13 +45005,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 75,
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9885,
@@ -45267,7 +45270,7 @@
       "id": 1690,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -45290,7 +45293,7 @@
       "id": 5504,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45313,7 +45316,7 @@
       "id": 8618,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45336,7 +45339,7 @@
       "id": 3265,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -45359,7 +45362,7 @@
       "id": 7312,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -45382,7 +45385,7 @@
       "id": 6516,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45405,7 +45408,7 @@
       "id": 6611,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45428,7 +45431,7 @@
       "id": 9098,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45451,7 +45454,7 @@
       "id": 9196,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45474,7 +45477,7 @@
       "id": 5678,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45497,7 +45500,7 @@
       "id": 9521,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -45520,7 +45523,7 @@
       "id": 2808,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -45543,7 +45546,7 @@
       "id": 3035,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -45566,7 +45569,7 @@
       "id": 577,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -45589,7 +45592,7 @@
       "id": 7707,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -45612,7 +45615,7 @@
       "id": 6881,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -45635,7 +45638,7 @@
       "id": 7815,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -45658,7 +45661,7 @@
       "id": 7874,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -45681,7 +45684,7 @@
       "id": 7956,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -45704,7 +45707,7 @@
       "id": 2066,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -45819,7 +45822,7 @@
       "id": 9900,
       "date": "2026-02-06",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 10.1 Организовать работы при осложненных условиях",
       "lesson_type": "theory",
       "group": {
@@ -45830,13 +45833,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 75,
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9901,
@@ -46101,7 +46107,7 @@
       "id": 5505,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46124,7 +46130,7 @@
       "id": 8619,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46147,7 +46153,7 @@
       "id": 3264,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -46170,7 +46176,7 @@
       "id": 7322,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -46193,7 +46199,7 @@
       "id": 6517,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46216,7 +46222,7 @@
       "id": 6612,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46239,7 +46245,7 @@
       "id": 9099,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46262,7 +46268,7 @@
       "id": 9197,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46285,7 +46291,7 @@
       "id": 5679,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46308,7 +46314,7 @@
       "id": 9569,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -46331,7 +46337,7 @@
       "id": 7457,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -46354,7 +46360,7 @@
       "id": 3036,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -46377,7 +46383,7 @@
       "id": 7660,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -46400,7 +46406,7 @@
       "id": 7717,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -46423,7 +46429,7 @@
       "id": 7825,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -46446,7 +46452,7 @@
       "id": 7885,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -46587,7 +46593,7 @@
       "id": 11368,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -46610,7 +46616,7 @@
       "id": 11369,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -46633,7 +46639,7 @@
       "id": 11370,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -46794,7 +46800,7 @@
       "id": 9917,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 10.5 Принимать оперативные решения",
       "lesson_type": "theory",
       "group": {
@@ -46811,13 +46817,13 @@
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 9918,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 9.5 Вести контроль состояния охраны окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -46831,13 +46837,13 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 9919,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "cancelled",
+      "status": "substitution",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -46848,7 +46854,10 @@
         "id": 60,
         "name": "Сулеймен Ж."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 9,
         "number": "25"
@@ -46860,7 +46869,7 @@
       "id": 11371,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -47044,7 +47053,7 @@
       "id": 11367,
       "date": "2026-02-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.6 Выполнять процедуры отключения аварийной остановки технологического процесса",
       "lesson_type": "practice",
       "group": {
@@ -47182,7 +47191,7 @@
       "id": 11380,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -47205,7 +47214,7 @@
       "id": 11381,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -47228,7 +47237,7 @@
       "id": 11382,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -47294,7 +47303,7 @@
       "id": 11374,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -47305,19 +47314,22 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 75,
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 11383,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -47340,7 +47352,7 @@
       "id": 11384,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "theory",
       "group": {
@@ -47409,7 +47421,7 @@
       "id": 11379,
       "date": "2026-02-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "theory",
       "group": {
@@ -47478,7 +47490,7 @@
       "id": 11393,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -47501,7 +47513,7 @@
       "id": 11394,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -47524,7 +47536,7 @@
       "id": 11395,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -47613,7 +47625,7 @@
       "id": 11396,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "theory",
       "group": {
@@ -47636,7 +47648,7 @@
       "id": 11397,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -47705,7 +47717,7 @@
       "id": 11392,
       "date": "2026-02-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "practice",
       "group": {
@@ -47771,7 +47783,7 @@
       "id": 16117,
       "date": "2026-02-06",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -47794,7 +47806,7 @@
       "id": 16129,
       "date": "2026-02-06",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -47883,7 +47895,7 @@
       "id": 16148,
       "date": "2026-02-06",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "theory",
       "group": {
@@ -47946,7 +47958,7 @@
       "id": 16099,
       "date": "2026-02-06",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
       "lesson_type": "practice",
       "group": {
@@ -48314,7 +48326,7 @@
       "id": 1863,
       "date": "2026-02-09",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -48325,13 +48337,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болеет"
     },
     {
       "id": 2067,
@@ -49142,7 +49157,7 @@
       "id": 2068,
       "date": "2026-02-09",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -49153,13 +49168,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болеет"
     },
     {
       "id": 9952,
@@ -49878,7 +49896,7 @@
       "id": 1260,
       "date": "2026-02-09",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -49889,13 +49907,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болеет"
     },
     {
       "id": 1480,
@@ -50706,7 +50727,7 @@
       "id": 16177,
       "date": "2026-02-09",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -50717,13 +50738,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болеет"
     },
     {
       "id": 5123,
@@ -51028,7 +51052,7 @@
       "id": 11399,
       "date": "2026-02-09",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "theory",
       "group": {
@@ -51045,7 +51069,7 @@
         "number": "203"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 11400,
@@ -51531,24 +51555,24 @@
       "change_reason": null
     },
     {
-      "id": 11420,
+      "id": 16229,
       "date": "2026-02-09",
       "pair_number": 5,
       "status": "planned",
-      "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
+      "lesson_type": "practice",
       "group": {
         "id": 7,
         "name": "АиУ 2-24"
       },
       "teacher": {
-        "id": 16,
-        "name": "Бексултан А."
+        "id": 55,
+        "name": "Сагындыккызы Д."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 26,
-        "number": "206"
+        "id": 66,
+        "number": "П10-202"
       },
       "notes": null,
       "change_reason": null
@@ -51603,7 +51627,7 @@
       "id": 11412,
       "date": "2026-02-09",
       "pair_number": 5,
-      "status": "done",
+      "status": "planned",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -51810,7 +51834,7 @@
       "id": 11432,
       "date": "2026-02-09",
       "pair_number": 6,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -51827,7 +51851,7 @@
         "number": "206"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 11433,
@@ -51902,7 +51926,7 @@
       "id": 11425,
       "date": "2026-02-09",
       "pair_number": 6,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 6.1 Участвовать в проведений геолого-технических и геофизических мероприятий на месторождениях",
       "lesson_type": "theory",
       "group": {
@@ -52132,7 +52156,7 @@
       "id": 15471,
       "date": "2026-02-09",
       "pair_number": 7,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 1.3 Производить монтаж приборов, пневматических и электрических схем и систем автоматики, щитов и пультов с соблюдением требований охраны труда, промышленной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -52149,7 +52173,7 @@
         "number": "206"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 15344,
@@ -52178,7 +52202,7 @@
       "id": 15356,
       "date": "2026-02-09",
       "pair_number": 7,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "theory",
       "group": {
@@ -52316,7 +52340,7 @@
       "id": 15431,
       "date": "2026-02-09",
       "pair_number": 7,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 6.2 Выбирать и использовать конструкционные материалы в химическом аппаратостроении",
       "lesson_type": "theory",
       "group": {
@@ -52333,7 +52357,7 @@
         "number": "209"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 2299,
@@ -54228,7 +54252,7 @@
       "id": 1050,
       "date": "2026-02-10",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -54239,13 +54263,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Болеет"
     },
     {
       "id": 4737,
@@ -55447,7 +55474,7 @@
       "id": 11438,
       "date": "2026-02-10",
       "pair_number": 4,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 6.2 Владеть навыками проведения комплексной оценки геологических рисков и перспектив добычи",
       "lesson_type": "theory",
       "group": {
@@ -56016,7 +56043,7 @@
       "id": 11451,
       "date": "2026-02-10",
       "pair_number": 5,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -56315,7 +56342,7 @@
       "id": 11464,
       "date": "2026-02-10",
       "pair_number": 6,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.1 Проводить анализ физико-химических свойств горных пород",
       "lesson_type": "theory",
       "group": {
@@ -56476,25 +56503,22 @@
       "change_reason": null
     },
     {
-      "id": 15558,
+      "id": 16222,
       "date": "2026-02-10",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -56614,7 +56638,7 @@
       "id": 15534,
       "date": "2026-02-10",
       "pair_number": 7,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -56729,7 +56753,7 @@
       "id": 15588,
       "date": "2026-02-10",
       "pair_number": 7,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 6.2 Выбирать и использовать конструкционные материалы в химическом аппаратостроении",
       "lesson_type": "theory",
       "group": {
@@ -56746,7 +56770,7 @@
         "number": "209"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 16167,
@@ -59621,25 +59645,22 @@
       "change_reason": null
     },
     {
-      "id": 11479,
+      "id": 16223,
       "date": "2026-02-11",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -59851,7 +59872,7 @@
       "id": 11477,
       "date": "2026-02-11",
       "pair_number": 4,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -60426,7 +60447,7 @@
       "id": 11490,
       "date": "2026-02-11",
       "pair_number": 5,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "practice",
       "group": {
@@ -60581,25 +60602,22 @@
       "change_reason": null
     },
     {
-      "id": 11505,
+      "id": 16224,
       "date": "2026-02-11",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -60722,7 +60740,7 @@
       "id": 11503,
       "date": "2026-02-11",
       "pair_number": 6,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "theory",
       "group": {
@@ -60877,24 +60895,24 @@
       "change_reason": null
     },
     {
-      "id": 15740,
+      "id": 16225,
       "date": "2026-02-11",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
       "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
+        "id": 56,
+        "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 59,
+        "name": "Сериккалиев А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 36,
-        "number": "216"
+        "id": 7,
+        "number": "23"
       },
       "notes": null,
       "change_reason": null
@@ -60972,7 +60990,7 @@
       "id": 15704,
       "date": "2026-02-11",
       "pair_number": 7,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 1.3 Обслуживать буровое оборудование перед запуском",
       "lesson_type": "theory",
       "group": {
@@ -64140,7 +64158,7 @@
       "id": 11516,
       "date": "2026-02-12",
       "pair_number": 4,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.2 Проводить эксплуатацию и техническое обслуживание буровых машин и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -64588,29 +64606,6 @@
       "change_reason": null
     },
     {
-      "id": 11532,
-      "date": "2026-02-12",
-      "pair_number": 5,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 11536,
       "date": "2026-02-12",
       "pair_number": 5,
@@ -64706,7 +64701,7 @@
       "id": 11529,
       "date": "2026-02-12",
       "pair_number": 5,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "practice",
       "group": {
@@ -64861,25 +64856,22 @@
       "change_reason": null
     },
     {
-      "id": 11544,
+      "id": 16226,
       "date": "2026-02-12",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -64999,7 +64991,7 @@
       "id": 11542,
       "date": "2026-02-12",
       "pair_number": 6,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.5 Выбирать строение и метод бурения скважин на суше и на море",
       "lesson_type": "theory",
       "group": {
@@ -65157,29 +65149,6 @@
       "change_reason": null
     },
     {
-      "id": 15920,
-      "date": "2026-02-12",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15985,
       "date": "2026-02-12",
       "pair_number": 7,
@@ -65275,7 +65244,7 @@
       "id": 15892,
       "date": "2026-02-12",
       "pair_number": 7,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -68276,25 +68245,22 @@
       "change_reason": null
     },
     {
-      "id": 11557,
+      "id": 16227,
       "date": "2026-02-13",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -68509,7 +68475,7 @@
       "id": 11555,
       "date": "2026-02-13",
       "pair_number": 4,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "practice",
       "group": {
@@ -68940,29 +68906,6 @@
       "change_reason": null
     },
     {
-      "id": 11570,
-      "date": "2026-02-13",
-      "pair_number": 5,
-      "status": "planned",
-      "discipline": "ПО РО 2.5 Выполнять монтаж электрических машин",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 11574,
       "date": "2026-02-13",
       "pair_number": 5,
@@ -69058,7 +69001,7 @@
       "id": 11567,
       "date": "2026-02-13",
       "pair_number": 5,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "practice",
       "group": {
@@ -69213,25 +69156,22 @@
       "change_reason": null
     },
     {
-      "id": 11582,
+      "id": 16228,
       "date": "2026-02-13",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -69351,7 +69291,7 @@
       "id": 11580,
       "date": "2026-02-13",
       "pair_number": 6,
-      "status": "done",
+      "status": "planned",
       "discipline": "РО 2.6 Соблюдать меры безопасности при ведении процесса буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -69509,29 +69449,6 @@
       "change_reason": null
     },
     {
-      "id": 16082,
-      "date": "2026-02-13",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.6 Выполнять монтаж силовых сетей и электрооборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 16118,
       "date": "2026-02-13",
       "pair_number": 7,
@@ -69601,7 +69518,7 @@
       "id": 16062,
       "date": "2026-02-13",
       "pair_number": 7,
-      "status": "done",
+      "status": "planned",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -87323,19 +87240,19 @@
       "change_reason": null
     },
     {
-      "id": 7793,
+      "id": 16214,
       "date": "2026-02-20",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -88102,24 +88019,24 @@
       "change_reason": null
     },
     {
-      "id": 7805,
+      "id": 7793,
       "date": "2026-02-20",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -130123,19 +130040,19 @@
       "change_reason": null
     },
     {
-      "id": 7794,
+      "id": 16215,
       "date": "2026-03-06",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -130902,24 +130819,24 @@
       "change_reason": null
     },
     {
-      "id": 7806,
+      "id": 7794,
       "date": "2026-03-06",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -168249,19 +168166,19 @@
       "change_reason": null
     },
     {
-      "id": 7795,
+      "id": 16216,
       "date": "2026-03-20",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -168890,24 +168807,24 @@
       "change_reason": null
     },
     {
-      "id": 7807,
+      "id": 7795,
       "date": "2026-03-20",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -200773,19 +200690,19 @@
       "change_reason": null
     },
     {
-      "id": 7796,
+      "id": 16217,
       "date": "2026-04-03",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -201302,24 +201219,24 @@
       "change_reason": null
     },
     {
-      "id": 7808,
+      "id": 7796,
       "date": "2026-04-03",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -228940,19 +228857,19 @@
       "change_reason": null
     },
     {
-      "id": 7797,
+      "id": 16218,
       "date": "2026-04-17",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -229354,24 +229271,24 @@
       "change_reason": null
     },
     {
-      "id": 7809,
+      "id": 7797,
       "date": "2026-04-17",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -255359,19 +255276,19 @@
       "change_reason": null
     },
     {
-      "id": 7798,
+      "id": 16219,
       "date": "2026-05-01",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -255704,24 +255621,24 @@
       "change_reason": null
     },
     {
-      "id": 7810,
+      "id": 7798,
       "date": "2026-05-01",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -295317,19 +295234,19 @@
       "change_reason": null
     },
     {
-      "id": 7800,
+      "id": 16220,
       "date": "2026-05-29",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -295731,24 +295648,24 @@
       "change_reason": null
     },
     {
-      "id": 7811,
+      "id": 7800,
       "date": "2026-05-29",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -315840,19 +315757,19 @@
       "change_reason": null
     },
     {
-      "id": 7802,
+      "id": 16221,
       "date": "2026-06-12",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": {
@@ -316208,24 +316125,24 @@
       "change_reason": null
     },
     {
-      "id": 7813,
+      "id": 7802,
       "date": "2026-06-12",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 68,
-        "number": "П10-204"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
