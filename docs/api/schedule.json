@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T16:42:10.222497",
+  "generated_at": "2026-02-11T16:49:06.281134",
   "schedules": [
     {
       "id": 1,
@@ -39181,6 +39181,29 @@
       "change_reason": null
     },
     {
+      "id": 16238,
+      "date": "2026-02-04",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 7,
+        "name": "АиУ 2-24"
+      },
+      "teacher": {
+        "id": 56,
+        "name": "Саматова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 64,
+        "number": "П10-105"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15823,
       "date": "2026-02-04",
       "pair_number": 7,
@@ -47823,6 +47846,26 @@
       "change_reason": null
     },
     {
+      "id": 16236,
+      "date": "2026-02-06",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 10,
+        "name": "АиУ 3-24"
+      },
+      "teacher": {
+        "id": 18,
+        "name": "Бимурзаев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 16052,
       "date": "2026-02-06",
       "pair_number": 7,
@@ -51305,7 +51348,7 @@
       "id": 9994,
       "date": "2026-02-09",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -51316,13 +51359,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 9995,
@@ -52079,6 +52125,29 @@
       "room": {
         "id": 4,
         "number": "20"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16240,
+      "date": "2026-02-09",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 3,
+        "number": "18"
       },
       "notes": null,
       "change_reason": null
@@ -53861,7 +53930,7 @@
       "id": 10026,
       "date": "2026-02-10",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -53872,13 +53941,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10017,
@@ -54669,7 +54741,7 @@
       "id": 10041,
       "date": "2026-02-10",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -54680,13 +54752,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10042,
@@ -55724,7 +55799,7 @@
       "id": 10056,
       "date": "2026-02-10",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -55735,13 +55810,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10057,
@@ -55862,7 +55940,7 @@
       "id": 16172,
       "date": "2026-02-10",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 10.4 Организовывать работу сотрудников, оценивать результаты их деятельности",
       "lesson_type": "theory",
       "group": {
@@ -55876,7 +55954,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 10050,
@@ -56224,24 +56302,24 @@
       "change_reason": null
     },
     {
-      "id": 11467,
+      "id": 16230,
       "date": "2026-02-10",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "РО 1.2 Читать условные графические обозначения, производить расчеты потребляемой мощности и необходимого сечения кабеля",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
       "lesson_type": "theory",
       "group": {
         "id": 60,
         "name": "ЭС 2-24"
       },
       "teacher": {
-        "id": 59,
-        "name": "Сериккалиев А."
+        "id": 33,
+        "name": "Кабдолла А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 3,
-        "number": "18"
+        "id": 7,
+        "number": "23"
       },
       "notes": null,
       "change_reason": null
@@ -57532,7 +57610,7 @@
       "id": 10073,
       "date": "2026-02-11",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -57543,13 +57621,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10064,
@@ -58843,7 +58924,7 @@
       "id": 16178,
       "date": "2026-02-11",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -58854,13 +58935,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/С"
     },
     {
       "id": 1869,
@@ -59165,7 +59249,7 @@
       "id": 10104,
       "date": "2026-02-11",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -59176,13 +59260,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10105,
@@ -59625,7 +59712,7 @@
       "id": 2075,
       "date": "2026-02-11",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -59642,7 +59729,7 @@
         "number": "208"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 16223,
@@ -60125,7 +60212,7 @@
       "id": 10120,
       "date": "2026-02-11",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 7.3 Обеспечивать безопасность работ при оптимизации работы компонентов и модулей мехатронных систем по различным параметрам",
       "lesson_type": "practice",
       "group": {
@@ -60136,13 +60223,16 @@
         "id": 42,
         "name": "Куанышева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
       "room": {
         "id": 25,
         "number": "205"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Больничный "
     },
     {
       "id": 10121,
@@ -60918,6 +61008,29 @@
       "change_reason": null
     },
     {
+      "id": 16231,
+      "date": "2026-02-11",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 33,
+        "name": "Кабдолла А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15805,
       "date": "2026-02-11",
       "pair_number": 7,
@@ -60936,6 +61049,29 @@
       "room": {
         "id": 44,
         "number": "310"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16239,
+      "date": "2026-02-11",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.2 Определять последовательность и оптимальные режимы обслуживания приборов и средств автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 7,
+        "name": "АиУ 2-24"
+      },
+      "teacher": {
+        "id": 56,
+        "name": "Саматова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 64,
+        "number": "П10-105"
       },
       "notes": null,
       "change_reason": null
@@ -64606,6 +64742,26 @@
       "change_reason": null
     },
     {
+      "id": 16232,
+      "date": "2026-02-12",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 33,
+        "name": "Кабдолла А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 11536,
       "date": "2026-02-12",
       "pair_number": 5,
@@ -65145,6 +65301,46 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16241,
+      "date": "2026-02-12",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16233,
+      "date": "2026-02-12",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 33,
+        "name": "Кабдолла А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -68906,6 +69102,26 @@
       "change_reason": null
     },
     {
+      "id": 16234,
+      "date": "2026-02-13",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 33,
+        "name": "Кабдолла А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 11574,
       "date": "2026-02-13",
       "pair_number": 5,
@@ -69449,6 +69665,46 @@
       "change_reason": null
     },
     {
+      "id": 16242,
+      "date": "2026-02-13",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.2 Читать условные графические обозначения, производить расчеты потребляемой мощности и необходимого сечения кабеля",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16235,
+      "date": "2026-02-13",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить операции по трассировке для электромонтажа кабельных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 33,
+        "name": "Кабдолла А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 16118,
       "date": "2026-02-13",
       "pair_number": 7,
@@ -69485,6 +69741,26 @@
       "teacher": {
         "id": 8,
         "name": "Аристанов А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16237,
+      "date": "2026-02-13",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 10,
+        "name": "АиУ 3-24"
+      },
+      "teacher": {
+        "id": 18,
+        "name": "Бимурзаев А."
       },
       "substitute_teacher": null,
       "room": null,
