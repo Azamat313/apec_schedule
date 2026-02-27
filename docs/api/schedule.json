@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T17:48:57.597387",
+  "generated_at": "2026-02-27T17:53:12.578151",
   "schedules": [
     {
       "id": 1,
@@ -126050,6 +126050,26 @@
       "change_reason": null
     },
     {
+      "id": 16346,
+      "date": "2026-03-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12075,
       "date": "2026-03-04",
       "pair_number": 5,
@@ -130280,6 +130300,26 @@
         "id": 21,
         "number": "201"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16347,
+      "date": "2026-03-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
