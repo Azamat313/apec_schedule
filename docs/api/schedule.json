@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T15:01:32.754364",
+  "generated_at": "2026-02-27T17:48:57.597387",
   "schedules": [
     {
       "id": 1,
@@ -56440,7 +56440,7 @@
       "id": 11465,
       "date": "2026-02-10",
       "pair_number": 6,
-      "status": "substitution",
+      "status": "done",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -56451,16 +56451,13 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": {
-        "id": 47,
-        "name": "Мырзагалиева А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": "Больничный "
+      "change_reason": null
     },
     {
       "id": 11474,
@@ -116630,6 +116627,29 @@
       "room": {
         "id": 19,
         "number": "110"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16345,
+      "date": "2026-03-02",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
