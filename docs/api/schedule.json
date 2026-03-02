@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T11:42:21.660829",
+  "generated_at": "2026-03-02T16:08:43.243824",
   "schedules": [
     {
       "id": 1,
@@ -118134,7 +118134,7 @@
       "id": 15376,
       "date": "2026-03-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.1 Участвовать в проведений геолого-технических и геофизических мероприятий на месторождениях",
       "lesson_type": "theory",
       "group": {
@@ -118145,13 +118145,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 15491,
@@ -118827,7 +118830,7 @@
       "id": 10951,
       "date": "2026-03-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.2 Координировать работы по выполнению диспетчеризации аппаратов и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -118838,13 +118841,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10952,
@@ -118873,7 +118879,7 @@
       "id": 10953,
       "date": "2026-03-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.3 Вести контроль состояния охраны труда и техники безопасности на производстве",
       "lesson_type": "theory",
       "group": {
@@ -118884,13 +118890,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 10960,
@@ -119658,7 +119667,7 @@
       "id": 10967,
       "date": "2026-03-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.2 Осуществлять обучение работников безопасным методам и приемам работы",
       "lesson_type": "theory",
       "group": {
@@ -119669,13 +119678,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10968,
@@ -120509,7 +120521,7 @@
       "id": 10984,
       "date": "2026-03-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.1 Проводить производственный инструктаж на рабочем месте",
       "lesson_type": "theory",
       "group": {
@@ -120520,13 +120532,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10992,
@@ -121369,7 +121384,7 @@
       "id": 12020,
       "date": "2026-03-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 6.2 Владеть навыками проведения комплексной оценки геологических рисков и перспектив добычи",
       "lesson_type": "theory",
       "group": {
@@ -121386,7 +121401,7 @@
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12021,
@@ -122237,7 +122252,7 @@
       "id": 12046,
       "date": "2026-03-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.1 Проводить анализ физико-химических свойств горных пород",
       "lesson_type": "theory",
       "group": {
@@ -122248,19 +122263,22 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12047,
       "date": "2026-03-03",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -122271,13 +122289,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12056,
@@ -122493,7 +122514,7 @@
       "id": 15525,
       "date": "2026-03-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.2 Владеть навыками проведения комплексной оценки геологических рисков и перспектив добычи",
       "lesson_type": "theory",
       "group": {
@@ -122504,13 +122525,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15537,
@@ -123249,7 +123273,7 @@
       "id": 11013,
       "date": "2026-03-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.2 Координировать работы по выполнению диспетчеризации аппаратов и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -123260,13 +123284,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11014,
@@ -123295,7 +123322,7 @@
       "id": 11015,
       "date": "2026-03-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.3 Вести контроль состояния охраны труда и техники безопасности на производстве",
       "lesson_type": "theory",
       "group": {
@@ -123306,13 +123333,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11023,
@@ -124103,7 +124133,7 @@
       "id": 11030,
       "date": "2026-03-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.2 Осуществлять обучение работников безопасным методам и приемам работы",
       "lesson_type": "theory",
       "group": {
@@ -124114,13 +124144,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11031,
@@ -125759,7 +125792,7 @@
       "id": 12059,
       "date": "2026-03-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -125770,13 +125803,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12060,
@@ -125851,7 +125887,7 @@
       "id": 11062,
       "date": "2026-03-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -125868,7 +125904,7 @@
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11063,
@@ -126374,7 +126410,7 @@
       "id": 12073,
       "date": "2026-03-04",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "practice",
       "group": {
@@ -126385,13 +126421,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12082,
@@ -126627,7 +126666,7 @@
       "id": 12085,
       "date": "2026-03-04",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "theory",
       "group": {
@@ -126638,13 +126677,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12086,
@@ -126877,7 +126919,7 @@
       "id": 15688,
       "date": "2026-03-04",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -126888,13 +126930,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15707,
@@ -127616,7 +127661,7 @@
       "id": 11078,
       "date": "2026-03-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.2 Осуществлять обучение работников безопасным методам и приемам работы",
       "lesson_type": "theory",
       "group": {
@@ -127627,13 +127672,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11079,
@@ -130112,7 +130160,7 @@
       "id": 12099,
       "date": "2026-03-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 2.1 Проводить анализ физико-химических свойств горных пород",
       "lesson_type": "theory",
       "group": {
@@ -130129,7 +130177,7 @@
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11124,
@@ -130669,7 +130717,7 @@
       "id": 12110,
       "date": "2026-03-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "theory",
       "group": {
@@ -130680,19 +130728,22 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12111,
       "date": "2026-03-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "practice",
       "group": {
@@ -130703,13 +130754,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12112,
@@ -130985,7 +131039,7 @@
       "id": 12125,
       "date": "2026-03-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -130996,13 +131050,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12134,
@@ -131238,7 +131295,7 @@
       "id": 15895,
       "date": "2026-03-05",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -131249,13 +131306,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15914,
@@ -131905,7 +131965,7 @@
       "id": 11141,
       "date": "2026-03-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.2 Координировать работы по выполнению диспетчеризации аппаратов и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -131916,19 +131976,22 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11142,
       "date": "2026-03-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -131939,13 +132002,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11143,
@@ -132756,7 +132822,7 @@
       "id": 11159,
       "date": "2026-03-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.3 Вести контроль состояния охраны труда и техники безопасности на производстве",
       "lesson_type": "theory",
       "group": {
@@ -132767,13 +132833,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11167,
@@ -134401,7 +134470,7 @@
       "id": 12137,
       "date": "2026-03-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "ПО РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "practice",
       "group": {
@@ -134418,13 +134487,13 @@
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12138,
       "date": "2026-03-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "practice",
       "group": {
@@ -134441,7 +134510,7 @@
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11188,
@@ -134924,7 +134993,7 @@
       "id": 12148,
       "date": "2026-03-06",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -134935,13 +135004,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12149,
@@ -135217,7 +135289,7 @@
       "id": 12162,
       "date": "2026-03-06",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.6 Соблюдать меры безопасности при ведении процесса буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -135228,13 +135300,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12163,
@@ -135464,7 +135539,7 @@
       "id": 16056,
       "date": "2026-03-06",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.6 Соблюдать меры безопасности при ведении процесса буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -135475,13 +135550,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 16065,
