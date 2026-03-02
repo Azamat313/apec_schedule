@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T17:53:12.578151",
+  "generated_at": "2026-03-02T11:42:08.640415",
   "schedules": [
     {
       "id": 1,
@@ -114404,7 +114404,7 @@
       "id": 10888,
       "date": "2026-03-02",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.2 Осуществлять обучение работников безопасным методам и приемам работы",
       "lesson_type": "theory",
       "group": {
@@ -114415,13 +114415,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10889,
@@ -115209,7 +115212,7 @@
       "id": 10903,
       "date": "2026-03-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 10.2 Координировать работы по выполнению диспетчеризации аппаратов и механизмов",
       "lesson_type": "theory",
       "group": {
@@ -115220,13 +115223,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10904,
@@ -116060,7 +116066,7 @@
       "id": 10920,
       "date": "2026-03-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -116071,13 +116077,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 10921,
@@ -116750,7 +116759,7 @@
       "id": 10938,
       "date": "2026-03-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -116761,13 +116770,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 10939,
@@ -117049,7 +117061,7 @@
       "id": 10937,
       "date": "2026-03-02",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 9.1 Проводить производственный инструктаж на рабочем месте",
       "lesson_type": "theory",
       "group": {
@@ -117060,13 +117072,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11991,
@@ -117368,6 +117383,52 @@
       "change_reason": null
     },
     {
+      "id": 16349,
+      "date": "2026-03-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 33,
+        "number": "213"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16351,
+      "date": "2026-03-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 20,
+        "number": "111"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 11997,
       "date": "2026-03-02",
       "pair_number": 5,
@@ -117463,7 +117524,7 @@
       "id": 11993,
       "date": "2026-03-02",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -117474,13 +117535,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11994,
@@ -117762,7 +117826,7 @@
       "id": 12007,
       "date": "2026-03-02",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.1 Участвовать в проведений геолого-технических и геофизических мероприятий на месторождениях",
       "lesson_type": "theory",
       "group": {
@@ -117773,13 +117837,16 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 5,
         "number": "21"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12008,
@@ -117969,7 +118036,7 @@
       "id": 15457,
       "date": "2026-03-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -117980,13 +118047,16 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 4,
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15474,
@@ -118015,7 +118085,7 @@
       "id": 15347,
       "date": "2026-03-02",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.1 Участвовать в проведений геолого-технических и геофизических мероприятий на месторождениях",
       "lesson_type": "theory",
       "group": {
@@ -118026,13 +118096,16 @@
         "id": 36,
         "name": "Кабиров Х."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 21,
         "number": "201"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15359,
@@ -118191,6 +118264,29 @@
       "room": {
         "id": 29,
         "number": "209"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16350,
+      "date": "2026-03-03",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 20,
+        "number": "111"
       },
       "notes": null,
       "change_reason": null
@@ -118659,7 +118755,7 @@
       "id": 10958,
       "date": "2026-03-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -118670,13 +118766,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 10959,
@@ -119487,7 +119586,7 @@
       "id": 10975,
       "date": "2026-03-03",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -119498,13 +119597,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 10965,
@@ -120453,7 +120555,7 @@
       "id": 10993,
       "date": "2026-03-03",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -120464,13 +120566,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 104,
+        "name": "Тастанбеков С. Замена "
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 10994,
@@ -121097,7 +121202,7 @@
       "id": 11002,
       "date": "2026-03-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -121108,13 +121213,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12027,
@@ -121166,7 +121274,7 @@
       "id": 12029,
       "date": "2026-03-03",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -121177,13 +121285,16 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 4,
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11005,
@@ -121681,6 +121792,29 @@
       "room": {
         "id": 21,
         "number": "201"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16352,
+      "date": "2026-03-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 33,
+        "number": "213"
       },
       "notes": null,
       "change_reason": null
@@ -122333,7 +122467,7 @@
       "id": 15634,
       "date": "2026-03-03",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -122344,13 +122478,16 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 4,
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 15525,
@@ -123825,7 +123962,7 @@
       "id": 11032,
       "date": "2026-03-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Современные технологии в энергетике",
       "lesson_type": "theory",
       "group": {
@@ -123836,13 +123973,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11033,
@@ -124676,7 +124816,7 @@
       "id": 11049,
       "date": "2026-03-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -124687,13 +124827,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11053,
@@ -125458,7 +125601,7 @@
       "id": 11065,
       "date": "2026-03-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -125475,7 +125618,7 @@
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12066,
@@ -125800,7 +125943,7 @@
       "id": 11071,
       "date": "2026-03-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -125811,13 +125954,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11072,
@@ -126046,6 +126192,26 @@
         "id": 56,
         "number": "С/з"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16355,
+      "date": "2026-03-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -127309,7 +127475,7 @@
       "id": 11080,
       "date": "2026-03-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Современные технологии в энергетике",
       "lesson_type": "theory",
       "group": {
@@ -127320,13 +127486,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11081,
@@ -127490,7 +127659,7 @@
       "id": 11087,
       "date": "2026-03-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -127501,13 +127670,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11088,
@@ -128157,7 +128329,7 @@
       "id": 11097,
       "date": "2026-03-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -128168,13 +128340,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11101,
@@ -128203,7 +128378,7 @@
       "id": 11102,
       "date": "2026-03-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -128214,13 +128389,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11092,
@@ -128985,7 +129163,7 @@
       "id": 11113,
       "date": "2026-03-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -128996,13 +129174,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11117,
@@ -129373,6 +129554,26 @@
       "change_reason": null
     },
     {
+      "id": 16356,
+      "date": "2026-03-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3985,
       "date": "2026-03-05",
       "pair_number": 4,
@@ -129695,7 +129896,7 @@
       "id": 11128,
       "date": "2026-03-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -129706,19 +129907,22 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11129,
       "date": "2026-03-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -129729,19 +129933,22 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12105,
       "date": "2026-03-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -129752,13 +129959,16 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 4,
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12106,
@@ -130304,6 +130514,26 @@
       "change_reason": null
     },
     {
+      "id": 16353,
+      "date": "2026-03-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 16347,
       "date": "2026-03-05",
       "pair_number": 5,
@@ -130317,6 +130547,26 @@
       "teacher": {
         "id": 53,
         "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16357,
+      "date": "2026-03-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
       },
       "substitute_teacher": null,
       "room": null,
@@ -131560,7 +131810,7 @@
       "id": 11145,
       "date": "2026-03-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -131571,13 +131821,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11149,
@@ -132362,7 +132615,7 @@
       "id": 11161,
       "date": "2026-03-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -132373,19 +132626,22 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11165,
       "date": "2026-03-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -132396,13 +132652,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11166,
@@ -133164,7 +133423,7 @@
       "id": 11176,
       "date": "2026-03-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Современные технологии в энергетике",
       "lesson_type": "theory",
       "group": {
@@ -133175,13 +133434,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11177,
@@ -133371,7 +133633,7 @@
       "id": 11184,
       "date": "2026-03-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -133382,13 +133644,16 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 104,
+        "name": "Тастанбеков С. Замена "
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 11185,
@@ -133969,7 +134234,7 @@
       "id": 11193,
       "date": "2026-03-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -133980,19 +134245,22 @@
         "id": 98,
         "name": "Темирбулатов Р.М."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 12144,
       "date": "2026-03-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -134003,13 +134271,16 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
       "room": {
         "id": 4,
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 12145,
@@ -134534,6 +134805,26 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16354,
+      "date": "2026-03-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -135226,6 +135517,26 @@
       "teacher": {
         "id": 76,
         "name": "Өтеуов Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16348,
+      "date": "2026-03-06",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
+      "lesson_type": "practice",
+      "group": {
+        "id": 24,
+        "name": "ПО 1-24"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
       },
       "substitute_teacher": null,
       "room": null,
