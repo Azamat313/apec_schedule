@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T16:08:43.243824",
+  "generated_at": "2026-03-03T12:20:26.937861",
   "schedules": [
     {
       "id": 1,
@@ -117429,25 +117429,45 @@
       "change_reason": null
     },
     {
-      "id": 11997,
+      "id": 16358,
       "date": "2026-03-02",
       "pair_number": 5,
       "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "practice",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 74,
+        "number": "П10-304"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16369,
+      "date": "2026-03-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
       "group": {
         "id": 60,
         "name": "ЭС 2-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 27,
+        "name": "Жумагалиев Н."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -117731,6 +117751,26 @@
       "change_reason": null
     },
     {
+      "id": 16370,
+      "date": "2026-03-02",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12014,
       "date": "2026-03-02",
       "pair_number": 6,
@@ -117987,25 +118027,45 @@
       "change_reason": null
     },
     {
-      "id": 15388,
+      "id": 16359,
       "date": "2026-03-02",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
-      "lesson_type": "practice",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 74,
+        "number": "П10-304"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16371,
+      "date": "2026-03-02",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
       "group": {
         "id": 60,
         "name": "ЭС 2-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 27,
+        "name": "Жумагалиев Н."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -121168,6 +121228,26 @@
       "change_reason": null
     },
     {
+      "id": 16360,
+      "date": "2026-03-03",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12023,
       "date": "2026-03-03",
       "pair_number": 4,
@@ -121835,25 +121915,22 @@
       "change_reason": null
     },
     {
-      "id": 12035,
+      "id": 16361,
       "date": "2026-03-03",
       "pair_number": 5,
       "status": "planned",
-      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
       "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 59,
-        "name": "Сериккалиев А."
+        "id": 27,
+        "name": "Жумагалиев Н."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 3,
-        "number": "18"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -122157,6 +122234,26 @@
       "change_reason": null
     },
     {
+      "id": 16372,
+      "date": "2026-03-03",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12053,
       "date": "2026-03-03",
       "pair_number": 6,
@@ -122416,25 +122513,42 @@
       "change_reason": null
     },
     {
-      "id": 15561,
+      "id": 16362,
       "date": "2026-03-03",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "practice",
+      "discipline": "РО 1.5 Выполнять работы по монтажу электропроводок всех видов (кроме проводок во взрывоопасных зонах)",
+      "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 27,
+        "name": "Жумагалиев Н."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16373,
+      "date": "2026-03-03",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.6 Выполнять монтаж силовых сетей и электрооборудования",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -125585,25 +125699,22 @@
       "change_reason": null
     },
     {
-      "id": 12062,
+      "id": 16374,
       "date": "2026-03-04",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "theory",
       "group": {
         "id": 60,
         "name": "ЭС 2-24"
       },
       "teacher": {
-        "id": 74,
-        "name": "Шакенова А."
+        "id": 59,
+        "name": "Сериккалиев А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 17,
-        "number": "108"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -125792,7 +125903,7 @@
       "id": 12059,
       "date": "2026-03-04",
       "pair_number": 4,
-      "status": "substitution",
+      "status": "cancelled",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -125803,10 +125914,7 @@
         "id": 26,
         "name": "Жолдыбаева А."
       },
-      "substitute_teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 5,
         "number": "21"
@@ -126272,6 +126380,26 @@
       "change_reason": null
     },
     {
+      "id": 16363,
+      "date": "2026-03-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12075,
       "date": "2026-03-04",
       "pair_number": 5,
@@ -126571,6 +126699,26 @@
       "change_reason": null
     },
     {
+      "id": 16375,
+      "date": "2026-03-04",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12092,
       "date": "2026-03-04",
       "pair_number": 6,
@@ -126640,25 +126788,22 @@
       "change_reason": null
     },
     {
-      "id": 12084,
+      "id": 16380,
       "date": "2026-03-04",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "РО 2.5 Выбирать строение и метод бурения скважин на суше и на море",
+      "discipline": "РО 1.3 Обслуживать буровое оборудование перед запуском",
       "lesson_type": "theory",
       "group": {
         "id": 16,
         "name": "БНГС 1-24"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
+        "id": 76,
+        "name": "Өтеуов Д."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 75,
-        "number": "2"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -126824,25 +126969,42 @@
       "change_reason": null
     },
     {
-      "id": 15743,
+      "id": 16364,
       "date": "2026-03-04",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16376,
+      "date": "2026-03-04",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
       "group": {
         "id": 60,
         "name": "ЭС 2-24"
       },
       "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
+        "id": 74,
+        "name": "Шакенова А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -130582,19 +130744,19 @@
       "change_reason": null
     },
     {
-      "id": 16347,
+      "id": 16381,
       "date": "2026-03-05",
       "pair_number": 5,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
-        "id": 44,
-        "name": "ХТП 2-25"
+        "id": 48,
+        "name": "ХТП 3-25"
       },
       "teacher": {
-        "id": 53,
-        "name": "Рахым К."
+        "id": 8,
+        "name": "Аристанов А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -130615,6 +130777,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16365,
+      "date": "2026-03-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -130924,6 +131106,26 @@
       "change_reason": null
     },
     {
+      "id": 16377,
+      "date": "2026-03-05",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12131,
       "date": "2026-03-05",
       "pair_number": 6,
@@ -131173,6 +131375,26 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16366,
+      "date": "2026-03-05",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -134277,6 +134499,26 @@
       "change_reason": null
     },
     {
+      "id": 16378,
+      "date": "2026-03-06",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 11192,
       "date": "2026-03-06",
       "pair_number": 4,
@@ -134898,6 +135140,26 @@
       "change_reason": null
     },
     {
+      "id": 16367,
+      "date": "2026-03-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12152,
       "date": "2026-03-06",
       "pair_number": 5,
@@ -135197,6 +135459,26 @@
       "change_reason": null
     },
     {
+      "id": 16379,
+      "date": "2026-03-06",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 12169,
       "date": "2026-03-06",
       "pair_number": 6,
@@ -135446,6 +135728,26 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16368,
+      "date": "2026-03-06",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
