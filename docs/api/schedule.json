@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T15:56:07.191285",
+  "generated_at": "2026-03-04T09:05:02.419618",
   "schedules": [
     {
       "id": 1,
@@ -123295,7 +123295,7 @@
       "id": 11017,
       "date": "2026-03-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Модули OPITO",
       "lesson_type": "theory",
       "group": {
@@ -123306,13 +123306,16 @@
         "id": 27,
         "name": "Жумагалиев Н."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
       "room": {
         "id": 7,
         "number": "23"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 11021,
@@ -128818,10 +128821,10 @@
       "change_reason": null
     },
     {
-      "id": 11098,
+      "id": 16382,
       "date": "2026-03-05",
       "pair_number": 2,
-      "status": "completed",
+      "status": "planned",
       "discipline": "РО 10.2 Разрабатывать мероприятия по снижению расхода материальных и энергетических ресурсов",
       "lesson_type": "theory",
       "group": {
@@ -128833,10 +128836,7 @@
         "name": "Адилова А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 10,
-        "number": "26"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -129645,6 +129645,26 @@
         "id": 56,
         "number": "С/з"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 16383,
+      "date": "2026-03-05",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "РО 10.2 Разрабатывать мероприятия по снижению расхода материальных и энергетических ресурсов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 37,
+        "name": "ХТП 1-22"
+      },
+      "teacher": {
+        "id": 2,
+        "name": "Адилова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -139138,6 +139158,26 @@
       "change_reason": null
     },
     {
+      "id": 16384,
+      "date": "2026-03-10",
+      "pair_number": 2,
+      "status": "completed",
+      "discipline": "РО 10.2 Разрабатывать мероприятия по снижению расхода материальных и энергетических ресурсов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 37,
+        "name": "ХТП 1-22"
+      },
+      "teacher": {
+        "id": 2,
+        "name": "Адилова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": "Отмечена как последняя пара"
+    },
+    {
       "id": 12486,
       "date": "2026-03-10",
       "pair_number": 2,
@@ -141918,7 +141958,7 @@
       "id": 16171,
       "date": "2026-03-10",
       "pair_number": 7,
-      "status": "planned",
+      "status": "completed",
       "discipline": "РО 2.3 Контролировать наличие сырья, уровень заполнения оборудования рабочей средой",
       "lesson_type": "theory",
       "group": {
@@ -141932,7 +141972,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Отмечена как последняя пара"
     },
     {
       "id": 411,
