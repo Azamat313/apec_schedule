@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T09:10:21.550006",
+  "generated_at": "2026-03-04T16:27:30.070341",
   "schedules": [
     {
       "id": 1,
@@ -129442,25 +129442,22 @@
       "change_reason": null
     },
     {
-      "id": 11108,
+      "id": 16385,
       "date": "2026-03-05",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "РО 10.1 Организовать работы при осложненных условиях",
+      "discipline": "РО 10.2 Оформлять техническую документацию",
       "lesson_type": "theory",
       "group": {
         "id": 14,
         "name": "БНГС 1-22"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
+        "id": 76,
+        "name": "Өтеуов Д."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 75,
-        "number": "2"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
