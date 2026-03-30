@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T09:41:05.041611",
+  "generated_at": "2026-03-30T10:40:53.400953",
   "schedules": [
     {
       "id": 1,
@@ -202572,6 +202572,26 @@
       "change_reason": null
     },
     {
+      "id": 17208,
+      "date": "2026-03-30",
+      "pair_number": 3,
+      "status": "completed",
+      "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
+      "lesson_type": "theory",
+      "group": {
+        "id": 53,
+        "name": "ЭНГМ 2-22"
+      },
+      "teacher": {
+        "id": 60,
+        "name": "Сулеймен Ж."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": "Отмечена как последняя пара"
+    },
+    {
       "id": 17184,
       "date": "2026-03-30",
       "pair_number": 3,
@@ -202813,7 +202833,7 @@
       "id": 16681,
       "date": "2026-03-30",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 8.3 Рассчитывать параметры типовых схем и устройств",
       "lesson_type": "practice",
       "group": {
@@ -202824,10 +202844,13 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 16,
+        "name": "Бексултан А."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 6932,
@@ -203541,6 +203564,26 @@
         "id": 30,
         "number": "210"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17209,
+      "date": "2026-03-30",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 9.4 Расследовать несчастные случаи на производстве",
+      "lesson_type": "theory",
+      "group": {
+        "id": 49,
+        "name": "ЭНГМ 1-22"
+      },
+      "teacher": {
+        "id": 60,
+        "name": "Сулеймен Ж."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -205698,7 +205741,7 @@
       "id": 16682,
       "date": "2026-03-31",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 8.3 Рассчитывать параметры типовых схем и устройств",
       "lesson_type": "practice",
       "group": {
@@ -205709,10 +205752,13 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 16,
+        "name": "Бексултан А."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 6947,
@@ -206679,7 +206725,7 @@
       "id": 16683,
       "date": "2026-03-31",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 8.3 Рассчитывать параметры типовых схем и устройств",
       "lesson_type": "practice",
       "group": {
@@ -206690,10 +206736,13 @@
         "id": 62,
         "name": "Султанов Е."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 16,
+        "name": "Бексултан А."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 6967,
@@ -211434,7 +211483,7 @@
       "id": 13850,
       "date": "2026-04-01",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 9.4 Расследовать несчастные случаи на производстве",
       "lesson_type": "theory",
       "group": {
@@ -212124,7 +212173,7 @@
       "id": 13857,
       "date": "2026-04-01",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
@@ -214136,7 +214185,7 @@
       "id": 13839,
       "date": "2026-04-02",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -214751,7 +214800,7 @@
       "id": 13851,
       "date": "2026-04-02",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 9.4 Расследовать несчастные случаи на производстве",
       "lesson_type": "theory",
       "group": {
@@ -216768,7 +216817,7 @@
       "id": 13858,
       "date": "2026-04-03",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 9.6 Осуществлять мероприятия по недопущению загрязнения окружающей среды",
       "lesson_type": "theory",
       "group": {
