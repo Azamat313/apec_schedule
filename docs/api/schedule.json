@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T10:40:53.400953",
+  "generated_at": "2026-03-30T17:07:14.366077",
   "schedules": [
     {
       "id": 1,
@@ -118951,8 +118951,8 @@
         "name": "Кабиров Х."
       },
       "substitute_teacher": {
-        "id": 99,
-        "name": "Сарсен Ж."
+        "id": 37,
+        "name": "Кадргалиева А."
       },
       "room": {
         "id": 21,
@@ -193795,6 +193795,46 @@
       "change_reason": null
     },
     {
+      "id": 17239,
+      "date": "2026-03-26",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17254,
+      "date": "2026-03-26",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 17177,
       "date": "2026-03-26",
       "pair_number": 4,
@@ -193897,6 +193937,26 @@
         "id": 27,
         "number": "207"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17210,
+      "date": "2026-03-26",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -194397,6 +194457,86 @@
       "change_reason": null
     },
     {
+      "id": 17240,
+      "date": "2026-03-26",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17255,
+      "date": "2026-03-26",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17211,
+      "date": "2026-03-26",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17224,
+      "date": "2026-03-26",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13364,
       "date": "2026-03-26",
       "pair_number": 5,
@@ -194690,6 +194830,86 @@
       "change_reason": null
     },
     {
+      "id": 17241,
+      "date": "2026-03-26",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17256,
+      "date": "2026-03-26",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17212,
+      "date": "2026-03-26",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17225,
+      "date": "2026-03-26",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13361,
       "date": "2026-03-26",
       "pair_number": 6,
@@ -194976,6 +195196,86 @@
         "id": 39,
         "number": "305"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17242,
+      "date": "2026-03-26",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17257,
+      "date": "2026-03-26",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17213,
+      "date": "2026-03-26",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17226,
+      "date": "2026-03-26",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -197793,7 +198093,7 @@
       "id": 16569,
       "date": "2026-03-27",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 10.1 Использовать методы, приемы формализации и алгоритмизации задач программного кода программного обеспечения",
       "lesson_type": "theory",
       "group": {
@@ -197804,10 +198104,13 @@
         "id": 4,
         "name": "Айбарұлы Г."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 13313,
@@ -198812,6 +199115,26 @@
       "change_reason": null
     },
     {
+      "id": 17243,
+      "date": "2026-03-27",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 17181,
       "date": "2026-03-27",
       "pair_number": 4,
@@ -198855,29 +199178,6 @@
       "change_reason": null
     },
     {
-      "id": 13278,
-      "date": "2026-03-27",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "РО 10.1 Использовать методы, приемы формализации и алгоритмизации задач программного кода программного обеспечения",
-      "lesson_type": "theory",
-      "group": {
-        "id": 26,
-        "name": "ПО 2-22"
-      },
-      "teacher": {
-        "id": 4,
-        "name": "Айбарұлы Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 13314,
       "date": "2026-03-27",
       "pair_number": 4,
@@ -198897,6 +199197,26 @@
         "id": 42,
         "number": "308"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17227,
+      "date": "2026-03-27",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Курсовой ПМ 05",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -199386,6 +199706,86 @@
       "change_reason": null
     },
     {
+      "id": 17244,
+      "date": "2026-03-27",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17258,
+      "date": "2026-03-27",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17214,
+      "date": "2026-03-27",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17228,
+      "date": "2026-03-27",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13369,
       "date": "2026-03-27",
       "pair_number": 5,
@@ -199682,6 +200082,86 @@
       "change_reason": null
     },
     {
+      "id": 17245,
+      "date": "2026-03-27",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17259,
+      "date": "2026-03-27",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17215,
+      "date": "2026-03-27",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Курсовой ПМ 05",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17229,
+      "date": "2026-03-27",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13370,
       "date": "2026-03-27",
       "pair_number": 6,
@@ -199959,6 +200439,66 @@
         "id": 20,
         "number": "111"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17260,
+      "date": "2026-03-27",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17216,
+      "date": "2026-03-27",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17230,
+      "date": "2026-03-27",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -200523,7 +201063,7 @@
       "id": 17166,
       "date": "2026-03-30",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -200534,10 +201074,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 16749,
@@ -201051,7 +201594,7 @@
       "id": 7336,
       "date": "2026-03-30",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -201062,13 +201605,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 4030,
@@ -203634,6 +204180,46 @@
       "change_reason": null
     },
     {
+      "id": 17246,
+      "date": "2026-03-30",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17261,
+      "date": "2026-03-30",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 17185,
       "date": "2026-03-30",
       "pair_number": 4,
@@ -203743,6 +204329,46 @@
       "change_reason": null
     },
     {
+      "id": 17217,
+      "date": "2026-03-30",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17231,
+      "date": "2026-03-30",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13605,
       "date": "2026-03-30",
       "pair_number": 4,
@@ -203792,7 +204418,7 @@
       "id": 13790,
       "date": "2026-03-30",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -203803,13 +204429,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 16800,
@@ -204105,8 +204734,8 @@
         "name": "Кадргалиева А."
       },
       "substitute_teacher": {
-        "id": 60,
-        "name": "Сулеймен Ж."
+        "id": 99,
+        "name": "Сарсен Ж."
       },
       "room": {
         "id": 75,
@@ -204158,6 +204787,86 @@
         "id": 43,
         "number": "309"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17247,
+      "date": "2026-03-30",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17262,
+      "date": "2026-03-30",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17218,
+      "date": "2026-03-30",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17232,
+      "date": "2026-03-30",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -204448,6 +205157,86 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17248,
+      "date": "2026-03-30",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17263,
+      "date": "2026-03-30",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17219,
+      "date": "2026-03-30",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17233,
+      "date": "2026-03-30",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Курсовой ПМ 05",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -204744,6 +205533,66 @@
         "id": 12,
         "number": "30"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17249,
+      "date": "2026-03-30",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17264,
+      "date": "2026-03-30",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17234,
+      "date": "2026-03-30",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -205208,7 +206057,7 @@
       "id": 7970,
       "date": "2026-03-31",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -205219,13 +206068,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 17001,
@@ -206364,7 +207216,7 @@
       "id": 17070,
       "date": "2026-03-31",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -206375,10 +207227,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 16650,
@@ -207437,7 +208292,7 @@
       "id": 16660,
       "date": "2026-03-31",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -207448,10 +208303,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Приказ"
     },
     {
       "id": 17188,
@@ -208275,6 +209133,29 @@
       "change_reason": "Б/с"
     },
     {
+      "id": 17269,
+      "date": "2026-03-31",
+      "pair_number": 4,
+      "status": "substitution",
+      "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
+      "lesson_type": "practice",
+      "group": {
+        "id": 10,
+        "name": "АиУ 3-24"
+      },
+      "teacher": {
+        "id": 62,
+        "name": "Султанов Е."
+      },
+      "substitute_teacher": {
+        "id": 55,
+        "name": "Сагындыккызы Д."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "Приказ"
+    },
+    {
       "id": 17137,
       "date": "2026-03-31",
       "pair_number": 4,
@@ -208510,6 +209391,46 @@
       "change_reason": null
     },
     {
+      "id": 17250,
+      "date": "2026-03-31",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17265,
+      "date": "2026-03-31",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 17189,
       "date": "2026-03-31",
       "pair_number": 4,
@@ -208589,6 +209510,46 @@
         "id": 42,
         "number": "308"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17220,
+      "date": "2026-03-31",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 30,
+        "name": "Измуханова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17235,
+      "date": "2026-03-31",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -208760,29 +209721,6 @@
       "room": null,
       "notes": null,
       "change_reason": null
-    },
-    {
-      "id": 16678,
-      "date": "2026-03-31",
-      "pair_number": 4,
-      "status": "substitution",
-      "discipline": "ПО РО 8.3 Рассчитывать параметры типовых схем и устройств",
-      "lesson_type": "practice",
-      "group": {
-        "id": 1,
-        "name": "АиУ 1-22"
-      },
-      "teacher": {
-        "id": 62,
-        "name": "Султанов Е."
-      },
-      "substitute_teacher": {
-        "id": 16,
-        "name": "Бексултан А."
-      },
-      "room": null,
-      "notes": null,
-      "change_reason": "Приказ"
     },
     {
       "id": 16663,
@@ -209045,6 +209983,86 @@
         "id": 42,
         "number": "308"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17251,
+      "date": "2026-03-31",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17266,
+      "date": "2026-03-31",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17221,
+      "date": "2026-03-31",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17236,
+      "date": "2026-03-31",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -209368,6 +210386,86 @@
       "change_reason": null
     },
     {
+      "id": 17252,
+      "date": "2026-03-31",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17267,
+      "date": "2026-03-31",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17222,
+      "date": "2026-03-31",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17237,
+      "date": "2026-03-31",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13765,
       "date": "2026-03-31",
       "pair_number": 6,
@@ -209654,6 +210752,86 @@
         "id": 27,
         "number": "207"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17253,
+      "date": "2026-03-31",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17268,
+      "date": "2026-03-31",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17223,
+      "date": "2026-03-31",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17238,
+      "date": "2026-03-31",
+      "pair_number": 7,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
