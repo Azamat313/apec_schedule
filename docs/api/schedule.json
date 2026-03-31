@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T18:11:39.776076",
+  "generated_at": "2026-03-31T14:53:19.144150",
   "schedules": [
     {
       "id": 1,
@@ -213190,6 +213190,26 @@
       "change_reason": null
     },
     {
+      "id": 17272,
+      "date": "2026-04-01",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "practice",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13500,
       "date": "2026-04-01",
       "pair_number": 4,
@@ -213548,6 +213568,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17273,
+      "date": "2026-04-01",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "practice",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -213920,10 +213960,10 @@
       "change_reason": "Приказ"
     },
     {
-      "id": 13569,
+      "id": 17271,
       "date": "2026-04-01",
       "pair_number": 6,
-      "status": "completed",
+      "status": "done",
       "discipline": "РО 2.5 Выбирать строение и метод бурения скважин на суше и на море",
       "lesson_type": "theory",
       "group": {
@@ -213935,10 +213975,7 @@
         "name": "Кадргалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 75,
-        "number": "2"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -214098,25 +214135,22 @@
       "change_reason": null
     },
     {
-      "id": 15747,
+      "id": 17274,
       "date": "2026-04-01",
       "pair_number": 7,
-      "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "status": "planned",
+      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
       "lesson_type": "practice",
       "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
+        "id": 56,
+        "name": "ЭС 1-24"
       },
       "teacher": {
         "id": 44,
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -214351,7 +214385,7 @@
       "id": 15794,
       "date": "2026-04-01",
       "pair_number": 7,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 2.2 Приготавливать смеси и растворы в соответствии с рецептурой",
       "lesson_type": "theory",
       "group": {
@@ -214368,7 +214402,7 @@
         "number": "26"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 6911,
@@ -216768,6 +216802,26 @@
       "change_reason": null
     },
     {
+      "id": 17275,
+      "date": "2026-04-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13922,
       "date": "2026-04-02",
       "pair_number": 5,
@@ -217304,6 +217358,26 @@
       "teacher": {
         "id": 25,
         "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17276,
+      "date": "2026-04-02",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
       },
       "substitute_teacher": null,
       "room": null,
@@ -219932,6 +220006,46 @@
       "change_reason": null
     },
     {
+      "id": 17270,
+      "date": "2026-04-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17277,
+      "date": "2026-04-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 65,
+        "name": "Тастанбеков С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 13923,
       "date": "2026-04-03",
       "pair_number": 5,
@@ -220474,6 +220588,26 @@
         "id": 45,
         "number": "311"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17278,
+      "date": "2026-04-03",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -234189,6 +234323,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 17279,
+      "date": "2026-04-10",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 65,
+        "name": "Тастанбеков С."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
