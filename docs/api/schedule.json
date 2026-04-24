@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T21:29:44.918637",
+  "generated_at": "2026-04-24T23:49:53.185542",
   "schedules": [
     {
       "id": 1,
@@ -214853,6 +214853,26 @@
       "change_reason": "приказ"
     },
     {
+      "id": 19273,
+      "date": "2026-04-01",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 17273,
       "date": "2026-04-01",
       "pair_number": 5,
@@ -271825,7 +271845,7 @@
       "id": 3816,
       "date": "2026-04-20",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -271836,13 +271856,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 4070,
@@ -282609,7 +282632,7 @@
       "id": 18575,
       "date": "2026-04-22",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -282620,10 +282643,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 14418,
