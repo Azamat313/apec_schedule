@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:49:53.185542",
+  "generated_at": "2026-04-27T14:25:47.443198",
   "schedules": [
     {
       "id": 1,
@@ -207233,7 +207233,7 @@
       },
       "room": null,
       "notes": null,
-      "change_reason": "Приказ"
+      "change_reason": "болеет"
     },
     {
       "id": 16650,
@@ -221145,6 +221145,26 @@
       "change_reason": null
     },
     {
+      "id": 19274,
+      "date": "2026-04-03",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 65,
+        "name": "АиУ 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 16217,
       "date": "2026-04-03",
       "pair_number": 1,
@@ -221973,6 +221993,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19275,
+      "date": "2026-04-03",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 65,
+        "name": "АиУ 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -235029,7 +235069,7 @@
       "id": 17688,
       "date": "2026-04-07",
       "pair_number": 7,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 2.5 Выполнять монтаж электрических машин",
       "lesson_type": "theory",
       "group": {
@@ -235043,7 +235083,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 15602,
@@ -271447,7 +271487,7 @@
       "id": 18846,
       "date": "2026-04-20",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -271458,10 +271498,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 18493,
@@ -275518,7 +275561,7 @@
       "id": 929,
       "date": "2026-04-21",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -275529,13 +275572,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1154,
@@ -276628,7 +276674,7 @@
       "id": 18569,
       "date": "2026-04-21",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -276639,10 +276685,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 18887,
@@ -283750,7 +283799,7 @@
       "id": 15871,
       "date": "2026-04-22",
       "pair_number": 7,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -283761,13 +283810,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 19181,
@@ -292198,19 +292250,19 @@
       "change_reason": null
     },
     {
-      "id": 19254,
+      "id": 19276,
       "date": "2026-04-24",
       "pair_number": 7,
       "status": "done",
-      "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
+      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
         "id": 24,
         "name": "ПО 1-24"
       },
       "teacher": {
-        "id": 53,
-        "name": "Рахым К."
+        "id": 41,
+        "name": "Калмен С."
       },
       "substitute_teacher": null,
       "room": null,
@@ -300824,8 +300876,8 @@
         "name": "ХТП 3-24"
       },
       "teacher": {
-        "id": 89,
-        "name": "Вакант 1"
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -305115,8 +305167,8 @@
         "name": "ХТП 3-24"
       },
       "teacher": {
-        "id": 89,
-        "name": "Вакант 1"
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -308982,8 +309034,8 @@
         "name": "ХТП 3-24"
       },
       "teacher": {
-        "id": 89,
-        "name": "Вакант 1"
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -309034,7 +309086,7 @@
       "id": 19237,
       "date": "2026-04-30",
       "pair_number": 7,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 1.4 Выполнять слесарные работы по монтажу контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -309048,7 +309100,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19247,
@@ -309074,7 +309126,7 @@
       "id": 19253,
       "date": "2026-04-30",
       "pair_number": 7,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 1.4 Выполнять слесарные работы по монтажу контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -309088,7 +309140,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19112,
@@ -309131,25 +309183,22 @@
       "change_reason": null
     },
     {
-      "id": 16045,
+      "id": 19277,
       "date": "2026-04-30",
       "pair_number": 7,
       "status": "done",
-      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
-      "lesson_type": "practice",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
       "group": {
         "id": 28,
         "name": "ПО 2-24"
       },
       "teacher": {
-        "id": 41,
-        "name": "Калмен С."
+        "id": 65,
+        "name": "Тастанбеков С."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 39,
-        "number": "305"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
