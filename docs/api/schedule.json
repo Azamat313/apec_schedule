@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T17:40:48.289875",
+  "generated_at": "2026-05-08T16:59:01.721731",
   "schedules": [
     {
       "id": 1,
@@ -188915,29 +188915,6 @@
       "change_reason": "Праздник"
     },
     {
-      "id": 13474,
-      "date": "2026-03-25",
-      "pair_number": 4,
-      "status": "cancelled",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": "Праздник"
-    },
-    {
       "id": 13488,
       "date": "2026-03-25",
       "pair_number": 4,
@@ -189645,29 +189622,6 @@
       "change_reason": "Праздник"
     },
     {
-      "id": 13475,
-      "date": "2026-03-25",
-      "pair_number": 6,
-      "status": "cancelled",
-      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": "Праздник"
-    },
-    {
       "id": 13154,
       "date": "2026-03-25",
       "pair_number": 6,
@@ -190051,29 +190005,6 @@
       "room": {
         "id": 45,
         "number": "311"
-      },
-      "notes": null,
-      "change_reason": "Праздник"
-    },
-    {
-      "id": 15867,
-      "date": "2026-03-25",
-      "pair_number": 7,
-      "status": "cancelled",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 28,
-        "name": "ПО 2-24"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 56,
-        "number": "С/з"
       },
       "notes": null,
       "change_reason": "Праздник"
@@ -234676,7 +234607,7 @@
       "change_reason": null
     },
     {
-      "id": 17687,
+      "id": 19347,
       "date": "2026-04-07",
       "pair_number": 6,
       "status": "done",
@@ -294608,7 +294539,7 @@
       "id": 18586,
       "date": "2026-04-27",
       "pair_number": 3,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 7.2 Проводить промывку и очистку труб от грязи и парафина, подготовительные работы к процессу обработки призабойной зоны",
       "lesson_type": "theory",
       "group": {
@@ -294622,7 +294553,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 18904,
@@ -296432,12 +296363,12 @@
       "change_reason": null
     },
     {
-      "id": 14646,
+      "id": 19283,
       "date": "2026-04-27",
       "pair_number": 6,
       "status": "done",
-      "discipline": "РО 1.2 Проводить визуальный осмотр исправности оборудования и коммуникаций",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 1.2 Проводить визуальный осмотр исправности оборудования и коммуникаций",
+      "lesson_type": "practice",
       "group": {
         "id": 43,
         "name": "ХТП 2-24"
@@ -296447,10 +296378,7 @@
         "name": "Байгужиева М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 13,
-        "number": "34"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -299838,7 +299766,7 @@
       "id": 18591,
       "date": "2026-04-28",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "РО 7.2 Проводить промывку и очистку труб от грязи и парафина, подготовительные работы к процессу обработки призабойной зоны",
       "lesson_type": "theory",
       "group": {
@@ -299852,7 +299780,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19257,
@@ -300730,7 +300658,7 @@
       "id": 19142,
       "date": "2026-04-28",
       "pair_number": 7,
-      "status": "done",
+      "status": "completed",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -300744,7 +300672,7 @@
       "substitute_teacher": null,
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "Отмечена как последняя пара"
     },
     {
       "id": 19170,
@@ -303140,19 +303068,19 @@
       "change_reason": null
     },
     {
-      "id": 18558,
+      "id": 19288,
       "date": "2026-04-29",
       "pair_number": 3,
       "status": "done",
-      "discipline": "РО 7.4 Наблюдать и вести учет за показаниями регистрирующих приборов с отбором проб",
+      "discipline": "РО 6.4 Проводить исследовательские работы по гидропрослушиванию пластов",
       "lesson_type": "theory",
       "group": {
         "id": 34,
         "name": "ТДНГ 1-23"
       },
       "teacher": {
-        "id": 26,
-        "name": "Жолдыбаева А."
+        "id": 37,
+        "name": "Кадргалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -303734,11 +303662,11 @@
       "change_reason": null
     },
     {
-      "id": 19143,
+      "id": 19289,
       "date": "2026-04-29",
       "pair_number": 4,
       "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -304404,11 +304332,11 @@
       "change_reason": null
     },
     {
-      "id": 19144,
+      "id": 19290,
       "date": "2026-04-29",
       "pair_number": 5,
       "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -304539,19 +304467,19 @@
       "change_reason": null
     },
     {
-      "id": 14627,
+      "id": 19284,
       "date": "2026-04-29",
       "pair_number": 5,
       "status": "done",
-      "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
-      "lesson_type": "practice",
+      "discipline": "РО 2.2 Проводить эксплуатацию и техническое обслуживание буровых машин и механизмов",
+      "lesson_type": "theory",
       "group": {
         "id": 35,
         "name": "ТДНГ 1-24"
       },
       "teacher": {
-        "id": 99,
-        "name": "Сарсен Ж."
+        "id": 37,
+        "name": "Кадргалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -304688,11 +304616,11 @@
       "change_reason": null
     },
     {
-      "id": 19145,
+      "id": 19291,
       "date": "2026-04-29",
       "pair_number": 6,
       "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -304966,11 +304894,11 @@
       "change_reason": null
     },
     {
-      "id": 19146,
+      "id": 19292,
       "date": "2026-04-29",
       "pair_number": 7,
       "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -305793,19 +305721,19 @@
       "change_reason": null
     },
     {
-      "id": 18560,
+      "id": 19287,
       "date": "2026-04-30",
       "pair_number": 1,
       "status": "done",
-      "discipline": "РО 6.3 Исследовать фонтанные и компрессорные скважины с высоким давлением",
+      "discipline": "РО 7.4 Наблюдать и вести учет за показаниями регистрирующих приборов с отбором проб",
       "lesson_type": "theory",
       "group": {
         "id": 34,
         "name": "ТДНГ 1-23"
       },
       "teacher": {
-        "id": 76,
-        "name": "Өтеуов Д."
+        "id": 26,
+        "name": "Жолдыбаева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -306576,19 +306504,19 @@
       "change_reason": null
     },
     {
-      "id": 18561,
+      "id": 19286,
       "date": "2026-04-30",
       "pair_number": 2,
       "status": "done",
-      "discipline": "РО 6.4 Проводить исследовательские работы по гидропрослушиванию пластов",
+      "discipline": "РО 6.3 Исследовать фонтанные и компрессорные скважины с высоким давлением",
       "lesson_type": "theory",
       "group": {
         "id": 34,
         "name": "ТДНГ 1-23"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
+        "id": 76,
+        "name": "Өтеуов Д."
       },
       "substitute_teacher": null,
       "room": null,
@@ -308177,25 +308105,22 @@
       "change_reason": null
     },
     {
-      "id": 14630,
+      "id": 19285,
       "date": "2026-04-30",
       "pair_number": 4,
       "status": "done",
-      "discipline": "РО 2.2 Проводить эксплуатацию и техническое обслуживание буровых машин и механизмов",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
+      "lesson_type": "practice",
       "group": {
         "id": 35,
         "name": "ТДНГ 1-24"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
+        "id": 99,
+        "name": "Сарсен Ж."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 75,
-        "number": "2"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -308833,11 +308758,11 @@
       "change_reason": null
     },
     {
-      "id": 14681,
+      "id": 19293,
       "date": "2026-04-30",
       "pair_number": 6,
       "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -308848,10 +308773,7 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -311617,7 +311539,7 @@
       "id": 710,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -311634,7 +311556,7 @@
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 4422,
@@ -311755,7 +311677,7 @@
       "id": 1983,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -311766,13 +311688,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 2199,
@@ -312031,7 +311956,7 @@
       "id": 3176,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -312042,13 +311967,16 @@
         "id": 25,
         "name": "Жолдаскалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 711,
@@ -312215,7 +312143,7 @@
       "id": 2200,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -312226,13 +312154,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1794,
@@ -312514,7 +312445,7 @@
       "id": 952,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -312525,13 +312456,16 @@
         "id": 25,
         "name": "Жолдаскалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 4603,
@@ -312583,7 +312517,7 @@
       "id": 1392,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -312594,13 +312528,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1612,
@@ -313109,34 +313046,31 @@
       "change_reason": null
     },
     {
-      "id": 14816,
+      "id": 19317,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "completed",
-      "discipline": "РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "theory",
+      "status": "planned",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "practice",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 18,
-        "name": "Бимурзаев А."
+        "id": 44,
+        "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 12,
-        "number": "30"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
     {
-      "id": 14825,
+      "id": 19331,
       "date": "2026-05-04",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "discipline": "РО 2.5 Выполнять монтаж электрических машин",
       "lesson_type": "theory",
       "group": {
         "id": 60,
@@ -313147,10 +313081,7 @@
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -313342,7 +313273,7 @@
       "id": 14772,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 5.3 Разрабатывать и оптимизировать автоматизированные технологические процессы в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -313359,7 +313290,7 @@
         "number": "20"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 14794,
@@ -313381,6 +313312,46 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19296,
+      "date": "2026-05-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19318,
+      "date": "2026-05-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 18,
+        "name": "Бимурзаев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -313638,25 +313609,42 @@
       "change_reason": null
     },
     {
-      "id": 14820,
+      "id": 19319,
       "date": "2026-05-04",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "practice",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19332,
+      "date": "2026-05-04",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.5 Выполнять монтаж электрических машин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
       "teacher": {
         "id": 71,
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -313753,6 +313741,26 @@
       "change_reason": null
     },
     {
+      "id": 19309,
+      "date": "2026-05-04",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.1 Проводить анализ физико-химических свойств горных пород",
+      "lesson_type": "theory",
+      "group": {
+        "id": 35,
+        "name": "ТДНГ 1-24"
+      },
+      "teacher": {
+        "id": 26,
+        "name": "Жолдыбаева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14802,
       "date": "2026-05-04",
       "pair_number": 6,
@@ -313797,6 +313805,29 @@
       },
       "notes": null,
       "change_reason": null
+    },
+    {
+      "id": 19343,
+      "date": "2026-05-04",
+      "pair_number": 6,
+      "status": "substitution",
+      "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
+      "lesson_type": "practice",
+      "group": {
+        "id": 39,
+        "name": "ХТП 1-24"
+      },
+      "teacher": {
+        "id": 25,
+        "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "система"
     },
     {
       "id": 14784,
@@ -313845,25 +313876,22 @@
       "change_reason": null
     },
     {
-      "id": 15395,
+      "id": 19320,
       "date": "2026-05-04",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
       "lesson_type": "practice",
       "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
+        "id": 56,
+        "name": "ЭС 1-24"
       },
       "teacher": {
         "id": 44,
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -313937,11 +313965,11 @@
       "change_reason": null
     },
     {
-      "id": 15354,
+      "id": 19303,
       "date": "2026-05-04",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "РО 6.1 Участвовать в проведений геолого-технических и геофизических мероприятий на месторождениях",
+      "discipline": "РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "theory",
       "group": {
         "id": 16,
@@ -313952,10 +313980,7 @@
         "name": "Кабиров Х."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -314052,27 +314077,27 @@
       "change_reason": null
     },
     {
-      "id": 15412,
+      "id": 19344,
       "date": "2026-05-04",
       "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.5 Производить выгрузку  готовой продукции, передачу ее на склад или последующую переработку",
-      "lesson_type": "practice",
+      "status": "substitution",
+      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
+      "lesson_type": "theory",
       "group": {
         "id": 39,
         "name": "ХТП 1-24"
       },
       "teacher": {
-        "id": 15,
-        "name": "Бекет А."
+        "id": 66,
+        "name": "Темирханова Г."
       },
-      "substitute_teacher": null,
-      "room": {
-        "id": 14,
-        "number": "101"
+      "substitute_teacher": {
+        "id": 70,
+        "name": "Умарова Б."
       },
+      "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 15429,
@@ -314254,29 +314279,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2951,
-      "date": "2026-05-05",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 44,
-        "name": "ХТП 2-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
@@ -314645,29 +314647,6 @@
       "room": {
         "id": 16,
         "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2715,
-      "date": "2026-05-05",
-      "pair_number": 2,
-      "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
@@ -315064,25 +315043,22 @@
       "change_reason": null
     },
     {
-      "id": 3841,
+      "id": 19295,
       "date": "2026-05-05",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
+      "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
+        "id": 65,
+        "name": "Тастанбеков С."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -315251,7 +315227,7 @@
       "id": 1176,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -315268,7 +315244,7 @@
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 4797,
@@ -315542,29 +315518,6 @@
       "room": {
         "id": 49,
         "number": "315"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4102,
-      "date": "2026-05-05",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
@@ -315869,6 +315822,46 @@
       "change_reason": null
     },
     {
+      "id": 19321,
+      "date": "2026-05-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
+      "lesson_type": "practice",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19333,
+      "date": "2026-05-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 74,
+        "name": "Шакенова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14702,
       "date": "2026-05-05",
       "pair_number": 4,
@@ -315915,25 +315908,22 @@
       "change_reason": null
     },
     {
-      "id": 14731,
+      "id": 19304,
       "date": "2026-05-05",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "РО 1.4 Осуществлять процесс разведочного бурения",
+      "discipline": "РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
       "lesson_type": "theory",
       "group": {
         "id": 16,
         "name": "БНГС 1-24"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
+        "id": 36,
+        "name": "Кабиров Х."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 75,
-        "number": "2"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -315957,6 +315947,26 @@
         "id": 5,
         "number": "21"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19313,
+      "date": "2026-05-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "ПО РО 1.2 Проводить работы по монтажу буровых машин и механизмов",
+      "lesson_type": "practice",
+      "group": {
+        "id": 51,
+        "name": "ЭНГМ 1-24"
+      },
+      "teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -316026,6 +316036,46 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19322,
+      "date": "2026-05-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "lesson_type": "practice",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19334,
+      "date": "2026-05-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -316102,7 +316152,7 @@
       "id": 14732,
       "date": "2026-05-05",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -316113,13 +316163,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 14764,
@@ -316237,6 +316290,46 @@
       "change_reason": null
     },
     {
+      "id": 19323,
+      "date": "2026-05-05",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19336,
+      "date": "2026-05-05",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
+      "lesson_type": "practice",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14694,
       "date": "2026-05-05",
       "pair_number": 6,
@@ -316309,7 +316402,7 @@
       "id": 14736,
       "date": "2026-05-05",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "theory",
       "group": {
@@ -316320,34 +316413,34 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 75,
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
-      "id": 14769,
+      "id": 19310,
       "date": "2026-05-05",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "РО 2.1 Проводить анализ физико-химических свойств горных пород",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
+      "lesson_type": "practice",
       "group": {
         "id": 35,
         "name": "ТДНГ 1-24"
       },
       "teacher": {
-        "id": 26,
-        "name": "Жолдыбаева А."
+        "id": 99,
+        "name": "Сарсен Ж."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 5,
-        "number": "21"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -316444,11 +316537,11 @@
       "change_reason": null
     },
     {
-      "id": 15570,
+      "id": 19324,
       "date": "2026-05-05",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -316459,10 +316552,27 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19335,
+      "date": "2026-05-05",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -316532,6 +316642,69 @@
         "id": 4,
         "number": "20"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19305,
+      "date": "2026-05-05",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 16,
+        "name": "БНГС 1-24"
+      },
+      "teacher": {
+        "id": 8,
+        "name": "Аристанов А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19311,
+      "date": "2026-05-05",
+      "pair_number": 7,
+      "status": "substitution",
+      "discipline": "РО 2.2 Проводить эксплуатацию и техническое обслуживание буровых машин и механизмов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 35,
+        "name": "ТДНГ 1-24"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "система"
+    },
+    {
+      "id": 19314,
+      "date": "2026-05-05",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.3 Обслуживать буровое оборудование перед запуском",
+      "lesson_type": "theory",
+      "group": {
+        "id": 51,
+        "name": "ЭНГМ 1-24"
+      },
+      "teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -317410,25 +317583,22 @@
       "change_reason": null
     },
     {
-      "id": 1397,
+      "id": 19294,
       "date": "2026-05-06",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -317896,7 +318066,7 @@
       "id": 12189,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -317907,19 +318077,22 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1989,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -317930,13 +318103,16 @@
         "id": 25,
         "name": "Жолдаскалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 2206,
@@ -318195,7 +318371,7 @@
       "id": 3179,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -318206,13 +318382,16 @@
         "id": 25,
         "name": "Жолдаскалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 715,
@@ -318284,6 +318463,26 @@
       "change_reason": null
     },
     {
+      "id": 19297,
+      "date": "2026-05-06",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1990,
       "date": "2026-05-06",
       "pair_number": 4,
@@ -318330,11 +318529,11 @@
       "change_reason": null
     },
     {
-      "id": 14817,
+      "id": 19325,
       "date": "2026-05-06",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -318345,10 +318544,27 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19337,
+      "date": "2026-05-06",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 74,
+        "name": "Шакенова А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -318557,6 +318773,86 @@
       "change_reason": null
     },
     {
+      "id": 19298,
+      "date": "2026-05-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19299,
+      "date": "2026-05-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 65,
+        "name": "АиУ 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19301,
+      "date": "2026-05-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19326,
+      "date": "2026-05-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "lesson_type": "practice",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 44,
+        "name": "Махмутов Т."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14823,
       "date": "2026-05-06",
       "pair_number": 5,
@@ -318715,6 +319011,26 @@
       "change_reason": null
     },
     {
+      "id": 19345,
+      "date": "2026-05-06",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
+      "lesson_type": "theory",
+      "group": {
+        "id": 39,
+        "name": "ХТП 1-24"
+      },
+      "teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14785,
       "date": "2026-05-06",
       "pair_number": 5,
@@ -318761,11 +319077,11 @@
       "change_reason": null
     },
     {
-      "id": 14818,
+      "id": 19327,
       "date": "2026-05-06",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -318776,10 +319092,27 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19338,
+      "date": "2026-05-06",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -318851,6 +319184,29 @@
       },
       "notes": null,
       "change_reason": null
+    },
+    {
+      "id": 19306,
+      "date": "2026-05-06",
+      "pair_number": 6,
+      "status": "substitution",
+      "discipline": "РО 2.3 Обслуживать процесс подготовки буровых растворов",
+      "lesson_type": "theory",
+      "group": {
+        "id": 16,
+        "name": "БНГС 1-24"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "приказ"
     },
     {
       "id": 14771,
@@ -318942,25 +319298,42 @@
       "change_reason": null
     },
     {
-      "id": 15752,
+      "id": 19328,
       "date": "2026-05-06",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "practice",
       "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
+        "id": 56,
+        "name": "ЭС 1-24"
       },
       "teacher": {
         "id": 44,
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19339,
+      "date": "2026-05-06",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -319170,6 +319543,29 @@
       },
       "notes": null,
       "change_reason": null
+    },
+    {
+      "id": 19349,
+      "date": "2026-05-06",
+      "pair_number": 7,
+      "status": "substitution",
+      "discipline": "ЗАМЕНА: РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
+      "lesson_type": "theory",
+      "group": {
+        "id": 39,
+        "name": "ХТП 1-24"
+      },
+      "teacher": {
+        "id": 14,
+        "name": "Байгужиева М."
+      },
+      "substitute_teacher": {
+        "id": 70,
+        "name": "Умарова Б."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "система"
     },
     {
       "id": 6917,
@@ -321029,29 +321425,6 @@
       "change_reason": "Праздник"
     },
     {
-      "id": 14773,
-      "date": "2026-05-07",
-      "pair_number": 6,
-      "status": "cancelled",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": "Праздник"
-    },
-    {
       "id": 14790,
       "date": "2026-05-07",
       "pair_number": 6,
@@ -321423,7 +321796,7 @@
       "id": 719,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -321434,13 +321807,16 @@
         "id": 25,
         "name": "Жолдаскалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 965,
@@ -321880,25 +322256,22 @@
       "change_reason": null
     },
     {
-      "id": 963,
+      "id": 19302,
       "date": "2026-05-08",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Химия",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 8,
         "name": "АиУ 2-25"
       },
       "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -321975,7 +322348,7 @@
       "id": 1621,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -321986,13 +322359,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1992,
@@ -322389,7 +322765,7 @@
       "id": 1183,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -322400,13 +322776,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1402,
@@ -322915,11 +323294,11 @@
       "change_reason": null
     },
     {
-      "id": 14821,
+      "id": 19348,
       "date": "2026-05-08",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
+      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -322930,10 +323309,27 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19340,
+      "date": "2026-05-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
       },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -322980,6 +323376,26 @@
         "id": 22,
         "number": "202"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19307,
+      "date": "2026-05-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 1.4 Осуществлять процесс разведочного бурения",
+      "lesson_type": "theory",
+      "group": {
+        "id": 16,
+        "name": "БНГС 1-24"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -323099,6 +323515,46 @@
       "change_reason": null
     },
     {
+      "id": 19300,
+      "date": "2026-05-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19329,
+      "date": "2026-05-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 65,
+        "name": "Тастанбеков С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14827,
       "date": "2026-05-08",
       "pair_number": 5,
@@ -323191,7 +323647,7 @@
       "id": 14813,
       "date": "2026-05-08",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -323202,13 +323658,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 75,
         "number": "2"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 14750,
@@ -323326,6 +323785,26 @@
       "change_reason": null
     },
     {
+      "id": 19341,
+      "date": "2026-05-08",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 60,
+        "name": "ЭС 2-24"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14722,
       "date": "2026-05-08",
       "pair_number": 6,
@@ -323369,27 +323848,47 @@
       "change_reason": null
     },
     {
-      "id": 14812,
+      "id": 19312,
       "date": "2026-05-08",
       "pair_number": 6,
       "status": "planned",
       "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "theory",
       "group": {
+        "id": 35,
+        "name": "ТДНГ 1-24"
+      },
+      "teacher": {
+        "id": 36,
+        "name": "Кабиров Х."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19315,
+      "date": "2026-05-08",
+      "pair_number": 6,
+      "status": "substitution",
+      "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
+      "lesson_type": "practice",
+      "group": {
         "id": 51,
         "name": "ЭНГМ 1-24"
       },
       "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
         "id": 76,
         "name": "Өтеуов Д."
       },
-      "substitute_teacher": null,
-      "room": {
-        "id": 23,
-        "number": "203"
-      },
+      "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 14748,
@@ -323507,6 +324006,29 @@
       "change_reason": null
     },
     {
+      "id": 19330,
+      "date": "2026-05-08",
+      "pair_number": 7,
+      "status": "substitution",
+      "discipline": "РО 1.7 Соблюдать правила техники безопасности при выполнении подготовительных работ",
+      "lesson_type": "theory",
+      "group": {
+        "id": 56,
+        "name": "ЭС 1-24"
+      },
+      "teacher": {
+        "id": 52,
+        "name": "Рахметуллаев Б."
+      },
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "система"
+    },
+    {
       "id": 16094,
       "date": "2026-05-08",
       "pair_number": 7,
@@ -323550,6 +324072,26 @@
       "change_reason": null
     },
     {
+      "id": 19308,
+      "date": "2026-05-08",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 16,
+        "name": "БНГС 1-24"
+      },
+      "teacher": {
+        "id": 36,
+        "name": "Кабиров Х."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 16074,
       "date": "2026-05-08",
       "pair_number": 7,
@@ -323563,6 +324105,26 @@
       "teacher": {
         "id": 99,
         "name": "Сарсен Ж."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 19316,
+      "date": "2026-05-08",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 1.3 Обслуживать буровое оборудование перед запуском",
+      "lesson_type": "theory",
+      "group": {
+        "id": 51,
+        "name": "ЭНГМ 1-24"
+      },
+      "teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
       },
       "substitute_teacher": null,
       "room": null,
@@ -325111,29 +325673,6 @@
       "change_reason": null
     },
     {
-      "id": 15571,
-      "date": "2026-05-12",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15607,
       "date": "2026-05-12",
       "pair_number": 7,
@@ -325244,29 +325783,6 @@
       "room": {
         "id": 27,
         "number": "207"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 14943,
-      "date": "2026-05-13",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "ПО РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -325652,29 +326168,6 @@
       "room": {
         "id": 10,
         "number": "26"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 14944,
-      "date": "2026-05-13",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "ПО РО 1.4 Проводить выбор кабеля, электрооборудования и выполнять подготовительные работы по электромонтажу освещения и осветительных сетей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -326321,29 +326814,6 @@
       "change_reason": null
     },
     {
-      "id": 14952,
-      "date": "2026-05-14",
-      "pair_number": 5,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 14837,
       "date": "2026-05-14",
       "pair_number": 5,
@@ -326525,29 +326995,6 @@
       "change_reason": null
     },
     {
-      "id": 14945,
-      "date": "2026-05-14",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 14834,
       "date": "2026-05-14",
       "pair_number": 6,
@@ -326683,29 +327130,6 @@
       "change_reason": null
     },
     {
-      "id": 14903,
-      "date": "2026-05-14",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 14918,
       "date": "2026-05-14",
       "pair_number": 6,
@@ -326724,29 +327148,6 @@
       "room": {
         "id": 14,
         "number": "101"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15933,
-      "date": "2026-05-14",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -326862,29 +327263,6 @@
       "room": {
         "id": 21,
         "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 14947,
-      "date": "2026-05-15",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -327250,29 +327628,6 @@
       "room": {
         "id": 26,
         "number": "206"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 14948,
-      "date": "2026-05-15",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -336736,29 +337091,6 @@
       "change_reason": null
     },
     {
-      "id": 15071,
-      "date": "2026-05-21",
-      "pair_number": 5,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 14963,
       "date": "2026-05-21",
       "pair_number": 5,
@@ -337098,29 +337430,6 @@
       "change_reason": null
     },
     {
-      "id": 15025,
-      "date": "2026-05-21",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15038,
       "date": "2026-05-21",
       "pair_number": 6,
@@ -337139,29 +337448,6 @@
       "room": {
         "id": 14,
         "number": "101"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15934,
-      "date": "2026-05-21",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -348554,29 +348840,6 @@
       "change_reason": null
     },
     {
-      "id": 15188,
-      "date": "2026-05-28",
-      "pair_number": 5,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15082,
       "date": "2026-05-28",
       "pair_number": 5,
@@ -348916,29 +349179,6 @@
       "change_reason": null
     },
     {
-      "id": 15144,
-      "date": "2026-05-28",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15157,
       "date": "2026-05-28",
       "pair_number": 6,
@@ -348957,29 +349197,6 @@
       "room": {
         "id": 14,
         "number": "101"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15935,
-      "date": "2026-05-28",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -359774,29 +359991,6 @@
       "change_reason": null
     },
     {
-      "id": 15301,
-      "date": "2026-06-04",
-      "pair_number": 5,
-      "status": "completed",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15199,
       "date": "2026-06-04",
       "pair_number": 5,
@@ -360136,29 +360330,6 @@
       "change_reason": null
     },
     {
-      "id": 15260,
-      "date": "2026-06-04",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15272,
       "date": "2026-06-04",
       "pair_number": 6,
@@ -360177,29 +360348,6 @@
       "room": {
         "id": 14,
         "number": "101"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15936,
-      "date": "2026-06-04",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
@@ -369480,29 +369628,6 @@
       "room": {
         "id": 39,
         "number": "305"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15333,
-      "date": "2026-06-11",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 6.1 Выполнять проектирование, анализ и оптимизацию процессов и аппаратов, используемых в химической промышленности",
-      "lesson_type": "theory",
-      "group": {
-        "id": 39,
-        "name": "ХТП 1-24"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
       },
       "notes": null,
       "change_reason": null
