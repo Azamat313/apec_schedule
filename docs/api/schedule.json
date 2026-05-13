@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:43:00.306511",
+  "generated_at": "2026-05-13T15:44:35.783874",
   "schedules": [
     {
       "id": 1,
@@ -339631,7 +339631,7 @@
       "id": 19573,
       "date": "2026-05-14",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -339642,13 +339642,16 @@
         "id": 4,
         "name": "Айбарұлы Г."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 27,
         "number": "207"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 19588,
