@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:44:35.783874",
+  "generated_at": "2026-05-13T15:45:28.891364",
   "schedules": [
     {
       "id": 1,
@@ -342103,15 +342103,15 @@
         "name": "Рахым К."
       },
       "substitute_teacher": {
-        "id": 53,
-        "name": "Рахым К."
+        "id": 24,
+        "name": "Ермеков Д."
       },
       "room": {
         "id": 43,
         "number": "309"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19590,
