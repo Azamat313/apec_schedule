@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T17:26:45.349062",
+  "generated_at": "2026-05-13T17:44:21.924129",
   "schedules": [
     {
       "id": 1,
@@ -332646,7 +332646,7 @@
       "id": 19876,
       "date": "2026-05-12",
       "pair_number": 3,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 6.2 Проводить шаблонирование насосно-компрессорных труб, отбивку забоя и уровня жидкости в скважинах",
       "lesson_type": "theory",
       "group": {
@@ -332663,7 +332663,7 @@
         "number": "25"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19892,
