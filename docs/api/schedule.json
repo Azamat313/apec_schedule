@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:49:02.968968",
+  "generated_at": "2026-05-13T15:51:18.558285",
   "schedules": [
     {
       "id": 1,
@@ -332241,15 +332241,15 @@
         "name": "Тастанбеков С."
       },
       "substitute_teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
       },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 20032,
@@ -335949,15 +335949,15 @@
         "name": "Тастанбеков С."
       },
       "substitute_teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
       },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 19567,
