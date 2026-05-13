@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:21:58.503582",
+  "generated_at": "2026-05-13T14:36:35.865319",
   "schedules": [
     {
       "id": 1,
@@ -327276,7 +327276,7 @@
       "id": 19683,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -327287,13 +327287,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19699,
