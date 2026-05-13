@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:52:37.530314",
+  "generated_at": "2026-05-13T15:54:30.671680",
   "schedules": [
     {
       "id": 1,
@@ -338083,7 +338083,7 @@
       "id": 19994,
       "date": "2026-05-14",
       "pair_number": 3,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -338094,10 +338094,7 @@
         "id": 56,
         "name": "Саматова А."
       },
-      "substitute_teacher": {
-        "id": 56,
-        "name": "Саматова А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 16,
         "number": "105"
