@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T17:44:21.924129",
+  "generated_at": "2026-05-13T17:45:50.419946",
   "schedules": [
     {
       "id": 1,
@@ -337024,7 +337024,7 @@
       "id": 19413,
       "date": "2026-05-13",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.3 Обслуживать буровое оборудование перед запуском",
       "lesson_type": "theory",
       "group": {
@@ -337035,13 +337035,16 @@
         "id": 60,
         "name": "Сулеймен Ж."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 99,
+        "name": "Сарсен Ж."
+      },
       "room": {
         "id": 9,
         "number": "25"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 19429,
