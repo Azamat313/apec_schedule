@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:17:36.081142",
+  "generated_at": "2026-05-13T15:21:17.113063",
   "schedules": [
     {
       "id": 1,
@@ -323612,7 +323612,7 @@
       "id": 19714,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -323623,13 +323623,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19298,
@@ -333670,7 +333673,7 @@
       "id": 19391,
       "date": "2026-05-12",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -333681,13 +333684,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19407,
@@ -334038,7 +334044,7 @@
       "id": 19565,
       "date": "2026-05-12",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.1 Соблюдать правила техники безопасности при работе с персональным компьютером",
       "lesson_type": "theory",
       "group": {
@@ -334049,13 +334055,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19581,
@@ -337142,7 +337151,7 @@
       "id": 19492,
       "date": "2026-05-13",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "practice",
       "group": {
@@ -337153,13 +337162,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19507,
@@ -339179,7 +339191,7 @@
       "id": 19525,
       "date": "2026-05-14",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -339190,13 +339202,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19541,
@@ -339930,7 +339945,7 @@
       "id": 19574,
       "date": "2026-05-14",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 2.1 Соблюдать правила техники безопасности при работе с персональным компьютером",
       "lesson_type": "theory",
       "group": {
@@ -339941,13 +339956,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19589,
@@ -340376,7 +340394,7 @@
       "id": 19950,
       "date": "2026-05-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -340387,13 +340405,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19965,
@@ -341958,7 +341979,7 @@
       "id": 19545,
       "date": "2026-05-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -341969,13 +341990,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19560,
@@ -342476,7 +342500,7 @@
       "id": 19514,
       "date": "2026-05-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "practice",
       "group": {
@@ -342487,19 +342511,22 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19453,
       "date": "2026-05-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 1.7 Соблюдать правила техники безопасности при выполнении подготовительных работ",
       "lesson_type": "theory",
       "group": {
@@ -342510,13 +342537,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19469,
