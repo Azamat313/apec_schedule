@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:54:30.671680",
+  "generated_at": "2026-05-13T16:14:45.923941",
   "schedules": [
     {
       "id": 1,
@@ -338247,7 +338247,7 @@
       "id": 20057,
       "date": "2026-05-14",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -338258,13 +338258,16 @@
         "id": 4,
         "name": "Айбарұлы Г."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 27,
         "number": "207"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "Б/с"
     },
     {
       "id": 20073,
