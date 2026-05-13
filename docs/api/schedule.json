@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:36:05.416680",
+  "generated_at": "2026-05-13T15:37:36.170057",
   "schedules": [
     {
       "id": 1,
@@ -333877,11 +333877,11 @@
       "change_reason": null
     },
     {
-      "id": 19456,
+      "id": 20126,
       "date": "2026-05-12",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "discipline": "ПО РО 2.5 Выполнять монтаж электрических машин",
       "lesson_type": "practice",
       "group": {
         "id": 60,
@@ -333892,10 +333892,7 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
