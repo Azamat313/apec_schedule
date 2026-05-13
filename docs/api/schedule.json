@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T16:14:45.923941",
+  "generated_at": "2026-05-13T16:20:18.408997",
   "schedules": [
     {
       "id": 1,
@@ -341682,7 +341682,7 @@
       "id": 20078,
       "date": "2026-05-15",
       "pair_number": 4,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -341693,10 +341693,7 @@
         "id": 77,
         "name": "Ғалымжанов А."
       },
-      "substitute_teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 56,
         "number": "С/з"
