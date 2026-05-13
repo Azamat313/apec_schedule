@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:39:34.048639",
+  "generated_at": "2026-05-13T15:13:23.436855",
   "schedules": [
     {
       "id": 1,
@@ -312008,7 +312008,7 @@
       "id": 19827,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -312031,7 +312031,7 @@
       "id": 19843,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -312848,7 +312848,7 @@
       "id": 19828,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -312871,7 +312871,7 @@
       "id": 19844,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -313708,7 +313708,7 @@
       "id": 19829,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -313731,7 +313731,7 @@
       "id": 19845,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Курсовой ПМ 05",
       "lesson_type": "theory",
       "group": {
@@ -314717,7 +314717,7 @@
       "id": 19830,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -314740,7 +314740,7 @@
       "id": 19846,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -316447,7 +316447,7 @@
       "id": 19831,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -316470,7 +316470,7 @@
       "id": 19847,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -317238,7 +317238,7 @@
       "id": 19832,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -317261,7 +317261,7 @@
       "id": 19848,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -318121,7 +318121,7 @@
       "id": 19849,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -319075,7 +319075,7 @@
       "id": 19834,
       "date": "2026-05-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -319098,7 +319098,7 @@
       "id": 19850,
       "date": "2026-05-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -320765,7 +320765,7 @@
       "id": 19835,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -320788,7 +320788,7 @@
       "id": 19851,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -321628,7 +321628,7 @@
       "id": 19836,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -321651,7 +321651,7 @@
       "id": 19852,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -322491,7 +322491,7 @@
       "id": 19837,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -322514,7 +322514,7 @@
       "id": 19853,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -323480,7 +323480,7 @@
       "id": 19854,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -327233,7 +327233,7 @@
       "id": 19839,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -327256,7 +327256,7 @@
       "id": 19855,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Курсовой ПМ 05",
       "lesson_type": "theory",
       "group": {
@@ -328067,7 +328067,7 @@
       "id": 19840,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Обнаруживать неисправности мехатронных систем и определять их ресурсы",
       "lesson_type": "theory",
       "group": {
@@ -328090,7 +328090,7 @@
       "id": 19856,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -328927,7 +328927,7 @@
       "id": 19841,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -328950,7 +328950,7 @@
       "id": 19857,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -329858,7 +329858,7 @@
       "id": 19842,
       "date": "2026-05-08",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -329881,7 +329881,7 @@
       "id": 19858,
       "date": "2026-05-08",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
