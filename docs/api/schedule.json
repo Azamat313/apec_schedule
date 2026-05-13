@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:37:36.170057",
+  "generated_at": "2026-05-13T15:41:43.369736",
   "schedules": [
     {
       "id": 1,
@@ -339519,7 +339519,7 @@
       "id": 19542,
       "date": "2026-05-14",
       "pair_number": 6,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -339530,10 +339530,7 @@
         "id": 1,
         "name": "Абсенова Б."
       },
-      "substitute_teacher": {
-        "id": 1,
-        "name": "Абсенова Б."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 26,
         "number": "206"
