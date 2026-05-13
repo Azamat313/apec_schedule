@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T12:14:19.370080",
+  "generated_at": "2026-05-13T14:21:58.503582",
   "schedules": [
     {
       "id": 1,
@@ -320618,7 +320618,7 @@
       "id": 19616,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "cancelled",
+      "status": "substitution",
       "discipline": "РО 6.4 Проводить исследовательские работы по гидропрослушиванию пластов",
       "lesson_type": "theory",
       "group": {
@@ -320629,13 +320629,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 11,
         "number": "28"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19632,
@@ -321481,7 +321484,7 @@
       "id": 19617,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "cancelled",
+      "status": "substitution",
       "discipline": "РО 6.4 Проводить исследовательские работы по гидропрослушиванию пластов",
       "lesson_type": "theory",
       "group": {
@@ -321492,13 +321495,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": {
         "id": 11,
         "number": "28"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 19633,
