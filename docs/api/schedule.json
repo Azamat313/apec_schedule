@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:13:23.436855",
+  "generated_at": "2026-05-13T15:14:37.160865",
   "schedules": [
     {
       "id": 1,
@@ -311821,7 +311821,7 @@
       "id": 19749,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -311916,7 +311916,7 @@
       "id": 19765,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -311939,7 +311939,7 @@
       "id": 19781,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -311962,7 +311962,7 @@
       "id": 19797,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -311985,7 +311985,7 @@
       "id": 19813,
       "date": "2026-05-04",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -312661,7 +312661,7 @@
       "id": 19750,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -312753,7 +312753,7 @@
       "id": 19766,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -312776,7 +312776,7 @@
       "id": 19782,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -312799,7 +312799,7 @@
       "id": 19798,
       "date": "2026-05-04",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -313524,7 +313524,7 @@
       "id": 19751,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -313616,7 +313616,7 @@
       "id": 19767,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -313639,7 +313639,7 @@
       "id": 19783,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -313662,7 +313662,7 @@
       "id": 19799,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -313685,7 +313685,7 @@
       "id": 19815,
       "date": "2026-05-04",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -314418,7 +314418,7 @@
       "id": 19752,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -314648,7 +314648,7 @@
       "id": 19784,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -314671,7 +314671,7 @@
       "id": 19800,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -314694,7 +314694,7 @@
       "id": 19816,
       "date": "2026-05-04",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -316257,7 +316257,7 @@
       "id": 19753,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -316378,7 +316378,7 @@
       "id": 19785,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -316401,7 +316401,7 @@
       "id": 19801,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -316424,7 +316424,7 @@
       "id": 19817,
       "date": "2026-05-05",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -317051,7 +317051,7 @@
       "id": 19754,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -317143,7 +317143,7 @@
       "id": 19770,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -317192,7 +317192,7 @@
       "id": 19802,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -317215,7 +317215,7 @@
       "id": 19818,
       "date": "2026-05-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -317908,7 +317908,7 @@
       "id": 19755,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -318000,7 +318000,7 @@
       "id": 19771,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -318049,7 +318049,7 @@
       "id": 19803,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -318072,7 +318072,7 @@
       "id": 19819,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -319029,7 +319029,7 @@
       "id": 19788,
       "date": "2026-05-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -319052,7 +319052,7 @@
       "id": 19804,
       "date": "2026-05-05",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -320572,7 +320572,7 @@
       "id": 19757,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -320667,7 +320667,7 @@
       "id": 19773,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -320716,7 +320716,7 @@
       "id": 19805,
       "date": "2026-05-06",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -321559,7 +321559,7 @@
       "id": 19790,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -321582,7 +321582,7 @@
       "id": 19806,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -321605,7 +321605,7 @@
       "id": 19821,
       "date": "2026-05-06",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -322307,7 +322307,7 @@
       "id": 19759,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -322399,7 +322399,7 @@
       "id": 19775,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -322422,7 +322422,7 @@
       "id": 19791,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -322445,7 +322445,7 @@
       "id": 19807,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -322468,7 +322468,7 @@
       "id": 19822,
       "date": "2026-05-06",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -323155,7 +323155,7 @@
       "id": 19760,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -323385,7 +323385,7 @@
       "id": 19792,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -323408,7 +323408,7 @@
       "id": 19808,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -323431,7 +323431,7 @@
       "id": 19823,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -327043,7 +327043,7 @@
       "id": 19761,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -327138,7 +327138,7 @@
       "id": 19777,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -327187,7 +327187,7 @@
       "id": 19809,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -327210,7 +327210,7 @@
       "id": 19824,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -327883,7 +327883,7 @@
       "id": 19762,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -327975,7 +327975,7 @@
       "id": 19778,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Настраивать безопасность и защиту на Content Management Systems",
       "lesson_type": "theory",
       "group": {
@@ -327998,7 +327998,7 @@
       "id": 19794,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -328021,7 +328021,7 @@
       "id": 19810,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -328044,7 +328044,7 @@
       "id": 19825,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -328740,7 +328740,7 @@
       "id": 19763,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -328832,7 +328832,7 @@
       "id": 19779,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -328904,7 +328904,7 @@
       "id": 19826,
       "date": "2026-05-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -329835,7 +329835,7 @@
       "id": 19812,
       "date": "2026-05-08",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
       "lesson_type": "theory",
       "group": {
