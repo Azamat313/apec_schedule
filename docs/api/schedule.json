@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T16:20:18.408997",
+  "generated_at": "2026-05-13T16:22:28.348968",
   "schedules": [
     {
       "id": 1,
@@ -331924,7 +331924,7 @@
       "id": 20109,
       "date": "2026-05-12",
       "pair_number": 1,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -331935,10 +331935,7 @@
         "id": 11,
         "name": "Багиткалиев А."
       },
-      "substitute_teacher": {
-        "id": 11,
-        "name": "Багиткалиев А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 2,
         "number": "17"
