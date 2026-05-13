@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:47:55.864981",
+  "generated_at": "2026-05-13T15:49:02.968968",
   "schedules": [
     {
       "id": 1,
@@ -342419,7 +342419,7 @@
       "id": 19591,
       "date": "2026-05-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -342430,13 +342430,16 @@
         "id": 53,
         "name": "Рахым К."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
       "room": {
         "id": 43,
         "number": "309"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 19483,
