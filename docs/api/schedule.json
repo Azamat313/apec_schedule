@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T15:51:18.558285",
+  "generated_at": "2026-05-13T15:52:37.530314",
   "schedules": [
     {
       "id": 1,
@@ -340871,7 +340871,7 @@
       "id": 19936,
       "date": "2026-05-15",
       "pair_number": 3,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "РО 6.3 Выполнять расчет, разборку и сборку механических и электрических частей электрооборудования",
       "lesson_type": "theory",
       "group": {
@@ -340882,10 +340882,7 @@
         "id": 59,
         "name": "Сериккалиев А."
       },
-      "substitute_teacher": {
-        "id": 59,
-        "name": "Сериккалиев А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 7,
         "number": "23"
