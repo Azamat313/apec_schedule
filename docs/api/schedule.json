@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T16:26:47.438652",
+  "generated_at": "2026-05-13T16:28:55.864731",
   "schedules": [
     {
       "id": 1,
@@ -340149,7 +340149,7 @@
       "id": 20027,
       "date": "2026-05-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -340160,13 +340160,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 19870,
