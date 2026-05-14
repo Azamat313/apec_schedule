@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T15:32:54.472041",
+  "generated_at": "2026-05-14T16:05:50.979981",
   "schedules": [
     {
       "id": 1,
@@ -341331,29 +341331,6 @@
       "change_reason": null
     },
     {
-      "id": 19559,
-      "date": "2026-05-15",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
-      "lesson_type": "theory",
-      "group": {
-        "id": 10,
-        "name": "АиУ 3-24"
-      },
-      "teacher": {
-        "id": 18,
-        "name": "Бимурзаев А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 12,
-        "number": "30"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 19999,
       "date": "2026-05-15",
       "pair_number": 4,
@@ -342645,6 +342622,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20130,
+      "date": "2026-05-15",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "РО 3.1 Владеть навыками создания инженерных чертежей и схем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 24,
+        "name": "ПО 1-24"
+      },
+      "teacher": {
+        "id": 18,
+        "name": "Бимурзаев А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
