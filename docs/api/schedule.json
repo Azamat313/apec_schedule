@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T14:50:29.786473",
+  "generated_at": "2026-05-14T15:31:00.022293",
   "schedules": [
     {
       "id": 1,
@@ -325848,29 +325848,6 @@
       },
       "notes": null,
       "change_reason": "Праздник"
-    },
-    {
-      "id": 14713,
-      "date": "2026-05-07",
-      "pair_number": 4,
-      "status": "completed",
-      "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
-      "lesson_type": "theory",
-      "group": {
-        "id": 7,
-        "name": "АиУ 2-24"
-      },
-      "teacher": {
-        "id": 18,
-        "name": "Бимурзаев А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 12,
-        "number": "30"
-      },
-      "notes": null,
-      "change_reason": null
     },
     {
       "id": 14716,
