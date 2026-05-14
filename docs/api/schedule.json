@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T16:05:50.979981",
+  "generated_at": "2026-05-14T16:06:44.448425",
   "schedules": [
     {
       "id": 1,
@@ -341554,6 +341554,26 @@
       "teacher": {
         "id": 23,
         "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20131,
+      "date": "2026-05-15",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "РО 3.1 Владеть навыками создания инженерных чертежей и схем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 28,
+        "name": "ПО 2-24"
+      },
+      "teacher": {
+        "id": 18,
+        "name": "Бимурзаев А."
       },
       "substitute_teacher": null,
       "room": null,
