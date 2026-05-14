@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T16:06:44.448425",
+  "generated_at": "2026-05-14T17:40:02.565211",
   "schedules": [
     {
       "id": 1,
@@ -339113,25 +339113,22 @@
       "change_reason": null
     },
     {
-      "id": 19447,
+      "id": 20132,
       "date": "2026-05-14",
       "pair_number": 5,
       "status": "planned",
-      "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
+      "discipline": "РО 2.4 Выполнять операции по электроизмерительной и визуальной проверке",
       "lesson_type": "theory",
       "group": {
         "id": 56,
         "name": "ЭС 1-24"
       },
       "teacher": {
-        "id": 71,
-        "name": "Утеш М."
+        "id": 59,
+        "name": "Сериккалиев А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -339723,7 +339720,7 @@
       "id": 19449,
       "date": "2026-05-14",
       "pair_number": 7,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
       "lesson_type": "theory",
       "group": {
@@ -339740,7 +339737,7 @@
         "number": "24"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19465,
