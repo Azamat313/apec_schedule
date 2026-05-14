@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T17:45:50.419946",
+  "generated_at": "2026-05-14T11:26:57.921672",
   "schedules": [
     {
       "id": 1,
@@ -341613,25 +341613,22 @@
       "change_reason": null
     },
     {
-      "id": 19575,
+      "id": 20128,
       "date": "2026-05-15",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
-      "lesson_type": "practice",
+      "discipline": "РО 1.2 Определять работоспособность компьютерных систем на уровне схемотехники",
+      "lesson_type": "theory",
       "group": {
         "id": 24,
         "name": "ПО 1-24"
       },
       "teacher": {
-        "id": 41,
-        "name": "Калмен С."
+        "id": 23,
+        "name": "Елеусинов Е."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 39,
-        "number": "305"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -342696,29 +342693,6 @@
       "room": {
         "id": 23,
         "number": "203"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 19578,
-      "date": "2026-05-15",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 24,
-        "name": "ПО 1-24"
-      },
-      "teacher": {
-        "id": 41,
-        "name": "Калмен С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 39,
-        "number": "305"
       },
       "notes": null,
       "change_reason": null
