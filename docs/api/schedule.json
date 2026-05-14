@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T11:26:57.921672",
+  "generated_at": "2026-05-14T14:50:29.786473",
   "schedules": [
     {
       "id": 1,
@@ -340003,29 +340003,6 @@
       "room": {
         "id": 14,
         "number": "101"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 19496,
-      "date": "2026-05-14",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 1.2 Проводить визуальный осмотр исправности оборудования и коммуникаций",
-      "lesson_type": "practice",
-      "group": {
-        "id": 43,
-        "name": "ХТП 2-24"
-      },
-      "teacher": {
-        "id": 14,
-        "name": "Байгужиева М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 13,
-        "number": "34"
       },
       "notes": null,
       "change_reason": null
