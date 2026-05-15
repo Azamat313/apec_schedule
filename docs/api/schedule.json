@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T09:44:54.543692",
+  "generated_at": "2026-05-15T09:48:02.048507",
   "schedules": [
     {
       "id": 1,
@@ -333693,7 +333693,7 @@
       "id": 19423,
       "date": "2026-05-12",
       "pair_number": 5,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -333704,13 +333704,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 23,
         "number": "203"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19564,
@@ -334294,7 +334297,7 @@
       "id": 19425,
       "date": "2026-05-12",
       "pair_number": 7,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
       "lesson_type": "practice",
       "group": {
@@ -334305,13 +334308,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 23,
         "number": "203"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19566,
