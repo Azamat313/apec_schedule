@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T09:48:02.048507",
+  "generated_at": "2026-05-15T11:44:51.218787",
   "schedules": [
     {
       "id": 1,
@@ -337594,11 +337594,11 @@
       "change_reason": null
     },
     {
-      "id": 19931,
+      "id": 20133,
       "date": "2026-05-14",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "РО 6.1 Проводить контроль наличия необходимых средств защиты перед началом работы",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
         "id": 59,
@@ -337609,10 +337609,7 @@
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -338040,11 +338037,11 @@
       "change_reason": null
     },
     {
-      "id": 19932,
+      "id": 20134,
       "date": "2026-05-14",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "РО 6.1 Проводить контроль наличия необходимых средств защиты перед началом работы",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
         "id": 59,
@@ -338055,10 +338052,7 @@
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -340434,11 +340428,11 @@
       "change_reason": null
     },
     {
-      "id": 19935,
+      "id": 20135,
       "date": "2026-05-15",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "РО 6.1 Проводить контроль наличия необходимых средств защиты перед началом работы",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
         "id": 59,
@@ -340449,10 +340443,7 @@
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -341262,11 +341253,11 @@
       "change_reason": null
     },
     {
-      "id": 19937,
+      "id": 20136,
       "date": "2026-05-15",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "РО 6.1 Проводить контроль наличия необходимых средств защиты перед началом работы",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
         "id": 59,
@@ -341277,10 +341268,7 @@
         "name": "Утеш М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
