@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:39:17.757712",
+  "generated_at": "2026-05-19T18:09:29.369536",
   "schedules": [
     {
       "id": 1,
@@ -341581,29 +341581,6 @@
       "group": {
         "id": 23,
         "name": "ПО 1-23"
-      },
-      "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 20062,
-      "date": "2026-05-15",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
-      "lesson_type": "theory",
-      "group": {
-        "id": 27,
-        "name": "ПО 2-23"
       },
       "teacher": {
         "id": 39,
