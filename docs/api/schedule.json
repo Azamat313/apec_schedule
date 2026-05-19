@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T18:09:29.369536",
+  "generated_at": "2026-05-19T19:25:20.325477",
   "schedules": [
     {
       "id": 1,
@@ -352435,29 +352435,6 @@
       "room": {
         "id": 41,
         "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3864,
-      "date": "2026-05-22",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 73,
-        "number": "П10-209"
       },
       "notes": null,
       "change_reason": null
