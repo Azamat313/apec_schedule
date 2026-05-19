@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T11:04:29.272699",
+  "generated_at": "2026-05-19T12:39:17.757712",
   "schedules": [
     {
       "id": 1,
@@ -369490,29 +369490,6 @@
       "change_reason": null
     },
     {
-      "id": 6975,
-      "date": "2026-06-02",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2504,
       "date": "2026-06-02",
       "pair_number": 3,
@@ -374357,29 +374334,6 @@
       "change_reason": null
     },
     {
-      "id": 7048,
-      "date": "2026-06-04",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 7230,
       "date": "2026-06-04",
       "pair_number": 4,
@@ -376462,29 +376416,6 @@
       "room": {
         "id": 25,
         "number": "205"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7083,
-      "date": "2026-06-05",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 73,
-        "number": "П10-209"
       },
       "notes": null,
       "change_reason": null
@@ -380296,29 +380227,6 @@
       "change_reason": null
     },
     {
-      "id": 6976,
-      "date": "2026-06-09",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2517,
       "date": "2026-06-09",
       "pair_number": 3,
@@ -384040,29 +383948,6 @@
       "room": {
         "id": 24,
         "number": "204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7049,
-      "date": "2026-06-11",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
       },
       "notes": null,
       "change_reason": null
