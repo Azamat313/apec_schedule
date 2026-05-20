@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T16:38:20.062602",
+  "generated_at": "2026-05-20T17:17:59.464372",
   "schedules": [
     {
       "id": 1,
@@ -343043,29 +343043,6 @@
       "room": {
         "id": 31,
         "number": "211"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 1995,
-      "date": "2026-05-18",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Информатика",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
       },
       "notes": null,
       "change_reason": null
