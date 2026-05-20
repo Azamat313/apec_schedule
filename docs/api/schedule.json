@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T17:18:42.943721",
+  "generated_at": "2026-05-20T17:22:14.175045",
   "schedules": [
     {
       "id": 1,
@@ -343508,7 +343508,7 @@
       "id": 2212,
       "date": "2026-05-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "cancelled",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -343525,7 +343525,7 @@
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 1804,
