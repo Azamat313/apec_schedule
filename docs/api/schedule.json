@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:41:33.712688",
+  "generated_at": "2026-05-21T09:43:00.645776",
   "schedules": [
     {
       "id": 1,
@@ -351959,6 +351959,26 @@
       "change_reason": null
     },
     {
+      "id": 20143,
+      "date": "2026-05-21",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 14963,
       "date": "2026-05-21",
       "pair_number": 5,
@@ -354373,6 +354393,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20144,
+      "date": "2026-05-22",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
