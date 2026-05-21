@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:16:32.451143",
+  "generated_at": "2026-05-21T09:17:54.488896",
   "schedules": [
     {
       "id": 1,
@@ -352531,7 +352531,7 @@
       "id": 2737,
       "date": "2026-05-22",
       "pair_number": 1,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -352542,13 +352542,16 @@
         "id": 68,
         "name": "Тулегенова К."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 40,
+        "name": "Каламгали Т."
+      },
       "room": {
         "id": 33,
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 5925,
@@ -352968,7 +352971,7 @@
       "id": 2738,
       "date": "2026-05-22",
       "pair_number": 2,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -352979,13 +352982,16 @@
         "id": 68,
         "name": "Тулегенова К."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 54,
+        "name": "Романов Б."
+      },
       "room": {
         "id": 33,
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 5926,
@@ -353359,7 +353365,7 @@
       "id": 3422,
       "date": "2026-05-22",
       "pair_number": 3,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -353370,13 +353376,16 @@
         "id": 68,
         "name": "Тулегенова К."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 40,
+        "name": "Каламгали Т."
+      },
       "room": {
         "id": 33,
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 3644,
@@ -354003,7 +354012,7 @@
       "id": 979,
       "date": "2026-05-22",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -354014,13 +354023,16 @@
         "id": 68,
         "name": "Тулегенова К."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 54,
+        "name": "Романов Б."
+      },
       "room": {
         "id": 33,
         "number": "213"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 1197,
