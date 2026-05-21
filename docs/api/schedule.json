@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:22:05.839060",
+  "generated_at": "2026-05-21T09:25:43.373254",
   "schedules": [
     {
       "id": 1,
@@ -361863,29 +361863,6 @@
       "change_reason": null
     },
     {
-      "id": 3429,
-      "date": "2026-05-28",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8786,
       "date": "2026-05-28",
       "pair_number": 1,
@@ -373313,29 +373290,6 @@
       "change_reason": null
     },
     {
-      "id": 3441,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8790,
       "date": "2026-06-04",
       "pair_number": 1,
@@ -375643,29 +375597,6 @@
       "teacher": {
         "id": 81,
         "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7251,
-      "date": "2026-06-05",
-      "pair_number": 2,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
       },
       "substitute_teacher": null,
       "room": {
@@ -382950,29 +382881,6 @@
       "room": {
         "id": 33,
         "number": "213"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3451,
-      "date": "2026-06-11",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
       },
       "notes": null,
       "change_reason": null
