@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T09:33:48.554683",
+  "generated_at": "2026-05-21T09:39:55.963608",
   "schedules": [
     {
       "id": 1,
@@ -353962,6 +353962,26 @@
         "id": 31,
         "number": "211"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20141,
+      "date": "2026-05-22",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
