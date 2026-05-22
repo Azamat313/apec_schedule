@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:09:51.457314",
+  "generated_at": "2026-05-22T21:10:37.965005",
   "schedules": [
     {
       "id": 1,
@@ -343074,7 +343074,7 @@
       "id": 2211,
       "date": "2026-05-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -344736,7 +344736,7 @@
       "id": 2213,
       "date": "2026-05-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -345567,7 +345567,7 @@
       "id": 2214,
       "date": "2026-05-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -348334,7 +348334,7 @@
       "id": 2215,
       "date": "2026-05-19",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -349171,7 +349171,7 @@
       "id": 5381,
       "date": "2026-05-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -350028,7 +350028,7 @@
       "id": 5382,
       "date": "2026-05-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -352015,7 +352015,7 @@
       "id": 2216,
       "date": "2026-05-20",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -352849,7 +352849,7 @@
       "id": 2217,
       "date": "2026-05-20",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -353712,7 +353712,7 @@
       "id": 2218,
       "date": "2026-05-20",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -354494,7 +354494,7 @@
       "id": 2219,
       "date": "2026-05-20",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -357269,7 +357269,7 @@
       "id": 2220,
       "date": "2026-05-21",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -358103,7 +358103,7 @@
       "id": 5383,
       "date": "2026-05-21",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -358848,7 +358848,7 @@
       "id": 5384,
       "date": "2026-05-21",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -360835,7 +360835,7 @@
       "id": 5385,
       "date": "2026-05-22",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -361606,7 +361606,7 @@
       "id": 5386,
       "date": "2026-05-22",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -362486,7 +362486,7 @@
       "id": 2222,
       "date": "2026-05-22",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -363311,7 +363311,7 @@
       "id": 2221,
       "date": "2026-05-22",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -365292,7 +365292,7 @@
       "id": 2223,
       "date": "2026-05-25",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -365752,7 +365752,7 @@
       "id": 2224,
       "date": "2026-05-25",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -366209,7 +366209,7 @@
       "id": 2225,
       "date": "2026-05-25",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Начальная военная и технологическая подготовка",
       "lesson_type": "theory",
       "group": {
@@ -366640,7 +366640,7 @@
       "id": 2226,
       "date": "2026-05-25",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -367867,7 +367867,7 @@
       "id": 7973,
       "date": "2026-05-26",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -368324,7 +368324,7 @@
       "id": 2227,
       "date": "2026-05-26",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -368761,7 +368761,7 @@
       "id": 5387,
       "date": "2026-05-26",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -369218,7 +369218,7 @@
       "id": 5388,
       "date": "2026-05-26",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -369476,7 +369476,7 @@
       "id": 20757,
       "date": "2026-05-26",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -373029,7 +373029,7 @@
       "id": 2230,
       "date": "2026-05-28",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
@@ -373466,7 +373466,7 @@
       "id": 5389,
       "date": "2026-05-28",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -373851,7 +373851,7 @@
       "id": 5390,
       "date": "2026-05-28",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -374161,7 +374161,7 @@
       "id": 20758,
       "date": "2026-05-28",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -375046,7 +375046,7 @@
       "id": 8013,
       "date": "2026-05-29",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -375460,7 +375460,7 @@
       "id": 8024,
       "date": "2026-05-29",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -375943,7 +375943,7 @@
       "id": 2232,
       "date": "2026-05-29",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -376374,7 +376374,7 @@
       "id": 2231,
       "date": "2026-05-29",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -376661,7 +376661,7 @@
       "id": 20759,
       "date": "2026-05-29",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
