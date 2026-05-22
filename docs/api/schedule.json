@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:02:44.683796",
+  "generated_at": "2026-05-22T23:04:51.498910",
   "schedules": [
     {
       "id": 1,
@@ -369867,29 +369867,6 @@
       "room": {
         "id": 10,
         "number": "26"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15573,
-      "date": "2026-05-26",
-      "pair_number": 7,
-      "status": "planned",
-      "discipline": "ПО РО 1.1 Проверять исправность инструментов, приспособлений, контрольно-измерительных приборов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
