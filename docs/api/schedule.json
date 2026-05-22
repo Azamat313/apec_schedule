@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T01:34:38.942290",
+  "generated_at": "2026-05-23T01:38:17.329565",
   "schedules": [
     {
       "id": 1,
@@ -382431,30 +382431,24 @@
       "change_reason": null
     },
     {
-      "id": 21218,
+      "id": 21239,
       "date": "2026-05-29",
       "pair_number": 3,
-      "status": "substitution",
-      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "status": "planned",
+      "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
         "id": 23,
         "name": "ПО 1-23"
       },
       "teacher": {
-        "id": 23,
-        "name": "Елеусинов Е."
+        "id": 39,
+        "name": "Кайыров А."
       },
-      "substitute_teacher": {
-        "id": 4,
-        "name": "Айбарұлы Г."
-      },
-      "room": {
-        "id": 45,
-        "number": "311"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (Z47)",
-      "change_reason": "система"
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
     },
     {
       "id": 21219,
