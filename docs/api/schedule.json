@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:52:05.846604",
+  "generated_at": "2026-05-22T20:56:12.048641",
   "schedules": [
     {
       "id": 1,
@@ -366140,25 +366140,22 @@
       "change_reason": null
     },
     {
-      "id": 1418,
+      "id": 20749,
       "date": "2026-05-25",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Информатика",
+      "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -366597,6 +366594,26 @@
       "change_reason": null
     },
     {
+      "id": 20752,
+      "date": "2026-05-25",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7915,
       "date": "2026-05-25",
       "pair_number": 4,
@@ -366880,6 +366897,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20753,
+      "date": "2026-05-25",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
       },
       "substitute_teacher": null,
       "room": null,
@@ -369409,6 +369446,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20750,
+      "date": "2026-05-26",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
       },
       "substitute_teacher": null,
       "room": null,
@@ -374061,6 +374118,26 @@
       "change_reason": null
     },
     {
+      "id": 20754,
+      "date": "2026-05-28",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15082,
       "date": "2026-05-28",
       "pair_number": 5,
@@ -376481,6 +376558,46 @@
       "change_reason": null
     },
     {
+      "id": 20751,
+      "date": "2026-05-29",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20755,
+      "date": "2026-05-29",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15189,
       "date": "2026-05-29",
       "pair_number": 5,
@@ -378102,7 +378219,7 @@
       "change_reason": null
     },
     {
-      "id": 1427,
+      "id": 20748,
       "date": "2026-06-01",
       "pair_number": 3,
       "status": "planned",
@@ -378117,10 +378234,7 @@
         "name": "Кайыров А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
