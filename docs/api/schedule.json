@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:28:17.141181",
+  "generated_at": "2026-05-22T20:29:57.115155",
   "schedules": [
     {
       "id": 1,
@@ -369136,6 +369136,26 @@
       "change_reason": null
     },
     {
+      "id": 20726,
+      "date": "2026-05-26",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15075,
       "date": "2026-05-26",
       "pair_number": 5,
@@ -373175,6 +373195,26 @@
       "change_reason": null
     },
     {
+      "id": 20727,
+      "date": "2026-05-28",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 6285,
       "date": "2026-05-28",
       "pair_number": 4,
@@ -373677,6 +373717,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20728,
+      "date": "2026-05-28",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
