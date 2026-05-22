@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:10:37.965005",
+  "generated_at": "2026-05-22T21:17:48.961204",
   "schedules": [
     {
       "id": 1,
@@ -360438,29 +360438,6 @@
         "number": "201"
       },
       "notes": "Imported from Excel ЧЕТВЕРГ (R40)",
-      "change_reason": null
-    },
-    {
-      "id": 535,
-      "date": "2026-05-22",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 68,
-        "name": "БНГС 1-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
-      },
-      "notes": null,
       "change_reason": null
     },
     {
