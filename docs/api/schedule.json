@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:11:41.842686",
+  "generated_at": "2026-05-23T00:51:45.570163",
   "schedules": [
     {
       "id": 1,
@@ -364662,12 +364662,12 @@
       "change_reason": null
     },
     {
-      "id": 20387,
+      "id": 20771,
       "date": "2026-05-22",
       "pair_number": 7,
       "status": "planned",
-      "discipline": "РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 2.3 Обслуживать процесс подготовки буровых растворов",
+      "lesson_type": "practice",
       "group": {
         "id": 16,
         "name": "БНГС 1-24"
@@ -364677,11 +364677,8 @@
         "name": "Кабиров Х."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 65,
-        "number": "П10-201"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (D49)",
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
