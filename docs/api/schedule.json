@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T01:38:35.500200",
+  "generated_at": "2026-05-23T01:40:00.259599",
   "schedules": [
     {
       "id": 1,
@@ -346211,6 +346211,26 @@
         "number": "34"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (R13)",
+      "change_reason": null
+    },
+    {
+      "id": 21240,
+      "date": "2026-05-18",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
