@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:28:20.838813",
+  "generated_at": "2026-05-22T22:07:46.758822",
   "schedules": [
     {
       "id": 1,
@@ -366821,15 +366821,15 @@
       "change_reason": null
     },
     {
-      "id": 20760,
+      "id": 20763,
       "date": "2026-05-25",
       "pair_number": 5,
       "status": "planned",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
+        "id": 61,
+        "name": "ЭС 2-25"
       },
       "teacher": {
         "id": 24,
@@ -374071,6 +374071,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20762,
+      "date": "2026-05-28",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
