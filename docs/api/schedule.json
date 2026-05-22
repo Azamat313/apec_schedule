@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:33:03.358957",
+  "generated_at": "2026-05-22T20:34:33.347763",
   "schedules": [
     {
       "id": 1,
@@ -365019,6 +365019,26 @@
       "change_reason": null
     },
     {
+      "id": 20733,
+      "date": "2026-05-25",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 2971,
       "date": "2026-05-25",
       "pair_number": 1,
@@ -366767,6 +366787,26 @@
       "change_reason": null
     },
     {
+      "id": 20734,
+      "date": "2026-05-25",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15186,
       "date": "2026-05-25",
       "pair_number": 5,
@@ -367844,6 +367884,26 @@
         "id": 16,
         "number": "105"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20735,
+      "date": "2026-05-26",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
