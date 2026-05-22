@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:35:16.233356",
+  "generated_at": "2026-05-22T20:36:35.764487",
   "schedules": [
     {
       "id": 1,
@@ -368848,6 +368848,26 @@
       "change_reason": null
     },
     {
+      "id": 20737,
+      "date": "2026-05-26",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 5928,
       "date": "2026-05-26",
       "pair_number": 4,
@@ -369269,6 +369289,26 @@
       "teacher": {
         "id": 77,
         "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20738,
+      "date": "2026-05-26",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
       },
       "substitute_teacher": null,
       "room": null,
