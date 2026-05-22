@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:32:21.312804",
+  "generated_at": "2026-05-22T20:33:03.358957",
   "schedules": [
     {
       "id": 1,
@@ -369169,6 +369169,26 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20732,
+      "date": "2026-05-26",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
       },
       "substitute_teacher": null,
       "room": null,
