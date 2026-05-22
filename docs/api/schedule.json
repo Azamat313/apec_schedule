@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:36:35.764487",
+  "generated_at": "2026-05-22T20:48:24.910253",
   "schedules": [
     {
       "id": 1,
@@ -376297,6 +376297,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20739,
+      "date": "2026-05-29",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
