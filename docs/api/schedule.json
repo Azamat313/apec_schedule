@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:10:55.074902",
+  "generated_at": "2026-05-23T00:04:49.541875",
   "schedules": [
     {
       "id": 1,
@@ -349145,25 +349145,22 @@
       "change_reason": null
     },
     {
-      "id": 1997,
+      "id": 20769,
       "date": "2026-05-19",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
         "id": 25,
         "name": "ПО 1-25"
       },
       "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 79,
-        "number": "П10-315"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
