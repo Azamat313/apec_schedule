@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:11:30.624785",
+  "generated_at": "2026-05-22T22:27:04.063706",
   "schedules": [
     {
       "id": 1,
@@ -364257,11 +364257,11 @@
       "change_reason": null
     },
     {
-      "id": 20377,
+      "id": 20766,
       "date": "2026-05-22",
       "pair_number": 6,
       "status": "planned",
-      "discipline": "ПО РО 2.5 Выполнять монтаж электрических машин",
+      "discipline": "ПО РО 2.6 Выполнять монтаж силовых сетей и электрооборудования",
       "lesson_type": "practice",
       "group": {
         "id": 56,
@@ -364272,11 +364272,8 @@
         "name": "Махмутов Т."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (J47)",
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
