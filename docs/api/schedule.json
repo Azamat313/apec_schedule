@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T19:26:48.131656",
+  "generated_at": "2026-05-22T20:28:17.141181",
   "schedules": [
     {
       "id": 1,
@@ -375442,6 +375442,26 @@
         "id": 25,
         "number": "205"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20725,
+      "date": "2026-05-29",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
