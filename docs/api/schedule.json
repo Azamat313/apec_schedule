@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T00:07:33.180147",
+  "generated_at": "2026-05-23T00:11:41.842686",
   "schedules": [
     {
       "id": 1,
@@ -368279,6 +368279,26 @@
         "id": 34,
         "number": "214"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20770,
+      "date": "2026-05-26",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Химия",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 15,
+        "name": "Бекет А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
