@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:04:51.498910",
+  "generated_at": "2026-05-22T23:05:53.003174",
   "schedules": [
     {
       "id": 1,
@@ -367114,29 +367114,6 @@
       "room": {
         "id": 4,
         "number": "20"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15182,
-      "date": "2026-05-25",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "РО 2.3 Выполнять работы и монтаж концевых и соединительных муфт и укладку силовых и контрольных кабелей",
-      "lesson_type": "theory",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 71,
-        "name": "Утеш М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 8,
-        "number": "24"
       },
       "notes": null,
       "change_reason": null
