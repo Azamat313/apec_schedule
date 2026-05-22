@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T21:17:48.961204",
+  "generated_at": "2026-05-22T21:24:34.177180",
   "schedules": [
     {
       "id": 1,
@@ -366817,6 +366817,26 @@
         "id": 4,
         "number": "20"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20760,
+      "date": "2026-05-25",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
