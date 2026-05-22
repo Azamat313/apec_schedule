@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:07:46.758822",
+  "generated_at": "2026-05-22T22:11:30.624785",
   "schedules": [
     {
       "id": 1,
@@ -372264,6 +372264,26 @@
       "change_reason": null
     },
     {
+      "id": 20764,
+      "date": "2026-05-28",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8786,
       "date": "2026-05-28",
       "pair_number": 1,
@@ -373591,6 +373611,26 @@
         "id": 48,
         "number": "314"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20765,
+      "date": "2026-05-28",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
