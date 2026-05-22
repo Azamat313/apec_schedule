@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T02:05:39.932012",
+  "generated_at": "2026-05-23T02:13:53.264679",
   "schedules": [
     {
       "id": 1,
@@ -381709,27 +381709,27 @@
       "change_reason": null
     },
     {
-      "id": 21206,
+      "id": 21242,
       "date": "2026-05-29",
       "pair_number": 2,
-      "status": "done",
-      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "status": "substitution",
+      "discipline": "Курсовой ПМ 05",
       "lesson_type": "theory",
       "group": {
         "id": 21,
         "name": "МЕХ 2-23"
       },
       "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": {
         "id": 30,
         "name": "Измуханова А."
       },
-      "substitute_teacher": null,
-      "room": {
-        "id": 6,
-        "number": "22"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (AJ45)",
-      "change_reason": null
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
     },
     {
       "id": 21195,
@@ -383555,27 +383555,27 @@
       "change_reason": null
     },
     {
-      "id": 21238,
+      "id": 21243,
       "date": "2026-05-29",
       "pair_number": 4,
-      "status": "done",
-      "discipline": "РО 5.2 Выполнять контроль и диагностику оборудования мехатронных систем",
+      "status": "substitution",
+      "discipline": "Курсовой ПМ 05",
       "lesson_type": "theory",
       "group": {
         "id": 21,
         "name": "МЕХ 2-23"
       },
       "teacher": {
+        "id": 42,
+        "name": "Куанышева А."
+      },
+      "substitute_teacher": {
         "id": 30,
         "name": "Измуханова А."
       },
-      "substitute_teacher": null,
-      "room": {
-        "id": 6,
-        "number": "22"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (AJ49)",
-      "change_reason": null
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
     },
     {
       "id": 20928,
