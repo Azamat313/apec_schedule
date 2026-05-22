@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T01:50:59.136468",
+  "generated_at": "2026-05-23T01:55:27.308991",
   "schedules": [
     {
       "id": 1,
@@ -383812,6 +383812,26 @@
       "teacher": {
         "id": 64,
         "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21241,
+      "date": "2026-05-29",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
       "room": null,
