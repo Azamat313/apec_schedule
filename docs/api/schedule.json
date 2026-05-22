@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:05:53.003174",
+  "generated_at": "2026-05-22T23:09:15.331910",
   "schedules": [
     {
       "id": 1,
@@ -374338,29 +374338,6 @@
       "change_reason": null
     },
     {
-      "id": 15181,
-      "date": "2026-05-28",
-      "pair_number": 6,
-      "status": "planned",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 15079,
       "date": "2026-05-28",
       "pair_number": 6,
@@ -376368,29 +376345,6 @@
       "room": {
         "id": 52,
         "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 15183,
-      "date": "2026-05-29",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "ПО РО 2.2 Прокладывать кабельные линии различных видов",
-      "lesson_type": "practice",
-      "group": {
-        "id": 56,
-        "name": "ЭС 1-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
