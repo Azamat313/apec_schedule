@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:34:33.347763",
+  "generated_at": "2026-05-22T20:35:16.233356",
   "schedules": [
     {
       "id": 1,
@@ -365032,6 +365032,26 @@
       "teacher": {
         "id": 46,
         "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 20736,
+      "date": "2026-05-25",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
       },
       "substitute_teacher": null,
       "room": null,
