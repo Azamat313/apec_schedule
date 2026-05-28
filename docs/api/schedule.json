@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:13:42.262706",
+  "generated_at": "2026-05-28T09:14:45.010887",
   "schedules": [
     {
       "id": 1,
@@ -365251,7 +365251,7 @@
       "id": 2007,
       "date": "2026-05-25",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -365262,13 +365262,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 2223,
@@ -366134,7 +366137,7 @@
       "id": 2224,
       "date": "2026-05-25",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -366145,13 +366148,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 20995,
