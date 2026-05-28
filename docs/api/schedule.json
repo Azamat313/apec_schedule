@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T08:58:44.876750",
+  "generated_at": "2026-05-28T08:59:27.171775",
   "schedules": [
     {
       "id": 1,
@@ -368368,29 +368368,6 @@
         "number": "П10-204"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (P7)",
-      "change_reason": null
-    },
-    {
-      "id": 20778,
-      "date": "2026-05-25",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 47,
-        "name": "ХТП 3-24"
-      },
-      "teacher": {
-        "id": 2,
-        "name": "Адилова А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 14,
-        "number": "101"
-      },
-      "notes": "Imported from Excel ПОНЕДЕЛЬНИК (R7)",
       "change_reason": null
     },
     {
