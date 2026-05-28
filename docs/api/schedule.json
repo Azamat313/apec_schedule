@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:04:58.810250",
+  "generated_at": "2026-05-28T10:10:11.025282",
   "schedules": [
     {
       "id": 1,
@@ -323978,6 +323978,26 @@
         "id": 10,
         "number": "26"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21249,
+      "date": "2026-05-06",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 65,
+        "name": "АиУ 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
