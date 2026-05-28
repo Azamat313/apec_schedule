@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T11:24:43.707486",
+  "generated_at": "2026-05-28T12:21:22.826063",
   "schedules": [
     {
       "id": 1,
@@ -329671,7 +329671,7 @@
       "id": 19307,
       "date": "2026-05-08",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "theory",
       "group": {
@@ -329682,10 +329682,13 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "приказ"
     },
     {
       "id": 14766,
