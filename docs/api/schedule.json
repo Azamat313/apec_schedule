@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:14:45.010887",
+  "generated_at": "2026-05-28T09:15:46.475168",
   "schedules": [
     {
       "id": 1,
@@ -367198,7 +367198,7 @@
       "id": 21020,
       "date": "2026-05-25",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
       "lesson_type": "theory",
       "group": {
@@ -367209,13 +367209,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (Z11)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21021,
@@ -368216,7 +368219,7 @@
       "id": 21035,
       "date": "2026-05-25",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
       "lesson_type": "theory",
       "group": {
@@ -368227,13 +368230,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (Z13)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21036,
