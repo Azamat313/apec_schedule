@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:18:43.870360",
+  "generated_at": "2026-05-28T09:22:27.599823",
   "schedules": [
     {
       "id": 1,
@@ -384101,6 +384101,26 @@
         "number": "305"
       },
       "notes": "Imported from Excel ПЯТНИЦА (AB45)",
+      "change_reason": null
+    },
+    {
+      "id": 21246,
+      "date": "2026-05-29",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
