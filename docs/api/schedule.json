@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:21:22.826063",
+  "generated_at": "2026-05-28T12:28:03.298137",
   "schedules": [
     {
       "id": 1,
@@ -335928,28 +335928,22 @@
       "change_reason": null
     },
     {
-      "id": 19865,
+      "id": 21252,
       "date": "2026-05-13",
       "pair_number": 4,
-      "status": "substitution",
-      "discipline": "РО 7.10 Проводить пуск обсадных труб и их цементацию",
+      "status": "done",
+      "discipline": "РО 7.5 Проверять глубину скважины",
       "lesson_type": "theory",
       "group": {
         "id": 15,
         "name": "БНГС 1-23"
       },
       "teacher": {
-        "id": 37,
-        "name": "Кадргалиева А."
-      },
-      "substitute_teacher": {
         "id": 76,
         "name": "Өтеуов Д."
       },
-      "room": {
-        "id": 23,
-        "number": "203"
-      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
