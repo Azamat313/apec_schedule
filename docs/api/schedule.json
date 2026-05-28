@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:10:11.025282",
+  "generated_at": "2026-05-28T10:32:45.681575",
   "schedules": [
     {
       "id": 1,
@@ -369955,7 +369955,7 @@
       "id": 7973,
       "date": "2026-05-26",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -369966,13 +369966,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21044,
@@ -383144,7 +383147,7 @@
       "id": 2231,
       "date": "2026-05-29",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -383155,13 +383158,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 100,
+        "name": "Сырымбетұлы Ш. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 20927,
