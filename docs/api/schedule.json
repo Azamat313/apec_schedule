@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:22:27.599823",
+  "generated_at": "2026-05-28T10:00:17.531510",
   "schedules": [
     {
       "id": 1,
@@ -331550,7 +331550,7 @@
       "id": 9456,
       "date": "2026-05-12",
       "pair_number": 1,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -331567,7 +331567,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 8230,
@@ -331993,7 +331993,7 @@
       "id": 9457,
       "date": "2026-05-12",
       "pair_number": 2,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -332010,7 +332010,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 8231,
@@ -332459,7 +332459,7 @@
       "id": 8232,
       "date": "2026-05-12",
       "pair_number": 3,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -332476,7 +332476,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19908,
@@ -332905,7 +332905,7 @@
       "id": 8233,
       "date": "2026-05-12",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -332922,7 +332922,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 19438,
@@ -337971,7 +337971,7 @@
       "id": 9458,
       "date": "2026-05-14",
       "pair_number": 3,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -337988,7 +337988,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 9362,
@@ -338411,7 +338411,7 @@
       "id": 9459,
       "date": "2026-05-14",
       "pair_number": 4,
-      "status": "done",
+      "status": "cancelled",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -338428,7 +338428,7 @@
         "number": "314"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 9363,
