@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T02:13:53.264679",
+  "generated_at": "2026-05-28T08:58:44.876750",
   "schedules": [
     {
       "id": 1,
@@ -368374,7 +368374,7 @@
       "id": 20778,
       "date": "2026-05-25",
       "pair_number": 4,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -368385,10 +368385,7 @@
         "id": 2,
         "name": "Адилова А."
       },
-      "substitute_teacher": {
-        "id": 15,
-        "name": "Бекет А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 14,
         "number": "101"
