@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:03:33.578355",
+  "generated_at": "2026-05-28T09:04:34.366697",
   "schedules": [
     {
       "id": 1,
@@ -371922,7 +371922,7 @@
       "id": 21080,
       "date": "2026-05-26",
       "pair_number": 3,
-      "status": "substitution",
+      "status": "planned",
       "discipline": "РО 6.3 Устанавливать соответствие расхода основных и вспомогательных материалов нормативным показателям",
       "lesson_type": "theory",
       "group": {
@@ -371933,16 +371933,13 @@
         "id": 70,
         "name": "Умарова Б."
       },
-      "substitute_teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 68,
         "number": "П10-204"
       },
       "notes": "Imported from Excel ВТОРНИК (N20)",
-      "change_reason": "система"
+      "change_reason": null
     },
     {
       "id": 21081,
