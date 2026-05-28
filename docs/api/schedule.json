@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:42:11.209199",
+  "generated_at": "2026-05-28T19:59:55.919846",
   "schedules": [
     {
       "id": 1,
@@ -380162,12 +380162,12 @@
       "change_reason": null
     },
     {
-      "id": 20917,
+      "id": 21253,
       "date": "2026-05-28",
       "pair_number": 7,
       "status": "done",
-      "discipline": "РО 2.5 Производить выгрузку  готовой продукции, передачу ее на склад или последующую переработку",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
+      "lesson_type": "practice",
       "group": {
         "id": 43,
         "name": "ХТП 2-24"
@@ -380177,11 +380177,8 @@
         "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
-      },
-      "notes": "Imported from Excel ЧЕТВЕРГ (P40)",
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
@@ -383610,12 +383607,12 @@
       "change_reason": null
     },
     {
-      "id": 20929,
+      "id": 21254,
       "date": "2026-05-29",
       "pair_number": 4,
       "status": "done",
-      "discipline": "РО 2.5 Производить выгрузку  готовой продукции, передачу ее на склад или последующую переработку",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
+      "lesson_type": "practice",
       "group": {
         "id": 43,
         "name": "ХТП 2-24"
@@ -383625,11 +383622,8 @@
         "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (P43)",
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
@@ -384144,12 +384138,12 @@
       "change_reason": null
     },
     {
-      "id": 20942,
+      "id": 21255,
       "date": "2026-05-29",
       "pair_number": 5,
       "status": "done",
-      "discipline": "РО 2.5 Производить выгрузку  готовой продукции, передачу ее на склад или последующую переработку",
-      "lesson_type": "theory",
+      "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
+      "lesson_type": "practice",
       "group": {
         "id": 43,
         "name": "ХТП 2-24"
@@ -384159,11 +384153,8 @@
         "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (P45)",
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
