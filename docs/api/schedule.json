@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:03:30.384513",
+  "generated_at": "2026-05-28T10:04:58.810250",
   "schedules": [
     {
       "id": 1,
@@ -326793,7 +326793,7 @@
       "id": 21247,
       "date": "2026-05-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -327647,7 +327647,7 @@
       "id": 21248,
       "date": "2026-05-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
