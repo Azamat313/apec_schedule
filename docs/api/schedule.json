@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T08:59:27.171775",
+  "generated_at": "2026-05-28T09:03:33.578355",
   "schedules": [
     {
       "id": 1,
@@ -371942,7 +371942,7 @@
         "number": "П10-204"
       },
       "notes": "Imported from Excel ВТОРНИК (N20)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21081,
@@ -376332,32 +376332,6 @@
         "number": "17"
       },
       "notes": "Imported from Excel ЧЕТВЕРГ (AJ34)",
-      "change_reason": null
-    },
-    {
-      "id": 21112,
-      "date": "2026-05-28",
-      "pair_number": 1,
-      "status": "substitution",
-      "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
-      "lesson_type": "theory",
-      "group": {
-        "id": 38,
-        "name": "ХТП 1-23"
-      },
-      "teacher": {
-        "id": 2,
-        "name": "Адилова А."
-      },
-      "substitute_teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": "Imported from Excel ЧЕТВЕРГ (N34)",
       "change_reason": null
     },
     {
