@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T11:21:47.271960",
+  "generated_at": "2026-05-28T11:24:43.707486",
   "schedules": [
     {
       "id": 1,
@@ -380884,29 +380884,6 @@
         "number": "28"
       },
       "notes": "Imported from Excel ПЯТНИЦА (H43)",
-      "change_reason": null
-    },
-    {
-      "id": 21184,
-      "date": "2026-05-29",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Web-технологии (WS)",
-      "lesson_type": "theory",
-      "group": {
-        "id": 23,
-        "name": "ПО 1-23"
-      },
-      "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (Z43)",
       "change_reason": null
     },
     {
