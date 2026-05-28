@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:40:57.993178",
+  "generated_at": "2026-05-28T10:51:41.201821",
   "schedules": [
     {
       "id": 1,
@@ -378313,6 +378313,26 @@
       "teacher": {
         "id": 34,
         "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21251,
+      "date": "2026-05-28",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
       },
       "substitute_teacher": null,
       "room": null,
