@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:15:46.475168",
+  "generated_at": "2026-05-28T09:16:38.236834",
   "schedules": [
     {
       "id": 1,
@@ -370102,7 +370102,7 @@
       "id": 21052,
       "date": "2026-05-26",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -370113,13 +370113,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": "Imported from Excel ВТОРНИК (Z16)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21053,
@@ -370956,7 +370959,7 @@
       "id": 21069,
       "date": "2026-05-26",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -370967,13 +370970,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": "Imported from Excel ВТОРНИК (Z18)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21070,
