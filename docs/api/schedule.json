@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:32:45.681575",
+  "generated_at": "2026-05-28T10:34:53.733957",
   "schedules": [
     {
       "id": 1,
@@ -365452,7 +365452,7 @@
       "id": 20985,
       "date": "2026-05-25",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -365463,13 +365463,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (X7)",
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 20975,
@@ -365898,7 +365901,7 @@
       "id": 7339,
       "date": "2026-05-25",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -365909,13 +365912,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 4125,
@@ -370999,7 +371005,7 @@
       "id": 21060,
       "date": "2026-05-26",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -371010,13 +371016,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 101,
+        "name": "Ғалымжанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": "Imported from Excel ВТОРНИК (H18)",
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21069,
@@ -376744,7 +376753,7 @@
       "id": 989,
       "date": "2026-05-28",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -376755,13 +376764,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1203,
@@ -380171,7 +380183,7 @@
       "id": 20923,
       "date": "2026-05-28",
       "pair_number": 7,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -380182,13 +380194,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": "Imported from Excel ЧЕТВЕРГ (AB40)",
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 20916,
@@ -380766,7 +380781,7 @@
       "id": 21183,
       "date": "2026-05-29",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -380777,13 +380792,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": "Imported from Excel ПЯТНИЦА (X43)",
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21174,
@@ -381163,7 +381181,7 @@
       "id": 7397,
       "date": "2026-05-29",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -381174,13 +381192,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 103,
+        "name": "Нурланұлы С. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 8086,
