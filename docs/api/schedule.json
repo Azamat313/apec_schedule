@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T10:51:41.201821",
+  "generated_at": "2026-05-28T10:56:26.380284",
   "schedules": [
     {
       "id": 1,
@@ -339941,7 +339941,7 @@
       "id": 19433,
       "date": "2026-05-14",
       "pair_number": 7,
-      "status": "substitution",
+      "status": "done",
       "discipline": "РО 2.6 Соблюдать меры безопасности при ведении процесса буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -339952,10 +339952,7 @@
         "id": 99,
         "name": "Сарсен Ж."
       },
-      "substitute_teacher": {
-        "id": 99,
-        "name": "Сарсен Ж."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 61,
         "number": "27"
