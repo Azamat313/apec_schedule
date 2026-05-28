@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T12:28:03.298137",
+  "generated_at": "2026-05-28T15:06:06.867084",
   "schedules": [
     {
       "id": 1,
@@ -318095,7 +318095,7 @@
       "id": 19833,
       "date": "2026-05-05",
       "pair_number": 3,
-      "status": "substitution",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -318106,10 +318106,7 @@
         "id": 30,
         "name": "Измуханова А."
       },
-      "substitute_teacher": {
-        "id": 30,
-        "name": "Измуханова А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 6,
         "number": "22"
@@ -323454,7 +323451,7 @@
       "id": 19838,
       "date": "2026-05-06",
       "pair_number": 4,
-      "status": "substitution",
+      "status": "done",
       "discipline": "РО 5.4 Оформлять документацию по результатам диагностики и ремонта мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -323465,10 +323462,7 @@
         "id": 30,
         "name": "Измуханова А."
       },
-      "substitute_teacher": {
-        "id": 30,
-        "name": "Измуханова А."
-      },
+      "substitute_teacher": null,
       "room": {
         "id": 6,
         "number": "22"
