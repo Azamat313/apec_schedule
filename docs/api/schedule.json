@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:10:32.153570",
+  "generated_at": "2026-05-28T09:13:42.262706",
   "schedules": [
     {
       "id": 1,
@@ -367882,6 +367882,26 @@
         "number": "23"
       },
       "notes": "Imported from Excel ПОНЕДЕЛЬНИК (J13)",
+      "change_reason": null
+    },
+    {
+      "id": 21244,
+      "date": "2026-05-25",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 59,
+        "name": "ЭС 2-23"
+      },
+      "teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
       "change_reason": null
     },
     {
