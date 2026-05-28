@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:16:38.236834",
+  "generated_at": "2026-05-28T09:17:31.400741",
   "schedules": [
     {
       "id": 1,
@@ -371474,7 +371474,7 @@
       "id": 6879,
       "date": "2026-05-26",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -371485,13 +371485,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 4806,
@@ -372883,7 +372886,7 @@
       "id": 21101,
       "date": "2026-05-26",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -372894,13 +372897,16 @@
         "id": 39,
         "name": "Кайыров А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 46,
         "number": "312"
       },
       "notes": "Imported from Excel ВТОРНИК (Z22)",
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21102,
