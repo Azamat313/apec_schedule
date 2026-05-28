@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:17:31.400741",
+  "generated_at": "2026-05-28T09:18:43.870360",
   "schedules": [
     {
       "id": 1,
@@ -379224,6 +379224,26 @@
       "teacher": {
         "id": 46,
         "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21245,
+      "date": "2026-05-28",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": null,
