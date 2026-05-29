@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:59:55.919846",
+  "generated_at": "2026-05-29T09:19:13.991951",
   "schedules": [
     {
       "id": 1,
@@ -384526,29 +384526,6 @@
         "number": "216"
       },
       "notes": "Imported from Excel ПЯТНИЦА (L49)",
-      "change_reason": null
-    },
-    {
-      "id": 20970,
-      "date": "2026-05-29",
-      "pair_number": 7,
-      "status": "done",
-      "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
-      "lesson_type": "practice",
-      "group": {
-        "id": 3,
-        "name": "АиУ 1-24"
-      },
-      "teacher": {
-        "id": 21,
-        "name": "Даурешова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 74,
-        "number": "П10-304"
-      },
-      "notes": "Imported from Excel ПЯТНИЦА (T49)",
       "change_reason": null
     },
     {
