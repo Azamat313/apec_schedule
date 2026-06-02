@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:44:44.264872",
+  "generated_at": "2026-06-02T19:45:55.394202",
   "schedules": [
     {
       "id": 1,
@@ -384894,6 +384894,26 @@
       "change_reason": null
     },
     {
+      "id": 21286,
+      "date": "2026-06-01",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 2982,
       "date": "2026-06-01",
       "pair_number": 1,
@@ -391683,29 +391703,6 @@
       "change_reason": null
     },
     {
-      "id": 4148,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Всемирная история",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 19,
-        "name": "Даулетбаева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 28,
-        "number": "208"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2760,
       "date": "2026-06-04",
       "pair_number": 1,
@@ -393167,6 +393164,26 @@
       "teacher": {
         "id": 65,
         "name": "Тастанбеков С."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21287,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
       "room": null,
