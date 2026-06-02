@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:29:36.224046",
+  "generated_at": "2026-06-02T22:32:52.570493",
   "schedules": [
     {
       "id": 1,
@@ -388207,6 +388207,26 @@
       "change_reason": null
     },
     {
+      "id": 21333,
+      "date": "2026-06-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1823,
       "date": "2026-06-02",
       "pair_number": 4,
@@ -388525,6 +388545,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21334,
+      "date": "2026-06-02",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -392734,6 +392774,26 @@
       "change_reason": null
     },
     {
+      "id": 21339,
+      "date": "2026-06-04",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21263,
       "date": "2026-06-04",
       "pair_number": 4,
@@ -393014,6 +393074,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21340,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -393335,6 +393415,26 @@
       "teacher": {
         "id": 39,
         "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21331,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -394178,6 +394278,26 @@
       "change_reason": null
     },
     {
+      "id": 21337,
+      "date": "2026-06-05",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7064,
       "date": "2026-06-05",
       "pair_number": 2,
@@ -394536,6 +394656,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21338,
+      "date": "2026-06-05",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 70,
+        "name": "ПО 2-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -395644,6 +395784,26 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21332,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
       },
       "substitute_teacher": null,
       "room": null,
