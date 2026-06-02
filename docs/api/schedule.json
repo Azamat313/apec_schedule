@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:27:57.141876",
+  "generated_at": "2026-06-02T19:28:37.964977",
   "schedules": [
     {
       "id": 1,
@@ -386563,6 +386563,26 @@
         "id": 47,
         "number": "313"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21267,
+      "date": "2026-06-01",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
