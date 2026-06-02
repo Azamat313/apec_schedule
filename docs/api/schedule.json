@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:27:45.842118",
+  "generated_at": "2026-06-02T22:28:53.511362",
   "schedules": [
     {
       "id": 1,
@@ -391234,6 +391234,26 @@
       "teacher": {
         "id": 39,
         "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21330,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
