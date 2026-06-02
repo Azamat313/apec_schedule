@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:34:13.121851",
+  "generated_at": "2026-06-02T19:35:09.936672",
   "schedules": [
     {
       "id": 1,
@@ -391623,6 +391623,26 @@
       "change_reason": null
     },
     {
+      "id": 21272,
+      "date": "2026-06-04",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8790,
       "date": "2026-06-04",
       "pair_number": 1,
@@ -391756,29 +391776,6 @@
       "room": {
         "id": 31,
         "number": "211"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 751,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 30,
-        "number": "210"
       },
       "notes": null,
       "change_reason": null
@@ -392803,6 +392800,26 @@
         "id": 49,
         "number": "315"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21271,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
