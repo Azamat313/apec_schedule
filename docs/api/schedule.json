@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:05:11.496036",
+  "generated_at": "2026-06-02T20:29:02.572225",
   "schedules": [
     {
       "id": 1,
@@ -391099,6 +391099,26 @@
       "change_reason": null
     },
     {
+      "id": 21299,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15298,
       "date": "2026-06-03",
       "pair_number": 5,
@@ -393253,6 +393273,26 @@
       "change_reason": null
     },
     {
+      "id": 21300,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15199,
       "date": "2026-06-04",
       "pair_number": 5,
@@ -394750,25 +394790,22 @@
       "change_reason": null
     },
     {
-      "id": 3222,
+      "id": 21301,
       "date": "2026-06-05",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
         "id": 48,
         "name": "ХТП 3-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
