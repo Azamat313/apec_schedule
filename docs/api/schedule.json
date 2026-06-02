@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:23:06.731133",
+  "generated_at": "2026-06-02T19:24:49.181674",
   "schedules": [
     {
       "id": 1,
@@ -391003,6 +391003,26 @@
       "change_reason": null
     },
     {
+      "id": 21262,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15298,
       "date": "2026-06-03",
       "pair_number": 5,
@@ -391544,29 +391564,6 @@
       "room": {
         "id": 10,
         "number": "26"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7008,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
       },
       "notes": null,
       "change_reason": null
@@ -392623,6 +392620,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21263,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
