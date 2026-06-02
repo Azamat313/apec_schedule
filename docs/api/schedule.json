@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:24:42.855711",
+  "generated_at": "2026-06-02T19:23:06.731133",
   "schedules": [
     {
       "id": 1,
@@ -387762,6 +387762,26 @@
         "id": 79,
         "number": "П10-315"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21261,
+      "date": "2026-06-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
