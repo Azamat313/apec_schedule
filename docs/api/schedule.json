@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:24:49.181674",
+  "generated_at": "2026-06-02T19:27:57.141876",
   "schedules": [
     {
       "id": 1,
@@ -385170,25 +385170,22 @@
       "change_reason": null
     },
     {
-      "id": 7114,
+      "id": 21264,
       "date": "2026-06-01",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Физическая культура",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 36,
         "name": "ТДНГ 1-25"
       },
       "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
+        "id": 82,
+        "name": "Ибетова Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -388149,29 +388146,6 @@
       "room": {
         "id": 18,
         "number": "109"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2505,
-      "date": "2026-06-02",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 36,
-        "name": "ТДНГ 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
       },
       "notes": null,
       "change_reason": null
@@ -391914,25 +391888,22 @@
       "change_reason": null
     },
     {
-      "id": 2509,
+      "id": 21265,
       "date": "2026-06-04",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
         "id": 36,
         "name": "ТДНГ 1-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -393966,29 +393937,6 @@
       "change_reason": null
     },
     {
-      "id": 7170,
-      "date": "2026-06-05",
-      "pair_number": 2,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 36,
-        "name": "ТДНГ 1-25"
-      },
-      "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 3664,
       "date": "2026-06-05",
       "pair_number": 2,
@@ -395293,6 +395241,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21266,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
