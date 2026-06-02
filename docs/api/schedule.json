@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:32:52.570493",
+  "generated_at": "2026-06-02T22:35:42.042058",
   "schedules": [
     {
       "id": 1,
@@ -393051,6 +393051,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21341,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 82,
+        "name": "Ибетова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
