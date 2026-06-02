@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:30:03.340543",
+  "generated_at": "2026-06-02T20:33:40.959129",
   "schedules": [
     {
       "id": 1,
@@ -391139,6 +391139,26 @@
       "change_reason": null
     },
     {
+      "id": 21303,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15298,
       "date": "2026-06-03",
       "pair_number": 5,
@@ -392156,29 +392176,6 @@
       "change_reason": null
     },
     {
-      "id": 752,
-      "date": "2026-06-04",
-      "pair_number": 2,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 1000,
       "date": "2026-06-04",
       "pair_number": 2,
@@ -392538,25 +392535,22 @@
       "change_reason": null
     },
     {
-      "id": 753,
+      "id": 21304,
       "date": "2026-06-04",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
         "id": 4,
         "name": "АиУ 1-25"
       },
       "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
+        "id": 46,
+        "name": "Мурынов Б."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -394368,29 +394362,6 @@
       "room": {
         "id": 19,
         "number": "110"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7658,
-      "date": "2026-06-05",
-      "pair_number": 2,
-      "status": "planned",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
       },
       "notes": null,
       "change_reason": null
