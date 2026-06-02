@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:48:39.536928",
+  "generated_at": "2026-06-02T22:27:45.842118",
   "schedules": [
     {
       "id": 1,
@@ -385960,25 +385960,22 @@
       "change_reason": null
     },
     {
-      "id": 2235,
+      "id": 21328,
       "date": "2026-06-01",
       "pair_number": 3,
       "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -388697,6 +388694,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21329,
+      "date": "2026-06-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": null,
