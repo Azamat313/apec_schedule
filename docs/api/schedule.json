@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:04:22.422702",
+  "generated_at": "2026-06-02T20:05:11.496036",
   "schedules": [
     {
       "id": 1,
@@ -386193,29 +386193,6 @@
       "change_reason": null
     },
     {
-      "id": 3215,
-      "date": "2026-06-01",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 48,
-        "name": "ХТП 3-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8971,
       "date": "2026-06-01",
       "pair_number": 4,
@@ -386419,6 +386396,26 @@
         "id": 14,
         "number": "101"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21298,
+      "date": "2026-06-01",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
