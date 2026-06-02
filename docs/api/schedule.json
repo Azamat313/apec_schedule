@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:44:11.407107",
+  "generated_at": "2026-06-02T20:47:31.643847",
   "schedules": [
     {
       "id": 1,
@@ -385506,25 +385506,22 @@
       "change_reason": null
     },
     {
-      "id": 2016,
+      "id": 21324,
       "date": "2026-06-01",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
+      "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
         "id": 25,
         "name": "ПО 1-25"
       },
       "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -386308,6 +386305,26 @@
       "change_reason": null
     },
     {
+      "id": 21320,
+      "date": "2026-06-01",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 5195,
       "date": "2026-06-01",
       "pair_number": 4,
@@ -386651,6 +386668,26 @@
       "teacher": {
         "id": 39,
         "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21321,
+      "date": "2026-06-01",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -389587,25 +389624,22 @@
       "change_reason": null
     },
     {
-      "id": 1652,
+      "id": 21322,
       "date": "2026-06-03",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Физическая культура",
+      "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
         "id": 13,
         "name": "АиУ 5-25"
       },
       "teacher": {
-        "id": 64,
-        "name": "Сырымбетұлы Ш."
+        "id": 80,
+        "name": "Берік А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -390862,29 +390896,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2022,
-      "date": "2026-06-03",
-      "pair_number": 4,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
       "notes": null,
       "change_reason": null
     },
@@ -392316,25 +392327,22 @@
       "change_reason": null
     },
     {
-      "id": 1655,
+      "id": 21323,
       "date": "2026-06-04",
       "pair_number": 2,
       "status": "planned",
-      "discipline": "Начальная военная и технологическая подготовка",
+      "discipline": "Казахская литература",
       "lesson_type": "theory",
       "group": {
         "id": 13,
         "name": "АиУ 5-25"
       },
       "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
+        "id": 13,
+        "name": "Базарбаева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -392622,6 +392630,26 @@
         "id": 68,
         "number": "П10-204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21318,
+      "date": "2026-06-04",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Казахская литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 13,
+        "name": "Базарбаева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -395545,6 +395573,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21319,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
