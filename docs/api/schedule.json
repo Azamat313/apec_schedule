@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:28:53.511362",
+  "generated_at": "2026-06-02T22:29:36.224046",
   "schedules": [
     {
       "id": 1,
@@ -392083,29 +392083,6 @@
       "group": {
         "id": 25,
         "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 12,
-        "name": "Багытова А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 24,
-        "number": "204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 5392,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
       },
       "teacher": {
         "id": 12,
