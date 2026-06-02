@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:35:09.936672",
+  "generated_at": "2026-06-02T19:37:09.584278",
   "schedules": [
     {
       "id": 1,
@@ -393123,6 +393123,26 @@
       "change_reason": null
     },
     {
+      "id": 21273,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15199,
       "date": "2026-06-04",
       "pair_number": 5,
@@ -393646,6 +393666,26 @@
       "change_reason": null
     },
     {
+      "id": 21274,
+      "date": "2026-06-05",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3665,
       "date": "2026-06-05",
       "pair_number": 1,
@@ -394007,6 +394047,26 @@
         "id": 20,
         "number": "111"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21275,
+      "date": "2026-06-05",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -394836,25 +394896,22 @@
       "change_reason": null
     },
     {
-      "id": 3443,
+      "id": 21276,
       "date": "2026-06-05",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 52,
         "name": "ЭНГМ 1-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 24,
+        "name": "Ермеков Д."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -395332,6 +395389,26 @@
       "teacher": {
         "id": 24,
         "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21277,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
       "room": null,
