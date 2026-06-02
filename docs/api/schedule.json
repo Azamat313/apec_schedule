@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:28:37.964977",
+  "generated_at": "2026-06-02T19:29:18.632517",
   "schedules": [
     {
       "id": 1,
@@ -388581,6 +388581,26 @@
         "id": 14,
         "number": "101"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21268,
+      "date": "2026-06-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
