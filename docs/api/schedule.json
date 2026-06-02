@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:29:02.572225",
+  "generated_at": "2026-06-02T20:30:03.340543",
   "schedules": [
     {
       "id": 1,
@@ -388646,6 +388646,26 @@
       "teacher": {
         "id": 53,
         "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21302,
+      "date": "2026-06-02",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
