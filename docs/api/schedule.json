@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:45:55.394202",
+  "generated_at": "2026-06-02T19:47:16.262617",
   "schedules": [
     {
       "id": 1,
@@ -384914,6 +384914,26 @@
       "change_reason": null
     },
     {
+      "id": 21288,
+      "date": "2026-06-01",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 2982,
       "date": "2026-06-01",
       "pair_number": 1,
@@ -385711,29 +385731,6 @@
       "room": {
         "id": 19,
         "number": "110"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8113,
-      "date": "2026-06-01",
-      "pair_number": 3,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
       },
       "notes": null,
       "change_reason": null
@@ -386620,6 +386617,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21289,
+      "date": "2026-06-01",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
