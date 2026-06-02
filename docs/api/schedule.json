@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:47:31.643847",
+  "generated_at": "2026-06-02T20:48:39.536928",
   "schedules": [
     {
       "id": 1,
@@ -392677,6 +392677,26 @@
       "change_reason": null
     },
     {
+      "id": 21325,
+      "date": "2026-06-04",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8000,
       "date": "2026-06-04",
       "pair_number": 3,
@@ -393281,6 +393301,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21326,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -394096,29 +394136,6 @@
       "room": {
         "id": 25,
         "number": "205"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2026,
-      "date": "2026-06-05",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
       },
       "notes": null,
       "change_reason": null
@@ -395269,6 +395286,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21327,
+      "date": "2026-06-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
