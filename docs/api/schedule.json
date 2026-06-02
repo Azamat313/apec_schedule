@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:29:18.632517",
+  "generated_at": "2026-06-02T19:34:13.121851",
   "schedules": [
     {
       "id": 1,
@@ -390560,25 +390560,22 @@
       "change_reason": null
     },
     {
-      "id": 3440,
+      "id": 21269,
       "date": "2026-06-03",
       "pair_number": 4,
       "status": "planned",
-      "discipline": "География",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 52,
         "name": "ЭНГМ 1-25"
       },
       "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
+        "id": 3,
+        "name": "Ажгалиев М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 30,
-        "number": "210"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -391030,6 +391027,26 @@
       "teacher": {
         "id": 24,
         "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21270,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
       },
       "substitute_teacher": null,
       "room": null,
