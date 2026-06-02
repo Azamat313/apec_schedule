@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:03:15.659290",
+  "generated_at": "2026-06-02T20:04:22.422702",
   "schedules": [
     {
       "id": 1,
@@ -393236,6 +393236,26 @@
       "change_reason": null
     },
     {
+      "id": 21296,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15199,
       "date": "2026-06-04",
       "pair_number": 5,
@@ -395114,6 +395134,26 @@
         "id": 31,
         "number": "211"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21297,
+      "date": "2026-06-05",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
