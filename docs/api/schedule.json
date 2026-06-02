@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:38:47.122722",
+  "generated_at": "2026-06-02T19:40:52.732270",
   "schedules": [
     {
       "id": 1,
@@ -386587,6 +386587,26 @@
       "change_reason": null
     },
     {
+      "id": 21280,
+      "date": "2026-06-01",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 15299,
       "date": "2026-06-01",
       "pair_number": 5,
@@ -391643,25 +391663,22 @@
       "change_reason": null
     },
     {
-      "id": 3881,
+      "id": 21281,
       "date": "2026-06-04",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "Казахская литература",
+      "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -392666,6 +392683,26 @@
       "change_reason": null
     },
     {
+      "id": 21282,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 4146,
       "date": "2026-06-04",
       "pair_number": 4,
@@ -393110,6 +393147,26 @@
       "teacher": {
         "id": 24,
         "name": "Ермеков Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 21283,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 65,
+        "name": "Тастанбеков С."
       },
       "substitute_teacher": null,
       "room": null,
