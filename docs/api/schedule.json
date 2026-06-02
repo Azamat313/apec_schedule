@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:40:52.732270",
+  "generated_at": "2026-06-02T19:42:03.555126",
   "schedules": [
     {
       "id": 1,
@@ -393717,25 +393717,22 @@
       "change_reason": null
     },
     {
-      "id": 3886,
+      "id": 21284,
       "date": "2026-06-05",
       "pair_number": 1,
       "status": "planned",
-      "discipline": "География",
+      "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 73,
-        "number": "П10-209"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
