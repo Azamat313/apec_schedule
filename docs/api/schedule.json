@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T12:45:26.282976",
+  "generated_at": "2026-06-05T10:58:23.731885",
   "schedules": [
     {
       "id": 1,
@@ -391866,26 +391866,6 @@
         "id": 33,
         "number": "213"
       },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 21272,
-      "date": "2026-06-04",
-      "pair_number": 1,
-      "status": "planned",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": null,
       "notes": null,
       "change_reason": null
     },
