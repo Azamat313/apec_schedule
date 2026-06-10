@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T14:53:39.230301",
+  "generated_at": "2026-06-10T11:40:36.178273",
   "schedules": [
     {
       "id": 1,
@@ -105484,29 +105484,6 @@
       "room": {
         "id": 27,
         "number": "207"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 12199,
-      "date": "2026-02-26",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 13,
-        "name": "АиУ 5-25"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
       },
       "notes": null,
       "change_reason": null
