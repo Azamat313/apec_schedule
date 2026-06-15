@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:43:39.826847",
+  "generated_at": "2026-06-15T19:47:54.674000",
   "schedules": [
     {
       "id": 1,
@@ -406972,7 +406972,7 @@
       "id": 22897,
       "date": "2026-06-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -413210,7 +413210,7 @@
       "id": 22899,
       "date": "2026-06-09",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -416023,6 +416023,26 @@
       "change_reason": null
     },
     {
+      "id": 22900,
+      "date": "2026-06-10",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3669,
       "date": "2026-06-10",
       "pair_number": 3,
@@ -416778,6 +416798,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22901,
+      "date": "2026-06-10",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -417567,6 +417607,26 @@
       "change_reason": null
     },
     {
+      "id": 22902,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22744,
       "date": "2026-06-10",
       "pair_number": 5,
@@ -418011,6 +418071,29 @@
       },
       "notes": null,
       "change_reason": null
+    },
+    {
+      "id": 22903,
+      "date": "2026-06-10",
+      "pair_number": 6,
+      "status": "substitution",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
     },
     {
       "id": 21634,
@@ -421490,6 +421573,29 @@
       "change_reason": null
     },
     {
+      "id": 22904,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
+    },
+    {
       "id": 22747,
       "date": "2026-06-11",
       "pair_number": 5,
@@ -424812,29 +424918,6 @@
       "change_reason": null
     },
     {
-      "id": 3453,
-      "date": "2026-06-12",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 7330,
       "date": "2026-06-12",
       "pair_number": 4,
@@ -427807,6 +427890,26 @@
       "change_reason": null
     },
     {
+      "id": 22905,
+      "date": "2026-06-15",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8981,
       "date": "2026-06-15",
       "pair_number": 4,
@@ -429772,6 +429875,26 @@
       "change_reason": null
     },
     {
+      "id": 22906,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8244,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -430125,6 +430248,26 @@
         "id": 56,
         "number": "С/з"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22907,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -433582,6 +433725,26 @@
       "teacher": {
         "id": 34,
         "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22908,
+      "date": "2026-06-18",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
