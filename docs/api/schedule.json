@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T17:01:11.924278",
+  "generated_at": "2026-06-15T17:11:22.997612",
   "schedules": [
     {
       "id": 1,
@@ -392625,6 +392625,29 @@
       "change_reason": null
     },
     {
+      "id": 22805,
+      "date": "2026-06-02",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 31,
+        "name": "ПО 3-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 47,
+        "number": "313"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21432,
       "date": "2026-06-02",
       "pair_number": 5,
@@ -396926,6 +396949,29 @@
       "change_reason": null
     },
     {
+      "id": 22806,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21354,
       "date": "2026-06-03",
       "pair_number": 5,
@@ -397039,6 +397085,29 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22807,
+      "date": "2026-06-03",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 47,
+        "number": "313"
       },
       "notes": null,
       "change_reason": null
@@ -400964,6 +401033,52 @@
       "change_reason": null
     },
     {
+      "id": 22808,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
+      "lesson_type": "theory",
+      "group": {
+        "id": 2,
+        "name": "АиУ 1-23"
+      },
+      "teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 26,
+        "number": "206"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22809,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
+      "lesson_type": "theory",
+      "group": {
+        "id": 9,
+        "name": "АиУ 3-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21358,
       "date": "2026-06-04",
       "pair_number": 5,
@@ -401074,6 +401189,29 @@
       "room": {
         "id": 43,
         "number": "309"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22810,
+      "date": "2026-06-04",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 47,
+        "number": "313"
       },
       "notes": null,
       "change_reason": null
@@ -405281,6 +405419,52 @@
       "change_reason": null
     },
     {
+      "id": 22811,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
+      "lesson_type": "theory",
+      "group": {
+        "id": 2,
+        "name": "АиУ 1-23"
+      },
+      "teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 26,
+        "number": "206"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22812,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
+      "lesson_type": "theory",
+      "group": {
+        "id": 9,
+        "name": "АиУ 3-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21362,
       "date": "2026-06-05",
       "pair_number": 5,
@@ -405391,6 +405575,52 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22813,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22814,
+      "date": "2026-06-05",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 31,
+        "name": "ПО 3-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 47,
+        "number": "313"
       },
       "notes": null,
       "change_reason": null
@@ -409224,6 +409454,29 @@
       "change_reason": null
     },
     {
+      "id": 22817,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "cancelled",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21581,
       "date": "2026-06-08",
       "pair_number": 5,
@@ -409403,6 +409656,52 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22815,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 38,
+        "name": "ХТП 1-23"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22816,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.5 Выявлять, предотвращать и устранять причины нарушений хода технологического процесса",
+      "lesson_type": "theory",
+      "group": {
+        "id": 42,
+        "name": "ХТП 2-23"
+      },
+      "teacher": {
+        "id": 14,
+        "name": "Байгужиева М."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 13,
+        "number": "34"
       },
       "notes": null,
       "change_reason": null
@@ -413147,6 +413446,55 @@
       "change_reason": null
     },
     {
+      "id": 22818,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 34,
+        "name": "ТДНГ 1-23"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "room": {
+        "id": 23,
+        "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22819,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21768,
       "date": "2026-06-09",
       "pair_number": 5,
@@ -413219,6 +413567,32 @@
       "change_reason": null
     },
     {
+      "id": 22821,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 31,
+        "name": "ПО 3-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "room": {
+        "id": 39,
+        "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21662,
       "date": "2026-06-09",
       "pair_number": 5,
@@ -413286,6 +413660,29 @@
       "room": {
         "id": 21,
         "number": "201"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22820,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 42,
+        "name": "ХТП 2-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
       },
       "notes": null,
       "change_reason": null
@@ -417421,6 +417818,55 @@
       "change_reason": null
     },
     {
+      "id": 22822,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 34,
+        "name": "ТДНГ 1-23"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "room": {
+        "id": 23,
+        "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22823,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21772,
       "date": "2026-06-10",
       "pair_number": 5,
@@ -417480,6 +417926,29 @@
       "teacher": {
         "id": 77,
         "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22826,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
       },
       "substitute_teacher": null,
       "room": {
@@ -417557,6 +418026,52 @@
       "room": {
         "id": 21,
         "number": "201"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22824,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.5 Выявлять, предотвращать и устранять причины нарушений хода технологического процесса",
+      "lesson_type": "theory",
+      "group": {
+        "id": 42,
+        "name": "ХТП 2-23"
+      },
+      "teacher": {
+        "id": 14,
+        "name": "Байгужиева М."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 13,
+        "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22825,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 46,
+        "name": "ХТП 3-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
       },
       "notes": null,
       "change_reason": null
@@ -421186,6 +421701,52 @@
       "change_reason": null
     },
     {
+      "id": 22829,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
+      "lesson_type": "theory",
+      "group": {
+        "id": 2,
+        "name": "АиУ 1-23"
+      },
+      "teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 26,
+        "number": "206"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22830,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21589,
       "date": "2026-06-11",
       "pair_number": 5,
@@ -421253,6 +421814,32 @@
       "room": {
         "id": 61,
         "number": "27"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22827,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 34,
+        "name": "ТДНГ 1-23"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "room": {
+        "id": 23,
+        "number": "203"
       },
       "notes": null,
       "change_reason": null
@@ -421327,6 +421914,55 @@
       "change_reason": null
     },
     {
+      "id": 22831,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": {
+        "id": 54,
+        "name": "Романов Б."
+      },
+      "room": {
+        "id": 42,
+        "number": "308"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22832,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 21,
+        "name": "МЕХ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21686,
       "date": "2026-06-11",
       "pair_number": 5,
@@ -421368,6 +422004,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22828,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
+      "lesson_type": "theory",
+      "group": {
+        "id": 46,
+        "name": "ХТП 3-23"
+      },
+      "teacher": {
+        "id": 2,
+        "name": "Адилова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 10,
+        "number": "26"
       },
       "notes": null,
       "change_reason": null
@@ -425158,6 +425817,52 @@
       "change_reason": null
     },
     {
+      "id": 22837,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
+      "lesson_type": "theory",
+      "group": {
+        "id": 2,
+        "name": "АиУ 1-23"
+      },
+      "teacher": {
+        "id": 1,
+        "name": "Абсенова Б."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 26,
+        "number": "206"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22838,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21609,
       "date": "2026-06-12",
       "pair_number": 5,
@@ -425199,6 +425904,55 @@
       "room": {
         "id": 5,
         "number": "21"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22833,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
+      "lesson_type": "theory",
+      "group": {
+        "id": 34,
+        "name": "ТДНГ 1-23"
+      },
+      "teacher": {
+        "id": 37,
+        "name": "Кадргалиева А."
+      },
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "room": {
+        "id": 23,
+        "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22834,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
       },
       "notes": null,
       "change_reason": null
@@ -425248,6 +426002,55 @@
       "room": {
         "id": 20,
         "number": "111"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22839,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22840,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
       },
       "notes": null,
       "change_reason": null
@@ -425317,6 +426120,52 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22835,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 38,
+        "name": "ХТП 1-23"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22836,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
+      "lesson_type": "theory",
+      "group": {
+        "id": 42,
+        "name": "ХТП 2-23"
+      },
+      "teacher": {
+        "id": 14,
+        "name": "Байгужиева М."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 13,
+        "number": "34"
       },
       "notes": null,
       "change_reason": null
@@ -427633,6 +428482,29 @@
       "change_reason": null
     },
     {
+      "id": 22841,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
+      "lesson_type": "theory",
+      "group": {
+        "id": 15,
+        "name": "БНГС 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21902,
       "date": "2026-06-15",
       "pair_number": 5,
@@ -427651,6 +428523,52 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22843,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 20,
+        "number": "111"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22844,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 2,
+        "number": "17"
       },
       "notes": null,
       "change_reason": null
@@ -427697,6 +428615,29 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22842,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 38,
+        "name": "ХТП 1-23"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
       },
       "notes": null,
       "change_reason": null
@@ -429636,6 +430577,32 @@
       "change_reason": null
     },
     {
+      "id": 22847,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 6.3 Выполнять расчет, разборку и сборку механических и электрических частей электрооборудования",
+      "lesson_type": "theory",
+      "group": {
+        "id": 55,
+        "name": "ЭС 1-23"
+      },
+      "teacher": {
+        "id": 59,
+        "name": "Сериккалиев А."
+      },
+      "substitute_teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
+      "room": {
+        "id": 8,
+        "number": "24"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21888,
       "date": "2026-06-16",
       "pair_number": 5,
@@ -429677,6 +430644,55 @@
       "room": {
         "id": 26,
         "number": "206"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22849,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 2,
+        "name": "АиУ 1-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22850,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": {
+        "id": 56,
+        "name": "Саматова А."
+      },
+      "room": {
+        "id": 16,
+        "number": "105"
       },
       "notes": null,
       "change_reason": null
@@ -429728,6 +430744,52 @@
       "change_reason": null
     },
     {
+      "id": 22845,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
+      "lesson_type": "theory",
+      "group": {
+        "id": 15,
+        "name": "БНГС 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22846,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 23,
+        "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21905,
       "date": "2026-06-16",
       "pair_number": 5,
@@ -429746,6 +430808,52 @@
       "room": {
         "id": 43,
         "number": "309"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22851,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 64,
+        "name": "Сырымбетұлы Ш."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22852,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 2,
+        "number": "17"
       },
       "notes": null,
       "change_reason": null
@@ -429792,6 +430900,29 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22848,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 38,
+        "name": "ХТП 1-23"
+      },
+      "teacher": {
+        "id": 77,
+        "name": "Ғалымжанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
       },
       "notes": null,
       "change_reason": null
@@ -429976,6 +431107,52 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22853,
+      "date": "2026-06-16",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22854,
+      "date": "2026-06-16",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
+      "lesson_type": "theory",
+      "group": {
+        "id": 19,
+        "name": "МЕХ 1-23"
+      },
+      "teacher": {
+        "id": 11,
+        "name": "Багиткалиев А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 2,
+        "number": "17"
       },
       "notes": null,
       "change_reason": null
@@ -431434,6 +432611,52 @@
       "change_reason": null
     },
     {
+      "id": 22856,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 55,
+        "name": "ЭС 1-23"
+      },
+      "teacher": {
+        "id": 8,
+        "name": "Аристанов А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22857,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
+      "lesson_type": "theory",
+      "group": {
+        "id": 59,
+        "name": "ЭС 2-23"
+      },
+      "teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 8,
+        "number": "24"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21885,
       "date": "2026-06-17",
       "pair_number": 5,
@@ -431452,6 +432675,29 @@
       "room": {
         "id": 1,
         "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22859,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
       },
       "notes": null,
       "change_reason": null
@@ -431480,6 +432726,29 @@
       "change_reason": null
     },
     {
+      "id": 22855,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
+      "lesson_type": "theory",
+      "group": {
+        "id": 15,
+        "name": "БНГС 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21909,
       "date": "2026-06-17",
       "pair_number": 5,
@@ -431498,6 +432767,32 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22860,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 31,
+        "name": "ПО 3-23"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "room": {
+        "id": 27,
+        "number": "207"
       },
       "notes": null,
       "change_reason": null
@@ -431567,6 +432862,29 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22858,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
+      "lesson_type": "theory",
+      "group": {
+        "id": 38,
+        "name": "ХТП 1-23"
+      },
+      "teacher": {
+        "id": 66,
+        "name": "Темирханова Г."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 21,
+        "number": "201"
       },
       "notes": null,
       "change_reason": null
@@ -432800,6 +434118,29 @@
       "change_reason": null
     },
     {
+      "id": 22863,
+      "date": "2026-06-18",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 81,
+        "name": "Нурланұлы С."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 56,
+        "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21810,
       "date": "2026-06-18",
       "pair_number": 5,
@@ -432841,6 +434182,78 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22861,
+      "date": "2026-06-18",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
+      "lesson_type": "theory",
+      "group": {
+        "id": 15,
+        "name": "БНГС 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22862,
+      "date": "2026-06-18",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 23,
+        "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22864,
+      "date": "2026-06-18",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Web-технологии (WS)",
+      "lesson_type": "theory",
+      "group": {
+        "id": 32,
+        "name": "ПО 4-23"
+      },
+      "teacher": {
+        "id": 22,
+        "name": "Дауылбай А."
+      },
+      "substitute_teacher": {
+        "id": 41,
+        "name": "Калмен С."
+      },
+      "room": {
+        "id": 39,
+        "number": "305"
       },
       "notes": null,
       "change_reason": null
@@ -433706,6 +435119,52 @@
       "change_reason": null
     },
     {
+      "id": 22866,
+      "date": "2026-06-19",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22865,
+      "date": "2026-06-19",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21914,
       "date": "2026-06-19",
       "pair_number": 5,
@@ -433752,6 +435211,52 @@
       "change_reason": null
     },
     {
+      "id": 22868,
+      "date": "2026-06-19",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
+      "lesson_type": "theory",
+      "group": {
+        "id": 6,
+        "name": "АиУ 2-23"
+      },
+      "teacher": {
+        "id": 50,
+        "name": "Омурсинова А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 1,
+        "number": "5"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22867,
+      "date": "2026-06-19",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 47,
+        "name": "Мырзагалиева А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 11,
+        "number": "28"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21915,
       "date": "2026-06-19",
       "pair_number": 6,
@@ -433770,6 +435275,29 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22869,
+      "date": "2026-06-19",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 27,
+        "name": "ПО 2-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
