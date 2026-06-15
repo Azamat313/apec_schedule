@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:23:56.257298",
+  "generated_at": "2026-06-15T20:29:31.141078",
   "schedules": [
     {
       "id": 1,
@@ -406322,7 +406322,7 @@
       "id": 22930,
       "date": "2026-06-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -407035,7 +407035,7 @@
       "id": 22931,
       "date": "2026-06-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -409327,7 +409327,7 @@
       "id": 22932,
       "date": "2026-06-08",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -423401,7 +423401,7 @@
       "id": 22935,
       "date": "2026-06-12",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -428479,6 +428479,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22936,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
