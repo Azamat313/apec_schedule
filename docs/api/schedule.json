@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:42:47.157736",
+  "generated_at": "2026-06-15T19:43:39.826847",
   "schedules": [
     {
       "id": 1,
@@ -414355,29 +414355,6 @@
       "change_reason": null
     },
     {
-      "id": 7225,
-      "date": "2026-06-10",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Информатика",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 24,
-        "name": "Ермеков Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 20,
-        "number": "111"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 3670,
       "date": "2026-06-10",
       "pair_number": 1,
@@ -416041,29 +416018,6 @@
       "room": {
         "id": 23,
         "number": "203"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3450,
-      "date": "2026-06-10",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
