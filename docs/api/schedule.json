@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T17:20:05.934795",
+  "generated_at": "2026-06-15T19:18:21.677281",
   "schedules": [
     {
       "id": 1,
@@ -407711,29 +407711,6 @@
       "change_reason": null
     },
     {
-      "id": 6926,
-      "date": "2026-06-08",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2514,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -410258,6 +410235,26 @@
         "id": 10,
         "number": "26"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22870,
+      "date": "2026-06-09",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -416769,29 +416766,6 @@
       "room": {
         "id": 13,
         "number": "34"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 1831,
-      "date": "2026-06-10",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
