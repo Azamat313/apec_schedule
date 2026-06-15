@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:19:24.666138",
+  "generated_at": "2026-06-15T19:20:32.202734",
   "schedules": [
     {
       "id": 1,
@@ -416771,6 +416771,26 @@
       "change_reason": null
     },
     {
+      "id": 22871,
+      "date": "2026-06-10",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7139,
       "date": "2026-06-10",
       "pair_number": 4,
@@ -418601,29 +418621,6 @@
       "room": {
         "id": 26,
         "number": "206"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7009,
-      "date": "2026-06-11",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 17,
-        "name": "БНГС 1-25"
-      },
-      "teacher": {
-        "id": 81,
-        "name": "Нурланұлы С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
       },
       "notes": null,
       "change_reason": null
@@ -420716,6 +420713,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22872,
+      "date": "2026-06-11",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 17,
+        "name": "БНГС 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
