@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:34:25.816462",
+  "generated_at": "2026-06-15T19:40:10.748489",
   "schedules": [
     {
       "id": 1,
@@ -406969,25 +406969,22 @@
       "change_reason": null
     },
     {
-      "id": 7201,
+      "id": 22897,
       "date": "2026-06-08",
       "pair_number": 2,
-      "status": "done",
-      "discipline": "Всемирная история",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 52,
         "name": "ЭНГМ 1-25"
       },
       "teacher": {
-        "id": 19,
-        "name": "Даулетбаева Г."
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 28,
-        "number": "208"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
