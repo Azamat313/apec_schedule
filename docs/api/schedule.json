@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T15:44:48.361912",
+  "generated_at": "2026-06-15T15:49:39.406510",
   "schedules": [
     {
       "id": 1,
@@ -407757,29 +407757,6 @@
       "change_reason": null
     },
     {
-      "id": 1440,
-      "date": "2026-06-08",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Информатика",
-      "lesson_type": "theory",
-      "group": {
-        "id": 12,
-        "name": "АиУ 4-25"
-      },
-      "teacher": {
-        "id": 39,
-        "name": "Кайыров А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 1659,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -407798,6 +407775,29 @@
       "room": {
         "id": 79,
         "number": "П10-315"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22785,
+      "date": "2026-06-08",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -408505,24 +408505,24 @@
       "change_reason": null
     },
     {
-      "id": 2248,
+      "id": 22776,
       "date": "2026-06-08",
       "pair_number": 4,
       "status": "done",
-      "discipline": "Химия",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 15,
-        "name": "Бекет А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 14,
-        "number": "101"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -409089,7 +409089,7 @@
       "id": 22742,
       "date": "2026-06-08",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -410308,6 +410308,29 @@
       "change_reason": null
     },
     {
+      "id": 22777,
+      "date": "2026-06-09",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22306,
       "date": "2026-06-09",
       "pair_number": 1,
@@ -410956,6 +410979,29 @@
       "room": {
         "id": 24,
         "number": "204"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22778,
+      "date": "2026-06-09",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -412267,24 +412313,24 @@
       "change_reason": null
     },
     {
-      "id": 7786,
+      "id": 22779,
       "date": "2026-06-09",
       "pair_number": 4,
       "status": "done",
-      "discipline": "Английский язык",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 10,
-        "name": "Аяпбергенова О."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 29,
-        "number": "209"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -412894,7 +412940,7 @@
       "id": 22743,
       "date": "2026-06-09",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -414220,24 +414266,24 @@
       "change_reason": null
     },
     {
-      "id": 1442,
+      "id": 22780,
       "date": "2026-06-10",
       "pair_number": 1,
       "status": "done",
-      "discipline": "Казахская литература",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 79,
-        "number": "П10-315"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -415100,24 +415146,24 @@
       "change_reason": null
     },
     {
-      "id": 2031,
+      "id": 22781,
       "date": "2026-06-10",
       "pair_number": 2,
       "status": "done",
-      "discipline": "Русский язык и литература",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 25,
         "name": "ПО 1-25"
       },
       "teacher": {
-        "id": 6,
-        "name": "Амангалиева Г."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 49,
-        "number": "315"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -416584,24 +416630,24 @@
       "change_reason": null
     },
     {
-      "id": 7939,
+      "id": 22782,
       "date": "2026-06-10",
       "pair_number": 4,
       "status": "done",
-      "discipline": "Физическая культура",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 25,
         "name": "ПО 1-25"
       },
       "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 52,
-        "number": "Спортзал"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -417191,7 +417237,7 @@
       "id": 22744,
       "date": "2026-06-10",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -418419,7 +418465,7 @@
       "id": 22745,
       "date": "2026-06-11",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -419066,24 +419112,24 @@
       "change_reason": null
     },
     {
-      "id": 2252,
+      "id": 22783,
       "date": "2026-06-11",
       "pair_number": 2,
       "status": "done",
-      "discipline": "Казахская литература",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 79,
-        "number": "П10-315"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -419745,24 +419791,24 @@
       "change_reason": null
     },
     {
-      "id": 1446,
+      "id": 22784,
       "date": "2026-06-11",
       "pair_number": 3,
       "status": "done",
-      "discipline": "Физическая культура",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 64,
-        "name": "Сырымбетұлы Ш."
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": {
-        "id": 52,
-        "number": "Спортзал"
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -420418,7 +420464,7 @@
       "id": 22746,
       "date": "2026-06-11",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -421002,7 +421048,7 @@
       "id": 22747,
       "date": "2026-06-11",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -423645,7 +423691,7 @@
       "id": 22748,
       "date": "2026-06-12",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -424393,7 +424439,7 @@
       "id": 22749,
       "date": "2026-06-12",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -424974,7 +425020,7 @@
       "id": 22750,
       "date": "2026-06-12",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -425814,7 +425860,7 @@
       "id": 8696,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -425837,7 +425883,7 @@
       "id": 22751,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -425860,7 +425906,7 @@
       "id": 22544,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Проводить своевременное и качественное выполнение планово-предупредительного ремонта, монтаж и регулировку",
       "lesson_type": "theory",
       "group": {
@@ -425883,7 +425929,7 @@
       "id": 22547,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -425932,7 +425978,7 @@
       "id": 22549,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -425981,7 +426027,7 @@
       "id": 22543,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -426030,7 +426076,7 @@
       "id": 22545,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -426053,7 +426099,7 @@
       "id": 22546,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426076,7 +426122,7 @@
       "id": 8697,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -426099,7 +426145,7 @@
       "id": 22752,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -426122,7 +426168,7 @@
       "id": 22554,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426171,7 +426217,7 @@
       "id": 22559,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -426194,7 +426240,7 @@
       "id": 22560,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -426243,7 +426289,7 @@
       "id": 22551,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.6 Вести учет и техническую отчетность по результатам бурения скважины",
       "lesson_type": "theory",
       "group": {
@@ -426266,7 +426312,7 @@
       "id": 22552,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Наблюдать за исправным состоянием в процессе систематического обхода обвязки батарей, трубопроводов и нагнетательных скважин",
       "lesson_type": "theory",
       "group": {
@@ -426289,7 +426335,7 @@
       "id": 22553,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -426312,7 +426358,7 @@
       "id": 22562,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426387,7 +426433,7 @@
       "id": 22565,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -426410,7 +426456,7 @@
       "id": 22556,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Устанавливать соответствие расхода основных и вспомогательных материалов нормативным показателям",
       "lesson_type": "theory",
       "group": {
@@ -426433,7 +426479,7 @@
       "id": 22557,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -426456,7 +426502,7 @@
       "id": 22558,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Участвовать в лабораторных испытаниях исходных веществ, полупродуктов и продуктов производства",
       "lesson_type": "theory",
       "group": {
@@ -426479,7 +426525,7 @@
       "id": 8980,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -426502,7 +426548,7 @@
       "id": 9078,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -426525,7 +426571,7 @@
       "id": 22753,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -426600,7 +426646,7 @@
       "id": 22574,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -426675,7 +426721,7 @@
       "id": 22566,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -426698,7 +426744,7 @@
       "id": 22567,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Проводить шаблонирование насосно-компрессорных труб, отбивку забоя и уровня жидкости в скважинах",
       "lesson_type": "theory",
       "group": {
@@ -426721,7 +426767,7 @@
       "id": 22568,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -426744,7 +426790,7 @@
       "id": 22577,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -426793,7 +426839,7 @@
       "id": 22579,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426816,7 +426862,7 @@
       "id": 22580,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426839,7 +426885,7 @@
       "id": 22571,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
       "lesson_type": "theory",
       "group": {
@@ -426862,7 +426908,7 @@
       "id": 22572,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -426885,7 +426931,7 @@
       "id": 22573,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -426908,7 +426954,7 @@
       "id": 8981,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -426931,7 +426977,7 @@
       "id": 9079,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -426954,7 +427000,7 @@
       "id": 22754,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -426977,7 +427023,7 @@
       "id": 21822,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
       "lesson_type": "theory",
       "group": {
@@ -427000,7 +427046,7 @@
       "id": 21828,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427023,7 +427069,7 @@
       "id": 22583,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
@@ -427046,7 +427092,7 @@
       "id": 21895,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -427069,7 +427115,7 @@
       "id": 22586,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -427118,7 +427164,7 @@
       "id": 21799,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -427141,7 +427187,7 @@
       "id": 21803,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -427164,7 +427210,7 @@
       "id": 22581,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -427187,7 +427233,7 @@
       "id": 22582,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -427210,7 +427256,7 @@
       "id": 21901,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -427233,7 +427279,7 @@
       "id": 22732,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -427282,7 +427328,7 @@
       "id": 22589,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -427305,7 +427351,7 @@
       "id": 22590,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -427328,7 +427374,7 @@
       "id": 21845,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Разрабатывать и оптимизировать автоматизированные технологические процессы в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -427351,7 +427397,7 @@
       "id": 21870,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -427374,7 +427420,7 @@
       "id": 22584,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Участвовать в лабораторных испытаниях исходных веществ, полупродуктов и продуктов производства",
       "lesson_type": "theory",
       "group": {
@@ -427397,7 +427443,7 @@
       "id": 22585,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Устанавливать соответствие расхода основных и вспомогательных материалов нормативным показателям",
       "lesson_type": "theory",
       "group": {
@@ -427420,7 +427466,7 @@
       "id": 22755,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -427469,7 +427515,7 @@
       "id": 21829,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427518,7 +427564,7 @@
       "id": 21896,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -427541,7 +427587,7 @@
       "id": 21800,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -427590,7 +427636,7 @@
       "id": 21902,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -427613,7 +427659,7 @@
       "id": 21846,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "theory",
       "group": {
@@ -427636,7 +427682,7 @@
       "id": 21871,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427659,7 +427705,7 @@
       "id": 21824,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
       "lesson_type": "theory",
       "group": {
@@ -427682,7 +427728,7 @@
       "id": 21830,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427731,7 +427777,7 @@
       "id": 21897,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -427754,7 +427800,7 @@
       "id": 21801,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -427777,7 +427823,7 @@
       "id": 21804,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -427800,7 +427846,7 @@
       "id": 21903,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Обновлять, удалять версии операционных систем персональных компьютеров и серверов",
       "lesson_type": "theory",
       "group": {
@@ -427823,7 +427869,7 @@
       "id": 22733,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -427846,7 +427892,7 @@
       "id": 21847,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать и анализировать электрические схемы и электронные устройства",
       "lesson_type": "theory",
       "group": {
@@ -427869,7 +427915,7 @@
       "id": 21859,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -427892,7 +427938,7 @@
       "id": 21872,
       "date": "2026-06-15",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427915,7 +427961,7 @@
       "id": 21831,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -427938,7 +427984,7 @@
       "id": 21898,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Производить необходимые переключения для демонтажа и монтажа контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -427961,7 +428007,7 @@
       "id": 21802,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -427984,7 +428030,7 @@
       "id": 21813,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.4 Осуществлять процесс разведочного бурения",
       "lesson_type": "practice",
       "group": {
@@ -428007,7 +428053,7 @@
       "id": 22734,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -428030,7 +428076,7 @@
       "id": 21848,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -428053,7 +428099,7 @@
       "id": 21873,
       "date": "2026-06-15",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -428076,7 +428122,7 @@
       "id": 8242,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -428099,7 +428145,7 @@
       "id": 22756,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -428122,7 +428168,7 @@
       "id": 22593,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
@@ -428145,7 +428191,7 @@
       "id": 22596,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -428194,7 +428240,7 @@
       "id": 22591,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -428217,7 +428263,7 @@
       "id": 22592,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Наблюдать за исправным состоянием в процессе систематического обхода обвязки батарей, трубопроводов и нагнетательных скважин",
       "lesson_type": "theory",
       "group": {
@@ -428292,7 +428338,7 @@
       "id": 22600,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -428315,7 +428361,7 @@
       "id": 22594,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Участвовать в лабораторных испытаниях исходных веществ, полупродуктов и продуктов производства",
       "lesson_type": "theory",
       "group": {
@@ -428338,7 +428384,7 @@
       "id": 22595,
       "date": "2026-06-16",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -428361,7 +428407,7 @@
       "id": 8243,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -428384,7 +428430,7 @@
       "id": 22757,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -428407,7 +428453,7 @@
       "id": 22604,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -428430,7 +428476,7 @@
       "id": 22605,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
@@ -428453,7 +428499,7 @@
       "id": 22609,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Обеспечивать проведение ремонтных работ с соблюдением персоналом порядка и инструкций по безопасности и охране труда",
       "lesson_type": "theory",
       "group": {
@@ -428528,7 +428574,7 @@
       "id": 22601,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -428551,7 +428597,7 @@
       "id": 22602,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Наблюдать за исправным состоянием в процессе систематического обхода обвязки батарей, трубопроводов и нагнетательных скважин",
       "lesson_type": "theory",
       "group": {
@@ -428574,7 +428620,7 @@
       "id": 22603,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -428649,7 +428695,7 @@
       "id": 22614,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -428672,7 +428718,7 @@
       "id": 22606,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
       "lesson_type": "theory",
       "group": {
@@ -428695,7 +428741,7 @@
       "id": 22607,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -428718,7 +428764,7 @@
       "id": 22608,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Устанавливать соответствие расхода основных и вспомогательных материалов нормативным показателям",
       "lesson_type": "theory",
       "group": {
@@ -428741,7 +428787,7 @@
       "id": 8244,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -428764,7 +428810,7 @@
       "id": 22758,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -428839,7 +428885,7 @@
       "id": 22623,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -428888,7 +428934,7 @@
       "id": 22615,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -428911,7 +428957,7 @@
       "id": 22616,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Проводить шаблонирование насосно-компрессорных труб, отбивку забоя и уровня жидкости в скважинах",
       "lesson_type": "theory",
       "group": {
@@ -428934,7 +428980,7 @@
       "id": 22617,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -428957,7 +429003,7 @@
       "id": 22625,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -429006,7 +429052,7 @@
       "id": 22627,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -429029,7 +429075,7 @@
       "id": 22620,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -429052,7 +429098,7 @@
       "id": 22621,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -429075,7 +429121,7 @@
       "id": 22622,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -429098,7 +429144,7 @@
       "id": 8245,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -429121,7 +429167,7 @@
       "id": 22759,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -429144,7 +429190,7 @@
       "id": 21832,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -429167,7 +429213,7 @@
       "id": 22631,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Проводить своевременное и качественное выполнение планово-предупредительного ремонта, монтаж и регулировку",
       "lesson_type": "theory",
       "group": {
@@ -429190,7 +429236,7 @@
       "id": 22632,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
@@ -429213,7 +429259,7 @@
       "id": 22635,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -429262,7 +429308,7 @@
       "id": 21805,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -429285,7 +429331,7 @@
       "id": 21814,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -429308,7 +429354,7 @@
       "id": 22628,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -429357,7 +429403,7 @@
       "id": 22630,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -429380,7 +429426,7 @@
       "id": 21904,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -429429,7 +429475,7 @@
       "id": 22638,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -429452,7 +429498,7 @@
       "id": 21874,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -429475,7 +429521,7 @@
       "id": 22633,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -429498,7 +429544,7 @@
       "id": 22634,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -429521,7 +429567,7 @@
       "id": 22760,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -429570,7 +429616,7 @@
       "id": 21833,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -429593,7 +429639,7 @@
       "id": 21888,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -429616,7 +429662,7 @@
       "id": 21899,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -429639,7 +429685,7 @@
       "id": 21806,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -429662,7 +429708,7 @@
       "id": 21815,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -429685,7 +429731,7 @@
       "id": 21905,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -429708,7 +429754,7 @@
       "id": 21849,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -429731,7 +429777,7 @@
       "id": 21860,
       "date": "2026-06-16",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -429754,7 +429800,7 @@
       "id": 21826,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять операции по электроизмерительной и визуальной проверке",
       "lesson_type": "theory",
       "group": {
@@ -429777,7 +429823,7 @@
       "id": 21834,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -429800,7 +429846,7 @@
       "id": 21889,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -429823,7 +429869,7 @@
       "id": 21900,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -429846,7 +429892,7 @@
       "id": 21807,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Проводить геологические и разведочно-поисковые мероприятия",
       "lesson_type": "theory",
       "group": {
@@ -429869,7 +429915,7 @@
       "id": 21816,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -429892,7 +429938,7 @@
       "id": 21906,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -429915,7 +429961,7 @@
       "id": 22735,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -429938,7 +429984,7 @@
       "id": 21850,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -429961,7 +430007,7 @@
       "id": 21861,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -429984,7 +430030,7 @@
       "id": 21875,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -430007,7 +430053,7 @@
       "id": 21827,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Комплектовать инструменты, электрооборудование и укладывать провода, электрические розетки, выключатели",
       "lesson_type": "theory",
       "group": {
@@ -430030,7 +430076,7 @@
       "id": 21835,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -430053,7 +430099,7 @@
       "id": 21890,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.1  Осуществлять подготовку оборудования и устройств для поверки приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -430076,7 +430122,7 @@
       "id": 21817,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430099,7 +430145,7 @@
       "id": 21907,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -430122,7 +430168,7 @@
       "id": 22736,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -430145,7 +430191,7 @@
       "id": 21851,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать и анализировать электрические схемы и электронные устройства",
       "lesson_type": "theory",
       "group": {
@@ -430168,7 +430214,7 @@
       "id": 21876,
       "date": "2026-06-16",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -430191,7 +430237,7 @@
       "id": 22761,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -430214,7 +430260,7 @@
       "id": 22643,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430315,7 +430361,7 @@
       "id": 22646,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -430338,7 +430384,7 @@
       "id": 22640,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
       "lesson_type": "theory",
       "group": {
@@ -430361,7 +430407,7 @@
       "id": 22641,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -430384,7 +430430,7 @@
       "id": 22642,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -430407,7 +430453,7 @@
       "id": 22762,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -430430,7 +430476,7 @@
       "id": 22652,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430479,7 +430525,7 @@
       "id": 22647,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -430502,7 +430548,7 @@
       "id": 22648,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
       "lesson_type": "theory",
       "group": {
@@ -430525,7 +430571,7 @@
       "id": 22654,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -430574,7 +430620,7 @@
       "id": 22656,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -430597,7 +430643,7 @@
       "id": 22649,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -430620,7 +430666,7 @@
       "id": 22650,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
       "lesson_type": "theory",
       "group": {
@@ -430643,7 +430689,7 @@
       "id": 22651,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430666,7 +430712,7 @@
       "id": 22763,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -430741,7 +430787,7 @@
       "id": 22664,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -430764,7 +430810,7 @@
       "id": 22657,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -430787,7 +430833,7 @@
       "id": 22658,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430810,7 +430856,7 @@
       "id": 22659,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -430833,7 +430879,7 @@
       "id": 22665,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430856,7 +430902,7 @@
       "id": 22666,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -430905,7 +430951,7 @@
       "id": 22668,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать мероприятия по устранению причин отказов и обнаружению дефектов оборудования мехатронных систем",
       "lesson_type": "theory",
       "group": {
@@ -430928,7 +430974,7 @@
       "id": 22662,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -430951,7 +430997,7 @@
       "id": 22663,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
       "lesson_type": "theory",
       "group": {
@@ -430974,7 +431020,7 @@
       "id": 22764,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -430997,7 +431043,7 @@
       "id": 21836,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431020,7 +431066,7 @@
       "id": 22671,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.4 Проводить своевременное и качественное выполнение планово-предупредительного ремонта, монтаж и регулировку",
       "lesson_type": "theory",
       "group": {
@@ -431043,7 +431089,7 @@
       "id": 22672,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Проводить и выполнять наладку релейной защиты и автоматики",
       "lesson_type": "theory",
       "group": {
@@ -431066,7 +431112,7 @@
       "id": 22675,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -431089,7 +431135,7 @@
       "id": 21808,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -431112,7 +431158,7 @@
       "id": 22669,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -431135,7 +431181,7 @@
       "id": 22670,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -431158,7 +431204,7 @@
       "id": 21908,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431207,7 +431253,7 @@
       "id": 22677,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -431230,7 +431276,7 @@
       "id": 22678,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -431253,7 +431299,7 @@
       "id": 21862,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -431276,7 +431322,7 @@
       "id": 21877,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -431299,7 +431345,7 @@
       "id": 22673,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
       "lesson_type": "theory",
       "group": {
@@ -431322,7 +431368,7 @@
       "id": 22674,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -431345,7 +431391,7 @@
       "id": 22765,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -431368,7 +431414,7 @@
       "id": 21837,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431391,7 +431437,7 @@
       "id": 21885,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Осуществлять предмонтажную проверку инструмента, оборудования и приспособлений",
       "lesson_type": "theory",
       "group": {
@@ -431414,7 +431460,7 @@
       "id": 21809,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -431437,7 +431483,7 @@
       "id": 21909,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431460,7 +431506,7 @@
       "id": 21852,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "theory",
       "group": {
@@ -431483,7 +431529,7 @@
       "id": 21863,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Разрабатывать и оптимизировать автоматизированные технологические процессы в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -431506,7 +431552,7 @@
       "id": 21878,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431529,7 +431575,7 @@
       "id": 21838,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431552,7 +431598,7 @@
       "id": 21886,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.1 Осуществлять предмонтажную проверку инструмента, оборудования и приспособлений",
       "lesson_type": "theory",
       "group": {
@@ -431575,7 +431621,7 @@
       "id": 21891,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -431598,7 +431644,7 @@
       "id": 21818,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -431621,7 +431667,7 @@
       "id": 21910,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -431644,7 +431690,7 @@
       "id": 22737,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -431667,7 +431713,7 @@
       "id": 21853,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "theory",
       "group": {
@@ -431690,7 +431736,7 @@
       "id": 21864,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -431713,7 +431759,7 @@
       "id": 21879,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431736,7 +431782,7 @@
       "id": 21839,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431759,7 +431805,7 @@
       "id": 21892,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -431782,7 +431828,7 @@
       "id": 21819,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -431805,7 +431851,7 @@
       "id": 21911,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -431828,7 +431874,7 @@
       "id": 22738,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -431848,7 +431894,7 @@
       "id": 21854,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -431871,7 +431917,7 @@
       "id": 21865,
       "date": "2026-06-17",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -431894,7 +431940,7 @@
       "id": 22766,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -431917,7 +431963,7 @@
       "id": 22683,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -431940,7 +431986,7 @@
       "id": 22679,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -431963,7 +432009,7 @@
       "id": 22680,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -432012,7 +432058,7 @@
       "id": 22681,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -432035,7 +432081,7 @@
       "id": 22682,
       "date": "2026-06-18",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -432058,7 +432104,7 @@
       "id": 22767,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432081,7 +432127,7 @@
       "id": 22690,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -432104,7 +432150,7 @@
       "id": 22685,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.7 Проводить крепление ствола скважины и ее тампонаж",
       "lesson_type": "theory",
       "group": {
@@ -432127,7 +432173,7 @@
       "id": 22686,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
       "lesson_type": "theory",
       "group": {
@@ -432176,7 +432222,7 @@
       "id": 22687,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -432199,7 +432245,7 @@
       "id": 22688,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -432222,7 +432268,7 @@
       "id": 22689,
       "date": "2026-06-18",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -432245,7 +432291,7 @@
       "id": 22768,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432268,7 +432314,7 @@
       "id": 22697,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -432291,7 +432337,7 @@
       "id": 22692,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -432314,7 +432360,7 @@
       "id": 22693,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -432363,7 +432409,7 @@
       "id": 22694,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -432386,7 +432432,7 @@
       "id": 22695,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -432409,7 +432455,7 @@
       "id": 22696,
       "date": "2026-06-18",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -432432,7 +432478,7 @@
       "id": 22769,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432455,7 +432501,7 @@
       "id": 21840,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -432478,7 +432524,7 @@
       "id": 22703,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.2 Осуществлять оформление актов на преждевременный выход контрольно-измерительных приборов и средств автоматизации из строя",
       "lesson_type": "theory",
       "group": {
@@ -432501,7 +432547,7 @@
       "id": 21820,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -432524,7 +432570,7 @@
       "id": 22699,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -432547,7 +432593,7 @@
       "id": 22700,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -432596,7 +432642,7 @@
       "id": 21855,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "theory",
       "group": {
@@ -432619,7 +432665,7 @@
       "id": 21866,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.3 Разрабатывать и оптимизировать автоматизированные технологические процессы в химической промышленности",
       "lesson_type": "theory",
       "group": {
@@ -432642,7 +432688,7 @@
       "id": 22701,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Назначать и обосновывать технологический режим производства",
       "lesson_type": "theory",
       "group": {
@@ -432665,7 +432711,7 @@
       "id": 22702,
       "date": "2026-06-18",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Выявлять, предотвращать и устранять причины нарушений хода технологического процесса",
       "lesson_type": "theory",
       "group": {
@@ -432688,7 +432734,7 @@
       "id": 22770,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432711,7 +432757,7 @@
       "id": 21841,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -432734,7 +432780,7 @@
       "id": 21893,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -432757,7 +432803,7 @@
       "id": 21810,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -432780,7 +432826,7 @@
       "id": 21821,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -432803,7 +432849,7 @@
       "id": 21856,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -432826,7 +432872,7 @@
       "id": 21867,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -432849,7 +432895,7 @@
       "id": 21880,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -432872,7 +432918,7 @@
       "id": 21842,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -432895,7 +432941,7 @@
       "id": 21887,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 2.3 Осуществлять поверку и проверку контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "theory",
       "group": {
@@ -432918,7 +432964,7 @@
       "id": 21894,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Проводить оценку рисков, устанавливая меры контроля при техническом обслуживании, диагностики контрольно-измерительных приборов и средств автоматики",
       "lesson_type": "practice",
       "group": {
@@ -432941,7 +432987,7 @@
       "id": 21811,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Участвовать в процессе цементирования и исследования целостности скважин",
       "lesson_type": "practice",
       "group": {
@@ -432964,7 +433010,7 @@
       "id": 21912,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
       "lesson_type": "practice",
       "group": {
@@ -432987,7 +433033,7 @@
       "id": 22739,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -433010,7 +433056,7 @@
       "id": 21857,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 1.3 Оценивать готовность к работе контрольно-измерительных приборов и автоматики, средств связи",
       "lesson_type": "theory",
       "group": {
@@ -433033,7 +433079,7 @@
       "id": 21868,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать и анализировать электрические схемы и электронные устройства",
       "lesson_type": "theory",
       "group": {
@@ -433056,7 +433102,7 @@
       "id": 21881,
       "date": "2026-06-18",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433079,7 +433125,7 @@
       "id": 21913,
       "date": "2026-06-18",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433102,7 +433148,7 @@
       "id": 22740,
       "date": "2026-06-18",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
       "lesson_type": "theory",
       "group": {
@@ -433125,7 +433171,7 @@
       "id": 21858,
       "date": "2026-06-18",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.1 Разрабатывать и анализировать электрические схемы и электронные устройства",
       "lesson_type": "theory",
       "group": {
@@ -433148,7 +433194,7 @@
       "id": 21869,
       "date": "2026-06-18",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 5.2 Применять стандарты и метрологические принципы для обеспечения соответствия продукции международным требованиям и нормам",
       "lesson_type": "theory",
       "group": {
@@ -433171,7 +433217,7 @@
       "id": 21882,
       "date": "2026-06-18",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.4 Выполнять пуск и останов технологического оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433194,7 +433240,7 @@
       "id": 22771,
       "date": "2026-06-19",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -433217,7 +433263,7 @@
       "id": 22706,
       "date": "2026-06-19",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -433240,7 +433286,7 @@
       "id": 22707,
       "date": "2026-06-19",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.1 Устанавливать систему управления веб контентом",
       "lesson_type": "theory",
       "group": {
@@ -433263,7 +433309,7 @@
       "id": 22705,
       "date": "2026-06-19",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.5 Выявлять, предотвращать и устранять причины нарушений хода технологического процесса",
       "lesson_type": "theory",
       "group": {
@@ -433286,7 +433332,7 @@
       "id": 22772,
       "date": "2026-06-19",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -433309,7 +433355,7 @@
       "id": 22709,
       "date": "2026-06-19",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -433358,7 +433404,7 @@
       "id": 22708,
       "date": "2026-06-19",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Актуализировать технологическую документацию с учетом анализа отклонений",
       "lesson_type": "theory",
       "group": {
@@ -433381,7 +433427,7 @@
       "id": 22773,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -433404,7 +433450,7 @@
       "id": 22712,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -433427,7 +433473,7 @@
       "id": 22713,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -433450,7 +433496,7 @@
       "id": 22711,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -433499,7 +433545,7 @@
       "id": 22774,
       "date": "2026-06-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -433522,7 +433568,7 @@
       "id": 22717,
       "date": "2026-06-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -433545,7 +433591,7 @@
       "id": 22715,
       "date": "2026-06-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.4 Принимать и сдавать вахту при проведении буровых работ",
       "lesson_type": "theory",
       "group": {
@@ -433568,7 +433614,7 @@
       "id": 22716,
       "date": "2026-06-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "РО 7.3 Выполнять работы по приготовлению необходимых реагентов, растворов, жидкостей",
       "lesson_type": "theory",
       "group": {
@@ -433617,7 +433663,7 @@
       "id": 22775,
       "date": "2026-06-19",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -433640,7 +433686,7 @@
       "id": 21843,
       "date": "2026-06-19",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433663,7 +433709,7 @@
       "id": 21914,
       "date": "2026-06-19",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433686,7 +433732,7 @@
       "id": 21844,
       "date": "2026-06-19",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433709,7 +433755,7 @@
       "id": 21915,
       "date": "2026-06-19",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433732,7 +433778,7 @@
       "id": 21916,
       "date": "2026-06-19",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
@@ -433755,7 +433801,7 @@
       "id": 22741,
       "date": "2026-06-22",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Web-технологии (WS)",
       "lesson_type": "theory",
       "group": {
@@ -433778,7 +433824,7 @@
       "id": 8246,
       "date": "2026-06-23",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433801,7 +433847,7 @@
       "id": 8247,
       "date": "2026-06-23",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433824,7 +433870,7 @@
       "id": 8248,
       "date": "2026-06-23",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433847,7 +433893,7 @@
       "id": 8249,
       "date": "2026-06-23",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433870,7 +433916,7 @@
       "id": 8250,
       "date": "2026-06-30",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433893,7 +433939,7 @@
       "id": 8251,
       "date": "2026-06-30",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433916,7 +433962,7 @@
       "id": 8252,
       "date": "2026-06-30",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -433939,7 +433985,7 @@
       "id": 8253,
       "date": "2026-06-30",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
