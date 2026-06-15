@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:09:28.409270",
+  "generated_at": "2026-06-15T20:13:20.717382",
   "schedules": [
     {
       "id": 1,
@@ -406319,25 +406319,22 @@
       "change_reason": null
     },
     {
-      "id": 3887,
+      "id": 22930,
       "date": "2026-06-08",
       "pair_number": 1,
-      "status": "done",
-      "discipline": "Казахская литература",
+      "status": "planned",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 3,
+        "name": "Ажгалиев М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -407012,29 +407009,6 @@
       "change_reason": null
     },
     {
-      "id": 7340,
-      "date": "2026-06-08",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 6685,
       "date": "2026-06-08",
       "pair_number": 2,
@@ -407054,6 +407028,26 @@
         "id": 27,
         "number": "207"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22931,
+      "date": "2026-06-08",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Химия",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 3,
+        "name": "Ажгалиев М."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -409328,6 +409322,26 @@
       "room": null,
       "notes": null,
       "change_reason": "командировка"
+    },
+    {
+      "id": 22932,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
     },
     {
       "id": 22742,
@@ -411733,29 +411747,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3889,
-      "date": "2026-06-09",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
       "notes": null,
       "change_reason": null
     },
@@ -414449,29 +414440,6 @@
       "change_reason": null
     },
     {
-      "id": 7364,
-      "date": "2026-06-10",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 3,
-        "name": "Ажгалиев М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 18,
-        "number": "109"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 9174,
       "date": "2026-06-10",
       "pair_number": 1,
@@ -415283,7 +415251,7 @@
       "id": 3891,
       "date": "2026-06-10",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -415294,13 +415262,16 @@
         "id": 24,
         "name": "Ермеков Д."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
       "room": {
         "id": 20,
         "number": "111"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 9175,
@@ -417698,6 +417669,29 @@
       "change_reason": null
     },
     {
+      "id": 22933,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 61,
+        "name": "ЭС 2-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": {
+        "id": 23,
+        "name": "Елеусинов Е."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
+    },
+    {
       "id": 22744,
       "date": "2026-06-10",
       "pair_number": 5,
@@ -418768,29 +418762,6 @@
       "change_reason": null
     },
     {
-      "id": 3892,
-      "date": "2026-06-11",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 8077,
       "date": "2026-06-11",
       "pair_number": 1,
@@ -419431,29 +419402,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3894,
-      "date": "2026-06-11",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 61,
-        "name": "ЭС 2-25"
-      },
-      "teacher": {
-        "id": 3,
-        "name": "Ажгалиев М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 18,
-        "number": "109"
-      },
       "notes": null,
       "change_reason": null
     },
