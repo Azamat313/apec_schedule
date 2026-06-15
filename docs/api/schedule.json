@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:41:10.587788",
+  "generated_at": "2026-06-15T19:42:47.157736",
   "schedules": [
     {
       "id": 1,
@@ -409267,6 +409267,29 @@
       "change_reason": null
     },
     {
+      "id": 22898,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "substitution",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 24,
+        "name": "Ермеков Д."
+      },
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
+      "room": null,
+      "notes": null,
+      "change_reason": "командировка"
+    },
+    {
       "id": 22742,
       "date": "2026-06-08",
       "pair_number": 5,
@@ -413180,6 +413203,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22899,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 52,
+        "name": "ЭНГМ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
