@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:15:08.789263",
+  "generated_at": "2026-06-15T20:23:56.257298",
   "schedules": [
     {
       "id": 1,
@@ -423398,25 +423398,22 @@
       "change_reason": null
     },
     {
-      "id": 7399,
+      "id": 22935,
       "date": "2026-06-12",
       "pair_number": 2,
-      "status": "done",
-      "discipline": "Физическая культура",
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
         "id": 61,
         "name": "ЭС 2-25"
       },
       "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
