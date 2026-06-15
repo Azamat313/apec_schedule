@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:29:30.395860",
+  "generated_at": "2026-06-15T19:30:40.304323",
   "schedules": [
     {
       "id": 1,
@@ -431487,6 +431487,26 @@
       "change_reason": null
     },
     {
+      "id": 22890,
+      "date": "2026-06-17",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22761,
       "date": "2026-06-17",
       "pair_number": 1,
@@ -433374,6 +433394,26 @@
       "change_reason": null
     },
     {
+      "id": 22891,
+      "date": "2026-06-18",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22766,
       "date": "2026-06-18",
       "pair_number": 1,
@@ -433551,6 +433591,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22892,
+      "date": "2026-06-18",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
       "room": null,
