@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:40:10.748489",
+  "generated_at": "2026-06-15T19:41:10.587788",
   "schedules": [
     {
       "id": 1,
@@ -407726,29 +407726,6 @@
       "room": {
         "id": 33,
         "number": "213"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3446,
-      "date": "2026-06-08",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 52,
-        "name": "ЭНГМ 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
       },
       "notes": null,
       "change_reason": null
