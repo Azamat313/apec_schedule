@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:47:54.674000",
+  "generated_at": "2026-06-15T20:05:04.894019",
   "schedules": [
     {
       "id": 1,
@@ -407731,6 +407731,26 @@
       "change_reason": null
     },
     {
+      "id": 22909,
+      "date": "2026-06-08",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 57,
+        "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7342,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -408475,6 +408495,26 @@
         "id": 33,
         "number": "213"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22910,
+      "date": "2026-06-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 57,
+        "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -410302,29 +410342,6 @@
       "change_reason": null
     },
     {
-      "id": 7292,
-      "date": "2026-06-09",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 57,
-        "name": "ЭС 1-25"
-      },
-      "teacher": {
-        "id": 3,
-        "name": "Ажгалиев М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 18,
-        "number": "109"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 3888,
       "date": "2026-06-09",
       "pair_number": 1,
@@ -410993,29 +411010,6 @@
       "room": {
         "id": 23,
         "number": "203"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3668,
-      "date": "2026-06-09",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 57,
-        "name": "ЭС 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
       },
       "notes": null,
       "change_reason": null
@@ -411723,6 +411717,26 @@
       "change_reason": null
     },
     {
+      "id": 22911,
+      "date": "2026-06-09",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 57,
+        "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3889,
       "date": "2026-06-09",
       "pair_number": 3,
@@ -412418,6 +412432,26 @@
         "id": 18,
         "number": "109"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22912,
+      "date": "2026-06-09",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 57,
+        "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -413227,6 +413261,26 @@
       "change_reason": null
     },
     {
+      "id": 22913,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22743,
       "date": "2026-06-09",
       "pair_number": 5,
@@ -413679,6 +413733,26 @@
       "change_reason": null
     },
     {
+      "id": 22914,
+      "date": "2026-06-09",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21632,
       "date": "2026-06-09",
       "pair_number": 6,
@@ -414000,6 +414074,26 @@
         "id": 21,
         "number": "201"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22915,
+      "date": "2026-06-09",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 57,
+        "name": "ЭС 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -414350,29 +414444,6 @@
       "room": {
         "id": 16,
         "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 3670,
-      "date": "2026-06-10",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 57,
-        "name": "ЭС 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
@@ -418697,29 +418768,6 @@
       "change_reason": null
     },
     {
-      "id": 8792,
-      "date": "2026-06-11",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 57,
-        "name": "ЭС 1-25"
-      },
-      "teacher": {
-        "id": 57,
-        "name": "Саржанова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 22,
-        "number": "202"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 3892,
       "date": "2026-06-11",
       "pair_number": 1,
@@ -419367,25 +419415,22 @@
       "change_reason": null
     },
     {
-      "id": 8793,
+      "id": 22916,
       "date": "2026-06-11",
       "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
+      "status": "planned",
+      "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
         "id": 57,
         "name": "ЭС 1-25"
       },
       "teacher": {
-        "id": 57,
-        "name": "Саржанова Э."
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 22,
-        "number": "202"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -420092,25 +420137,22 @@
       "change_reason": null
     },
     {
-      "id": 3673,
+      "id": 22917,
       "date": "2026-06-11",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "Физическая культура",
+      "status": "planned",
+      "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
         "id": 57,
         "name": "ЭС 1-25"
       },
       "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
