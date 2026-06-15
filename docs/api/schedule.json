@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T15:58:54.733216",
+  "generated_at": "2026-06-15T16:59:30.249957",
   "schedules": [
     {
       "id": 1,
@@ -434215,6 +434215,121 @@
       "id": 22799,
       "date": "2026-06-24",
       "pair_number": 1,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22800,
+      "date": "2026-06-24",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22801,
+      "date": "2026-06-24",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22802,
+      "date": "2026-06-24",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22803,
+      "date": "2026-06-24",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
+      "lesson_type": "theory",
+      "group": {
+        "id": 23,
+        "name": "ПО 1-23"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22804,
+      "date": "2026-06-24",
+      "pair_number": 6,
       "status": "done",
       "discipline": "РО 7.3 Создавать пользовательские шаблоны, плагины для систем управления контентом",
       "lesson_type": "theory",
