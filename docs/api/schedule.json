@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T15:12:14.348477",
+  "generated_at": "2026-06-15T15:44:48.361912",
   "schedules": [
     {
       "id": 1,
@@ -409086,6 +409086,29 @@
       "change_reason": null
     },
     {
+      "id": 22742,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21629,
       "date": "2026-06-08",
       "pair_number": 5,
@@ -410285,29 +410308,6 @@
       "change_reason": null
     },
     {
-      "id": 7974,
-      "date": "2026-06-09",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22306,
       "date": "2026-06-09",
       "pair_number": 1,
@@ -410956,29 +410956,6 @@
       "room": {
         "id": 24,
         "number": "204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2249,
-      "date": "2026-06-09",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
-      },
-      "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 79,
-        "number": "П10-315"
       },
       "notes": null,
       "change_reason": null
@@ -412909,6 +412886,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22743,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -417188,6 +417188,29 @@
       "change_reason": null
     },
     {
+      "id": 22744,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21633,
       "date": "2026-06-10",
       "pair_number": 5,
@@ -418388,6 +418411,29 @@
       "room": {
         "id": 24,
         "number": "204"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22745,
+      "date": "2026-06-11",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -420369,6 +420415,29 @@
       "change_reason": null
     },
     {
+      "id": 22746,
+      "date": "2026-06-11",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8004,
       "date": "2026-06-11",
       "pair_number": 4,
@@ -420925,6 +420994,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22747,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -423550,6 +423642,29 @@
       "change_reason": null
     },
     {
+      "id": 22748,
+      "date": "2026-06-12",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7883,
       "date": "2026-06-12",
       "pair_number": 3,
@@ -424275,6 +424390,29 @@
       "change_reason": null
     },
     {
+      "id": 22749,
+      "date": "2026-06-12",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7833,
       "date": "2026-06-12",
       "pair_number": 4,
@@ -424828,6 +424966,29 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22750,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -425673,6 +425834,29 @@
       "change_reason": null
     },
     {
+      "id": 22751,
+      "date": "2026-06-15",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22544,
       "date": "2026-06-15",
       "pair_number": 1,
@@ -425907,6 +426091,29 @@
       "room": {
         "id": 23,
         "number": "203"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22752,
+      "date": "2026-06-15",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -426315,6 +426522,29 @@
       "change_reason": null
     },
     {
+      "id": 22753,
+      "date": "2026-06-15",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22569,
       "date": "2026-06-15",
       "pair_number": 3,
@@ -426716,6 +426946,29 @@
       "room": {
         "id": 22,
         "number": "202"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22754,
+      "date": "2026-06-15",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -427159,6 +427412,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22755,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -427820,6 +428096,29 @@
       "change_reason": null
     },
     {
+      "id": 22756,
+      "date": "2026-06-16",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22593,
       "date": "2026-06-16",
       "pair_number": 1,
@@ -428077,6 +428376,29 @@
       "room": {
         "id": 31,
         "number": "211"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22757,
+      "date": "2026-06-16",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -428439,6 +428761,29 @@
       "change_reason": null
     },
     {
+      "id": 22758,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22618,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -428768,6 +429113,29 @@
       "room": {
         "id": 48,
         "number": "314"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22759,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -429145,6 +429513,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22760,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -429797,6 +430188,29 @@
       "change_reason": null
     },
     {
+      "id": 22761,
+      "date": "2026-06-17",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22643,
       "date": "2026-06-17",
       "pair_number": 1,
@@ -429985,6 +430399,29 @@
       "room": {
         "id": 10,
         "number": "26"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22762,
+      "date": "2026-06-17",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -430221,6 +430658,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22763,
+      "date": "2026-06-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -430506,6 +430966,29 @@
       "room": {
         "id": 21,
         "number": "201"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22764,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -430854,6 +431337,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22765,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -431385,6 +431891,29 @@
       "change_reason": null
     },
     {
+      "id": 22766,
+      "date": "2026-06-18",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22683,
       "date": "2026-06-18",
       "pair_number": 1,
@@ -431521,6 +432050,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22767,
+      "date": "2026-06-18",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -431690,6 +432242,29 @@
       "change_reason": null
     },
     {
+      "id": 22768,
+      "date": "2026-06-18",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22697,
       "date": "2026-06-18",
       "pair_number": 3,
@@ -431849,6 +432424,29 @@
       "room": {
         "id": 56,
         "number": "С/з"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22769,
+      "date": "2026-06-18",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -432082,6 +432680,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22770,
+      "date": "2026-06-18",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -432570,6 +433191,29 @@
       "change_reason": null
     },
     {
+      "id": 22771,
+      "date": "2026-06-19",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22706,
       "date": "2026-06-19",
       "pair_number": 1,
@@ -432634,6 +433278,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22772,
+      "date": "2026-06-19",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -432706,6 +433373,29 @@
       "room": {
         "id": 13,
         "number": "34"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22773,
+      "date": "2026-06-19",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
@@ -432806,6 +433496,29 @@
       "change_reason": null
     },
     {
+      "id": 22774,
+      "date": "2026-06-19",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22717,
       "date": "2026-06-19",
       "pair_number": 4,
@@ -432896,6 +433609,29 @@
       "room": {
         "id": 39,
         "number": "305"
+      },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22775,
+      "date": "2026-06-19",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": {
+        "id": 46,
+        "number": "312"
       },
       "notes": null,
       "change_reason": null
