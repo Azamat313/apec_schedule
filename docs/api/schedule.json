@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T19:30:40.304323",
+  "generated_at": "2026-06-15T19:32:32.432567",
   "schedules": [
     {
       "id": 1,
@@ -434981,6 +434981,26 @@
       "change_reason": null
     },
     {
+      "id": 22893,
+      "date": "2026-06-19",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22772,
       "date": "2026-06-19",
       "pair_number": 2,
@@ -435072,6 +435092,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22894,
+      "date": "2026-06-19",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -435190,6 +435230,26 @@
         "id": 39,
         "number": "305"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22895,
+      "date": "2026-06-19",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 36,
+        "name": "ТДНГ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
