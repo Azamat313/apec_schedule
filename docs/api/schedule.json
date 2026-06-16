@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:32:22.807158",
+  "generated_at": "2026-06-16T11:58:37.985762",
   "schedules": [
     {
       "id": 1,
@@ -385164,7 +385164,7 @@
       "id": 21927,
       "date": "2026-06-01",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -385175,13 +385175,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21917,
@@ -385564,7 +385567,7 @@
       "id": 3874,
       "date": "2026-06-01",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -385575,13 +385578,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 4138,
@@ -389330,7 +389336,7 @@
       "id": 994,
       "date": "2026-06-02",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -389341,13 +389347,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1209,
@@ -390383,7 +390392,7 @@
       "id": 22001,
       "date": "2026-06-02",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -390394,13 +390403,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22010,
@@ -392614,15 +392626,15 @@
         "name": "Тастанбеков С."
       },
       "substitute_teacher": {
-        "id": 8,
-        "name": "Аристанов А."
+        "id": 102,
+        "name": "Аристанов А. Замена"
       },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22805,
@@ -396392,7 +396404,7 @@
       "id": 22099,
       "date": "2026-06-03",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -396403,13 +396415,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21549,
@@ -400499,7 +400514,7 @@
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22172,
@@ -400781,7 +400796,7 @@
       "id": 21283,
       "date": "2026-06-04",
       "pair_number": 5,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -400792,10 +400807,13 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21287,
@@ -402361,7 +402379,7 @@
       "id": 22187,
       "date": "2026-06-05",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -402372,13 +402390,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22178,
@@ -406641,7 +406662,7 @@
       "id": 22249,
       "date": "2026-06-08",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -406652,13 +406673,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22240,
@@ -411472,7 +411496,7 @@
       "id": 22316,
       "date": "2026-06-09",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -411483,13 +411507,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22325,
@@ -413569,15 +413596,15 @@
         "name": "Тастанбеков С."
       },
       "substitute_teacher": {
-        "id": 8,
-        "name": "Аристанов А."
+        "id": 102,
+        "name": "Аристанов А. Замена"
       },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22721,
@@ -417353,7 +417380,7 @@
       "id": 22410,
       "date": "2026-06-10",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -417364,13 +417391,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21771,
@@ -419501,7 +419531,7 @@
       "id": 1014,
       "date": "2026-06-11",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -419512,13 +419542,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 1224,
@@ -421347,7 +421380,7 @@
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22478,
@@ -423056,7 +423089,7 @@
       "id": 22492,
       "date": "2026-06-12",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -423067,13 +423100,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22483,
@@ -425155,7 +425191,7 @@
       "id": 2253,
       "date": "2026-06-12",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -425166,13 +425202,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21654,
@@ -426938,7 +426977,7 @@
       "id": 22549,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -426949,13 +426988,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22542,
@@ -429812,7 +429854,7 @@
       "id": 22603,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -429823,13 +429865,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 56,
         "number": "С/з"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 22612,
