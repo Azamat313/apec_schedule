@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:09:33.005398",
+  "generated_at": "2026-06-16T20:12:13.083695",
   "schedules": [
     {
       "id": 1,
@@ -407976,7 +407976,7 @@
       "id": 23108,
       "date": "2026-06-08",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -409413,7 +409413,7 @@
       "id": 23109,
       "date": "2026-06-08",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -411966,7 +411966,7 @@
       "id": 23110,
       "date": "2026-06-09",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -420222,7 +420222,7 @@
       "id": 23112,
       "date": "2026-06-11",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -420828,7 +420828,7 @@
       "id": 23113,
       "date": "2026-06-11",
       "pair_number": 4,
-      "status": "planned",
+      "status": "substitution",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -420839,10 +420839,13 @@
         "id": 15,
         "name": "Бекет А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 25,
+        "name": "Жолдаскалиева А."
+      },
       "room": null,
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 21651,
@@ -421525,6 +421528,26 @@
         "id": 46,
         "number": "312"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23114,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -425031,30 +425054,24 @@
       "change_reason": null
     },
     {
-      "id": 2253,
+      "id": 23115,
       "date": "2026-06-12",
       "pair_number": 4,
-      "status": "substitution",
-      "discipline": "Физическая культура",
+      "status": "done",
+      "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
+        "id": 35,
+        "name": "Кабиденова Г."
       },
-      "substitute_teacher": {
-        "id": 102,
-        "name": "Аристанов А. Замена"
-      },
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
-      "change_reason": "болеет"
+      "change_reason": null
     },
     {
       "id": 21654,
@@ -425688,6 +425705,26 @@
         "id": 46,
         "number": "312"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23116,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
