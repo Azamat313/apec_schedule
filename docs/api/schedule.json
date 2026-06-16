@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:17:53.048883",
+  "generated_at": "2026-06-16T13:57:02.517027",
   "schedules": [
     {
       "id": 1,
@@ -427878,11 +427878,11 @@
       "change_reason": null
     },
     {
-      "id": 22571,
+      "id": 22944,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
+      "status": "planned",
+      "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
       "lesson_type": "theory",
       "group": {
         "id": 38,
@@ -427893,10 +427893,7 @@
         "name": "Темирханова Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -429926,11 +429923,11 @@
       "change_reason": null
     },
     {
-      "id": 22606,
+      "id": 22945,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "done",
-      "discipline": "РО 7.1 Вести анализ отклонений технологических параметров процесса от регламентных",
+      "status": "planned",
+      "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
       "lesson_type": "theory",
       "group": {
         "id": 38,
@@ -429941,10 +429938,7 @@
         "name": "Темирханова Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -432972,29 +432966,6 @@
       "change_reason": null
     },
     {
-      "id": 22673,
-      "date": "2026-06-17",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
-      "lesson_type": "theory",
-      "group": {
-        "id": 38,
-        "name": "ХТП 1-23"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22674,
       "date": "2026-06-17",
       "pair_number": 4,
@@ -433315,29 +433286,6 @@
       "room": {
         "id": 10,
         "number": "26"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 22858,
-      "date": "2026-06-17",
-      "pair_number": 5,
-      "status": "done",
-      "discipline": "РО 7.2 Определять отклонение нормального режима работы оборудования, принимать меры по их устранению",
-      "lesson_type": "theory",
-      "group": {
-        "id": 38,
-        "name": "ХТП 1-23"
-      },
-      "teacher": {
-        "id": 66,
-        "name": "Темирханова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 21,
-        "number": "201"
       },
       "notes": null,
       "change_reason": null
