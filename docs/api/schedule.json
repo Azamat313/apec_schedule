@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:26:21.295935",
+  "generated_at": "2026-06-16T18:27:35.928941",
   "schedules": [
     {
       "id": 1,
@@ -431125,7 +431125,7 @@
       "id": 23064,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -432634,7 +432634,7 @@
       "id": 23065,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -432970,7 +432970,7 @@
       "id": 23066,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -433352,7 +433352,7 @@
       "id": 23067,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -436123,7 +436123,7 @@
       "id": 23068,
       "date": "2026-06-18",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -437171,7 +437171,7 @@
       "id": 23069,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -437326,7 +437326,7 @@
       "id": 23070,
       "date": "2026-06-19",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -437596,7 +437596,7 @@
       "id": 23071,
       "date": "2026-06-19",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -437751,7 +437751,7 @@
       "id": 23072,
       "date": "2026-06-19",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
