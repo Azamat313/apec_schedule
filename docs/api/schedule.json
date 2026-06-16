@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:16:37.810784",
+  "generated_at": "2026-06-16T17:19:01.480496",
   "schedules": [
     {
       "id": 1,
@@ -427835,6 +427835,26 @@
       "change_reason": null
     },
     {
+      "id": 23046,
+      "date": "2026-06-15",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22753,
       "date": "2026-06-15",
       "pair_number": 3,
@@ -428318,10 +428338,10 @@
       "change_reason": null
     },
     {
-      "id": 22754,
+      "id": 23047,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "done",
+      "status": "planned",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -428333,10 +428353,7 @@
         "name": "Кайыров А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 46,
-        "number": "312"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -428857,6 +428874,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23048,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -429994,6 +430031,26 @@
       "change_reason": null
     },
     {
+      "id": 23049,
+      "date": "2026-06-16",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22757,
       "date": "2026-06-16",
       "pair_number": 2,
@@ -430467,6 +430524,26 @@
       "teacher": {
         "id": 46,
         "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23050,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -433456,6 +433533,26 @@
       "teacher": {
         "id": 46,
         "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23051,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
