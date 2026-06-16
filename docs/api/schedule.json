@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:52:02.864787",
+  "generated_at": "2026-06-16T19:52:58.287875",
   "schedules": [
     {
       "id": 1,
@@ -407220,7 +407220,7 @@
       "id": 23103,
       "date": "2026-06-08",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -411929,7 +411929,7 @@
       "id": 23104,
       "date": "2026-06-09",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -417790,7 +417790,7 @@
       "id": 23105,
       "date": "2026-06-10",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -422815,7 +422815,7 @@
       "id": 23106,
       "date": "2026-06-12",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -425003,7 +425003,7 @@
       "id": 23107,
       "date": "2026-06-12",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
