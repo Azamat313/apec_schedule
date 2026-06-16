@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:03:24.248081",
+  "generated_at": "2026-06-16T14:08:33.040044",
   "schedules": [
     {
       "id": 1,
@@ -418766,25 +418766,22 @@
       "change_reason": null
     },
     {
-      "id": 8077,
+      "id": 22946,
       "date": "2026-06-11",
       "pair_number": 1,
-      "status": "done",
-      "discipline": "География",
+      "status": "planned",
+      "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
         "id": 62,
         "name": "ЭС 3-25"
       },
       "teacher": {
-        "id": 82,
-        "name": "Ибетова Г."
+        "id": 53,
+        "name": "Рахым К."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 73,
-        "number": "П10-209"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -419403,6 +419400,26 @@
       "teacher": {
         "id": 19,
         "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22947,
+      "date": "2026-06-11",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 82,
+        "name": "Ибетова Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -420843,29 +420860,6 @@
       "room": null,
       "notes": null,
       "change_reason": "командировка"
-    },
-    {
-      "id": 4161,
-      "date": "2026-06-11",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 3,
-        "name": "Ажгалиев М."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 18,
-        "number": "109"
-      },
-      "notes": null,
-      "change_reason": null
     },
     {
       "id": 7433,
