@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:37:13.556737",
+  "generated_at": "2026-06-16T20:40:07.900874",
   "schedules": [
     {
       "id": 1,
@@ -406274,6 +406274,26 @@
       "change_reason": null
     },
     {
+      "id": 23121,
+      "date": "2026-06-08",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 71,
+        "name": "ТДНГ 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7189,
       "date": "2026-06-08",
       "pair_number": 1,
@@ -406937,6 +406957,26 @@
         "id": 22,
         "number": "202"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23122,
+      "date": "2026-06-08",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 71,
+        "name": "ТДНГ 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -426718,29 +426758,6 @@
       "change_reason": null
     },
     {
-      "id": 8696,
-      "date": "2026-06-15",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 71,
-        "name": "ТДНГ 1-25б"
-      },
-      "teacher": {
-        "id": 20,
-        "name": "Даулетова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 23,
-        "number": "203"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22886,
       "date": "2026-06-15",
       "pair_number": 1,
@@ -427078,29 +427095,6 @@
       "room": {
         "id": 56,
         "number": "С/з"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8697,
-      "date": "2026-06-15",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 71,
-        "name": "ТДНГ 1-25б"
-      },
-      "teacher": {
-        "id": 20,
-        "name": "Даулетова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 23,
-        "number": "203"
       },
       "notes": null,
       "change_reason": null
