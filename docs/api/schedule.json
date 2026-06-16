@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:41:21.748926",
+  "generated_at": "2026-06-16T19:48:22.966808",
   "schedules": [
     {
       "id": 1,
@@ -422816,29 +422816,6 @@
       "room": {
         "id": 25,
         "number": "205"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7954,
-      "date": "2026-06-12",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Всемирная история",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 19,
-        "name": "Даулетбаева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 28,
-        "number": "208"
       },
       "notes": null,
       "change_reason": null
