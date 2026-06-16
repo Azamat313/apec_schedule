@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:58:06.571078",
+  "generated_at": "2026-06-16T16:59:16.542058",
   "schedules": [
     {
       "id": 1,
@@ -433453,29 +433453,6 @@
       "change_reason": null
     },
     {
-      "id": 21908,
-      "date": "2026-06-17",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 28,
-        "name": "ПО 2-24"
-      },
-      "teacher": {
-        "id": 41,
-        "name": "Калмен С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 39,
-        "number": "305"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22676,
       "date": "2026-06-17",
       "pair_number": 4,
@@ -434051,25 +434028,22 @@
       "change_reason": null
     },
     {
-      "id": 21910,
+      "id": 23022,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "done",
-      "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
+      "status": "planned",
+      "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
         "id": 28,
         "name": "ПО 2-24"
       },
       "teacher": {
-        "id": 53,
-        "name": "Рахым К."
+        "id": 41,
+        "name": "Калмен С."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 43,
-        "number": "309"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
