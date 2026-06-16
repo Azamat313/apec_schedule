@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:29:04.624001",
+  "generated_at": "2026-06-16T21:32:29.424823",
   "schedules": [
     {
       "id": 1,
@@ -389465,29 +389465,6 @@
       "change_reason": null
     },
     {
-      "id": 4906,
-      "date": "2026-06-02",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 66,
-        "name": "АиУ 4-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 5005,
       "date": "2026-06-02",
       "pair_number": 1,
@@ -389507,6 +389484,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23163,
+      "date": "2026-06-02",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 67,
+        "name": "АиУ 5-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -390255,6 +390252,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23164,
+      "date": "2026-06-02",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 67,
+        "name": "АиУ 5-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -391038,6 +391055,26 @@
       "change_reason": null
     },
     {
+      "id": 23158,
+      "date": "2026-06-02",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 66,
+        "name": "АиУ 4-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1649,
       "date": "2026-06-02",
       "pair_number": 3,
@@ -391790,6 +391827,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23159,
+      "date": "2026-06-02",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 66,
+        "name": "АиУ 4-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -398903,6 +398960,26 @@
       "change_reason": null
     },
     {
+      "id": 23160,
+      "date": "2026-06-04",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 66,
+        "name": "АиУ 4-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21323,
       "date": "2026-06-04",
       "pair_number": 2,
@@ -402512,6 +402589,26 @@
       "change_reason": null
     },
     {
+      "id": 23161,
+      "date": "2026-06-05",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 66,
+        "name": "АиУ 4-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 1657,
       "date": "2026-06-05",
       "pair_number": 1,
@@ -403250,6 +403347,26 @@
         "id": 29,
         "number": "209"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23162,
+      "date": "2026-06-05",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 66,
+        "name": "АиУ 4-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -411106,29 +411223,6 @@
       "room": {
         "id": 19,
         "number": "110"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4909,
-      "date": "2026-06-09",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 66,
-        "name": "АиУ 4-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
       },
       "notes": null,
       "change_reason": null
