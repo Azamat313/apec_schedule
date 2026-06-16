@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:35:39.086547",
+  "generated_at": "2026-06-16T20:37:13.556737",
   "schedules": [
     {
       "id": 1,
@@ -406234,7 +406234,7 @@
       "id": 23117,
       "date": "2026-06-08",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -406898,6 +406898,26 @@
       "change_reason": null
     },
     {
+      "id": 23119,
+      "date": "2026-06-08",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 68,
+        "name": "БНГС 1-25б"
+      },
+      "teacher": {
+        "id": 69,
+        "name": "Убигалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7115,
       "date": "2026-06-08",
       "pair_number": 2,
@@ -406959,29 +406979,6 @@
       "room": {
         "id": 16,
         "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 6685,
-      "date": "2026-06-08",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 77,
-        "name": "ЭС 2-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
       },
       "notes": null,
       "change_reason": null
@@ -414421,7 +414418,7 @@
       "id": 23118,
       "date": "2026-06-10",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
@@ -422567,25 +422564,22 @@
       "change_reason": null
     },
     {
-      "id": 6686,
+      "id": 23120,
       "date": "2026-06-12",
       "pair_number": 1,
       "status": "done",
       "discipline": "Английский язык",
       "lesson_type": "theory",
       "group": {
-        "id": 77,
-        "name": "ЭС 2-25б"
+        "id": 68,
+        "name": "БНГС 1-25б"
       },
       "teacher": {
         "id": 69,
         "name": "Убигалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
