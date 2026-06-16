@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:15:42.011632",
+  "generated_at": "2026-06-16T14:18:54.504384",
   "schedules": [
     {
       "id": 1,
@@ -407838,6 +407838,26 @@
       "change_reason": null
     },
     {
+      "id": 22960,
+      "date": "2026-06-08",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 61,
+        "name": "Султангалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 9557,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -408606,6 +408626,26 @@
       "change_reason": null
     },
     {
+      "id": 22961,
+      "date": "2026-06-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 61,
+        "name": "Султангалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 9606,
       "date": "2026-06-08",
       "pair_number": 4,
@@ -409361,6 +409401,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22962,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -410426,29 +410486,6 @@
       "change_reason": null
     },
     {
-      "id": 2767,
-      "date": "2026-06-09",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 28,
-        "name": "Изимова С."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 2998,
       "date": "2026-06-09",
       "pair_number": 1,
@@ -411071,29 +411108,6 @@
       "room": {
         "id": 16,
         "number": "105"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2768,
-      "date": "2026-06-09",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 40,
-        "name": "ХТП 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
@@ -413269,6 +413283,26 @@
       "teacher": {
         "id": 19,
         "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22963,
+      "date": "2026-06-09",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
