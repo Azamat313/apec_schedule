@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:16:17.627965",
+  "generated_at": "2026-06-16T12:17:53.048883",
   "schedules": [
     {
       "id": 1,
@@ -406363,6 +406363,26 @@
       "change_reason": null
     },
     {
+      "id": 22942,
+      "date": "2026-06-08",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 62,
+        "name": "ЭС 3-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 2994,
       "date": "2026-06-08",
       "pair_number": 1,
@@ -412477,29 +412497,6 @@
       "change_reason": null
     },
     {
-      "id": 4158,
-      "date": "2026-06-09",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 7407,
       "date": "2026-06-09",
       "pair_number": 4,
@@ -416138,25 +416135,22 @@
       "change_reason": null
     },
     {
-      "id": 4159,
+      "id": 22943,
       "date": "2026-06-10",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "Казахская литература",
+      "status": "planned",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 62,
         "name": "ЭС 3-25"
       },
       "teacher": {
-        "id": 28,
-        "name": "Изимова С."
+        "id": 3,
+        "name": "Ажгалиев М."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 41,
-        "number": "307"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
