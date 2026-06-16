@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:25:41.763675",
+  "generated_at": "2026-06-16T16:26:33.589397",
   "schedules": [
     {
       "id": 1,
@@ -432861,6 +432861,26 @@
       "change_reason": null
     },
     {
+      "id": 23020,
+      "date": "2026-06-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22763,
       "date": "2026-06-17",
       "pair_number": 3,
@@ -433222,6 +433242,26 @@
       "teacher": {
         "id": 34,
         "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23021,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Химия",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
       "room": null,
