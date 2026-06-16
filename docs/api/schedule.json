@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:52:27.686744",
+  "generated_at": "2026-06-16T20:56:16.930718",
   "schedules": [
     {
       "id": 1,
@@ -407888,6 +407888,26 @@
       "change_reason": null
     },
     {
+      "id": 23137,
+      "date": "2026-06-08",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 7342,
       "date": "2026-06-08",
       "pair_number": 3,
@@ -408666,6 +408686,26 @@
       "teacher": {
         "id": 57,
         "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23138,
+      "date": "2026-06-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
       },
       "substitute_teacher": null,
       "room": null,
@@ -411993,6 +412033,26 @@
       "change_reason": null
     },
     {
+      "id": 23139,
+      "date": "2026-06-09",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8066,
       "date": "2026-06-09",
       "pair_number": 3,
@@ -412670,6 +412730,26 @@
       "teacher": {
         "id": 57,
         "name": "Саржанова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23140,
+      "date": "2026-06-09",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
       },
       "substitute_teacher": null,
       "room": null,
