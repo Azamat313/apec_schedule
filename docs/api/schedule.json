@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:19:01.480496",
+  "generated_at": "2026-06-16T17:27:40.327398",
   "schedules": [
     {
       "id": 1,
@@ -406478,29 +406478,6 @@
       "change_reason": null
     },
     {
-      "id": 1438,
-      "date": "2026-06-08",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 12,
-        "name": "АиУ 4-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 4908,
       "date": "2026-06-08",
       "pair_number": 1,
@@ -407235,29 +407212,6 @@
       "room": {
         "id": 68,
         "number": "П10-204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 1439,
-      "date": "2026-06-08",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 12,
-        "name": "АиУ 4-25"
-      },
-      "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 79,
-        "number": "П10-315"
       },
       "notes": null,
       "change_reason": null
@@ -409809,6 +409763,26 @@
         "id": 13,
         "number": "34"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23052,
+      "date": "2026-06-08",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -427838,7 +427812,7 @@
       "id": 23046,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -428341,7 +428315,7 @@
       "id": 23047,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -428884,7 +428858,7 @@
       "id": 23048,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -430034,7 +430008,7 @@
       "id": 23049,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -430534,7 +430508,7 @@
       "id": 23050,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -433543,7 +433517,7 @@
       "id": 23051,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
