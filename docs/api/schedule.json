@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:25:15.474993",
+  "generated_at": "2026-06-16T18:26:21.295935",
   "schedules": [
     {
       "id": 1,
@@ -437593,6 +437593,26 @@
       "change_reason": null
     },
     {
+      "id": 23071,
+      "date": "2026-06-19",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21844,
       "date": "2026-06-19",
       "pair_number": 6,
@@ -437721,6 +437741,26 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23072,
+      "date": "2026-06-19",
+      "pair_number": 7,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 39,
+        "name": "Кайыров А."
       },
       "substitute_teacher": null,
       "room": null,
