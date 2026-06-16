@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T11:58:37.985762",
+  "generated_at": "2026-06-16T11:59:20.653085",
   "schedules": [
     {
       "id": 1,
@@ -404607,7 +404607,7 @@
       "id": 2243,
       "date": "2026-06-05",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
@@ -404618,13 +404618,16 @@
         "id": 65,
         "name": "Тастанбеков С."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 102,
+        "name": "Аристанов А. Замена"
+      },
       "room": {
         "id": 52,
         "number": "Спортзал"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "болеет"
     },
     {
       "id": 21412,
