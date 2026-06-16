@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:52:58.287875",
+  "generated_at": "2026-06-16T20:08:11.812036",
   "schedules": [
     {
       "id": 1,
@@ -407973,25 +407973,22 @@
       "change_reason": null
     },
     {
-      "id": 2247,
+      "id": 23108,
       "date": "2026-06-08",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
+        "id": 84,
+        "name": "Рыскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -409409,6 +409406,26 @@
         "id": 46,
         "number": "312"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23109,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 29,
+        "name": "ПО 2-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -411946,25 +411963,22 @@
       "change_reason": null
     },
     {
-      "id": 7976,
+      "id": 23110,
       "date": "2026-06-09",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
+      "status": "planned",
+      "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 12,
-        "name": "Багытова А."
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 24,
-        "number": "204"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -412610,25 +412624,22 @@
       "change_reason": null
     },
     {
-      "id": 7978,
+      "id": 23111,
       "date": "2026-06-09",
       "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
+      "status": "planned",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 29,
         "name": "ПО 2-25"
       },
       "teacher": {
-        "id": 12,
-        "name": "Багытова А."
+        "id": 15,
+        "name": "Бекет А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 24,
-        "number": "204"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -420202,29 +420213,6 @@
       "change_reason": null
     },
     {
-      "id": 8001,
-      "date": "2026-06-11",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
-      },
-      "teacher": {
-        "id": 12,
-        "name": "Багытова А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 24,
-        "number": "204"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22455,
       "date": "2026-06-11",
       "pair_number": 3,
@@ -420806,29 +420794,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8004,
-      "date": "2026-06-11",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
-      },
-      "teacher": {
-        "id": 12,
-        "name": "Багытова А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 24,
-        "number": "204"
       },
       "notes": null,
       "change_reason": null
