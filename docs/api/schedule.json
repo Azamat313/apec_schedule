@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:00:55.906835",
+  "generated_at": "2026-06-16T16:02:20.292158",
   "schedules": [
     {
       "id": 1,
@@ -430738,6 +430738,26 @@
       "change_reason": null
     },
     {
+      "id": 22998,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8245,
       "date": "2026-06-16",
       "pair_number": 4,
@@ -431194,6 +431214,26 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22999,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
       "room": null,
@@ -433093,6 +433133,26 @@
       "change_reason": null
     },
     {
+      "id": 23000,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22764,
       "date": "2026-06-17",
       "pair_number": 4,
@@ -433461,6 +433521,26 @@
       "change_reason": null
     },
     {
+      "id": 23001,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22765,
       "date": "2026-06-17",
       "pair_number": 5,
@@ -433759,6 +433839,26 @@
         "id": 10,
         "number": "26"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23002,
+      "date": "2026-06-17",
+      "pair_number": 6,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 44,
+        "name": "ХТП 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
