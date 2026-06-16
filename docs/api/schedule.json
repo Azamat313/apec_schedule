@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:07:18.233744",
+  "generated_at": "2026-06-16T17:09:05.444706",
   "schedules": [
     {
       "id": 1,
@@ -427335,7 +427335,7 @@
       "id": 23031,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -428844,6 +428844,26 @@
       "change_reason": null
     },
     {
+      "id": 23040,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22755,
       "date": "2026-06-15",
       "pair_number": 5,
@@ -429937,7 +429957,7 @@
       "id": 23032,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -430397,7 +430417,7 @@
       "id": 23033,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -430834,7 +430854,7 @@
       "id": 23034,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432918,7 +432938,7 @@
       "id": 23035,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -433326,7 +433346,7 @@
       "id": 23036,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -433731,7 +433751,7 @@
       "id": 23037,
       "date": "2026-06-17",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -436505,7 +436525,7 @@
       "id": 23038,
       "date": "2026-06-19",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -436788,6 +436808,26 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23039,
+      "date": "2026-06-19",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
       },
       "substitute_teacher": null,
       "room": null,
