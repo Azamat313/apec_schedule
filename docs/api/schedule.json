@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:05:20.275978",
+  "generated_at": "2026-06-16T21:24:30.004086",
   "schedules": [
     {
       "id": 1,
@@ -398110,6 +398110,26 @@
       "change_reason": null
     },
     {
+      "id": 23151,
+      "date": "2026-06-04",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 74,
+        "name": "ХТП 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21308,
       "date": "2026-06-04",
       "pair_number": 1,
@@ -398793,6 +398813,26 @@
         "id": 31,
         "number": "211"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23152,
+      "date": "2026-06-04",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 74,
+        "name": "ХТП 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -431016,29 +431056,6 @@
       "change_reason": null
     },
     {
-      "id": 8244,
-      "date": "2026-06-16",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 74,
-        "name": "ХТП 3-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 48,
-        "number": "314"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 23033,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -431509,29 +431526,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8245,
-      "date": "2026-06-16",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 74,
-        "name": "ХТП 3-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 48,
-        "number": "314"
-      },
       "notes": null,
       "change_reason": null
     },
