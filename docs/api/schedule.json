@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:19:14.453822",
+  "generated_at": "2026-06-16T16:21:10.181173",
   "schedules": [
     {
       "id": 1,
@@ -408761,6 +408761,26 @@
       "change_reason": null
     },
     {
+      "id": 23007,
+      "date": "2026-06-08",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "География",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 84,
+        "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21628,
       "date": "2026-06-08",
       "pair_number": 4,
@@ -409375,6 +409395,26 @@
       "teacher": {
         "id": 84,
         "name": "Рыскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23008,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Всемирная История",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
       "room": null,
