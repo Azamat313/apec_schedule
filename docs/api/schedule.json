@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:24:30.004086",
+  "generated_at": "2026-06-16T21:27:19.569820",
   "schedules": [
     {
       "id": 1,
@@ -406742,6 +406742,26 @@
         "id": 31,
         "number": "211"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23153,
+      "date": "2026-06-08",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 74,
+        "name": "ХТП 3-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
