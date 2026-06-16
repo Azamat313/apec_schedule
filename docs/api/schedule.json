@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:39:27.551729",
+  "generated_at": "2026-06-16T18:41:40.743856",
   "schedules": [
     {
       "id": 1,
@@ -419491,29 +419491,6 @@
       "change_reason": null
     },
     {
-      "id": 7637,
-      "date": "2026-06-11",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 77,
-        "name": "Ғалымжанов А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 1014,
       "date": "2026-06-11",
       "pair_number": 2,
@@ -420228,29 +420205,6 @@
       "room": {
         "id": 25,
         "number": "205"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 764,
-      "date": "2026-06-11",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
       },
       "notes": null,
       "change_reason": null
@@ -422858,25 +422812,22 @@
       "change_reason": null
     },
     {
-      "id": 7647,
+      "id": 23082,
       "date": "2026-06-12",
       "pair_number": 1,
-      "status": "done",
-      "discipline": "Казахская литература",
+      "status": "planned",
+      "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
         "id": 4,
         "name": "АиУ 1-25"
       },
       "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -424352,29 +424303,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 766,
-      "date": "2026-06-12",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
       "notes": null,
       "change_reason": null
     },
