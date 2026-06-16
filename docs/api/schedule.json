@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:59:16.542058",
+  "generated_at": "2026-06-16T17:01:22.926794",
   "schedules": [
     {
       "id": 1,
@@ -433453,6 +433453,26 @@
       "change_reason": null
     },
     {
+      "id": 23023,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "ПО РО 2.4 Устанавливать и управлять ресурсами программного обеспечения и операционных систем",
+      "lesson_type": "practice",
+      "group": {
+        "id": 28,
+        "name": "ПО 2-24"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22676,
       "date": "2026-06-17",
       "pair_number": 4,
@@ -434031,7 +434051,7 @@
       "id": 23022,
       "date": "2026-06-17",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "ПО РО 2.5 Обновлять, удалять драйверы персональных компьютеров, серверов, периферийных устройств, оборудования",
       "lesson_type": "practice",
       "group": {
