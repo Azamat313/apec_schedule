@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:52:30.086167",
+  "generated_at": "2026-06-16T18:54:37.534884",
   "schedules": [
     {
       "id": 1,
@@ -417750,6 +417750,26 @@
       "teacher": {
         "id": 53,
         "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23085,
+      "date": "2026-06-10",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
