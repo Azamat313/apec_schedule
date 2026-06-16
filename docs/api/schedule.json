@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:49:02.008119",
+  "generated_at": "2026-06-16T19:50:18.775984",
   "schedules": [
     {
       "id": 1,
@@ -411926,25 +411926,22 @@
       "change_reason": null
     },
     {
-      "id": 2029,
+      "id": 23104,
       "date": "2026-06-09",
       "pair_number": 3,
-      "status": "done",
-      "discipline": "Казахская литература",
+      "status": "planned",
+      "discipline": "География",
       "lesson_type": "theory",
       "group": {
         "id": 25,
         "name": "ПО 1-25"
       },
       "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
+        "id": 82,
+        "name": "Ибетова Г."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 79,
-        "number": "П10-315"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -416331,29 +416328,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2032,
-      "date": "2026-06-10",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Химия",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 25,
-        "name": "Жолдаскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 68,
-        "number": "П10-204"
       },
       "notes": null,
       "change_reason": null
