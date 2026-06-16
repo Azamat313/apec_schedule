@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:34:17.570518",
+  "generated_at": "2026-06-16T21:37:05.709912",
   "schedules": [
     {
       "id": 1,
@@ -389531,6 +389531,26 @@
       "change_reason": null
     },
     {
+      "id": 23169,
+      "date": "2026-06-02",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21985,
       "date": "2026-06-02",
       "pair_number": 1,
@@ -390295,6 +390315,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23170,
+      "date": "2026-06-02",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -398322,6 +398362,26 @@
       "change_reason": null
     },
     {
+      "id": 23171,
+      "date": "2026-06-04",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22116,
       "date": "2026-06-04",
       "pair_number": 1,
@@ -399019,6 +399079,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23172,
+      "date": "2026-06-04",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -411331,6 +411411,26 @@
       "change_reason": null
     },
     {
+      "id": 23173,
+      "date": "2026-06-09",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22777,
       "date": "2026-06-09",
       "pair_number": 1,
@@ -411951,6 +412051,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23174,
+      "date": "2026-06-09",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -419785,6 +419905,26 @@
       "change_reason": null
     },
     {
+      "id": 23175,
+      "date": "2026-06-11",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22745,
       "date": "2026-06-11",
       "pair_number": 1,
@@ -420284,6 +420424,26 @@
         "id": 24,
         "number": "204"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23176,
+      "date": "2026-06-11",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 69,
+        "name": "ПО 1-25б"
+      },
+      "teacher": {
+        "id": 43,
+        "name": "Лян А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
