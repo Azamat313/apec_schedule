@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:55:32.219040",
+  "generated_at": "2026-06-16T19:03:44.849206",
   "schedules": [
     {
       "id": 1,
@@ -406455,29 +406455,6 @@
       "change_reason": null
     },
     {
-      "id": 1219,
-      "date": "2026-06-08",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 11,
-        "name": "АиУ 3-25"
-      },
-      "teacher": {
-        "id": 13,
-        "name": "Базарбаева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 79,
-        "number": "П10-315"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 4908,
       "date": "2026-06-08",
       "pair_number": 1,
@@ -409369,6 +409346,26 @@
       "teacher": {
         "id": 19,
         "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23086,
+      "date": "2026-06-08",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 11,
+        "name": "АиУ 3-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
