@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:40:49.432792",
+  "generated_at": "2026-06-16T20:43:32.989668",
   "schedules": [
     {
       "id": 1,
@@ -384776,6 +384776,26 @@
       "change_reason": null
     },
     {
+      "id": 23123,
+      "date": "2026-06-01",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3653,
       "date": "2026-06-01",
       "pair_number": 1,
@@ -385537,6 +385557,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23124,
+      "date": "2026-06-01",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -389172,6 +389212,26 @@
       "change_reason": null
     },
     {
+      "id": 23125,
+      "date": "2026-06-02",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3656,
       "date": "2026-06-02",
       "pair_number": 1,
@@ -389945,6 +390005,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23126,
+      "date": "2026-06-02",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -399118,6 +399198,26 @@
       "change_reason": null
     },
     {
+      "id": 23127,
+      "date": "2026-06-04",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 21278,
       "date": "2026-06-04",
       "pair_number": 3,
@@ -399858,6 +399958,26 @@
         "id": 23,
         "number": "203"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23128,
+      "date": "2026-06-04",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 75,
+        "name": "ЭНГМ 1-25б"
+      },
+      "teacher": {
+        "id": 32,
+        "name": "Ихсанова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
