@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:24:00.750611",
+  "generated_at": "2026-06-16T19:36:10.468596",
   "schedules": [
     {
       "id": 1,
@@ -408649,7 +408649,7 @@
       "id": 23092,
       "date": "2026-06-08",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная история",
       "lesson_type": "theory",
       "group": {
@@ -409787,7 +409787,7 @@
       "id": 23052,
       "date": "2026-06-08",
       "pair_number": 6,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -410106,7 +410106,7 @@
       "id": 23091,
       "date": "2026-06-08",
       "pair_number": 7,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -411932,25 +411932,22 @@
       "change_reason": null
     },
     {
-      "id": 7784,
+      "id": 23093,
       "date": "2026-06-09",
       "pair_number": 3,
       "status": "done",
-      "discipline": "Английский язык",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 10,
-        "name": "Аяпбергенова О."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 29,
-        "number": "209"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -419010,25 +419007,22 @@
       "change_reason": null
     },
     {
-      "id": 4812,
+      "id": 23094,
       "date": "2026-06-11",
       "pair_number": 1,
       "status": "done",
-      "discipline": "Английский язык",
+      "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
         "id": 12,
         "name": "АиУ 4-25"
       },
       "teacher": {
-        "id": 10,
-        "name": "Аяпбергенова О."
+        "id": 25,
+        "name": "Жолдаскалиева А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 29,
-        "number": "209"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -419577,29 +419571,6 @@
       "room": {
         "id": 25,
         "number": "205"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 7790,
-      "date": "2026-06-11",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 12,
-        "name": "АиУ 4-25"
-      },
-      "teacher": {
-        "id": 10,
-        "name": "Аяпбергенова О."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 29,
-        "number": "209"
       },
       "notes": null,
       "change_reason": null
@@ -421593,6 +421564,26 @@
       "teacher": {
         "id": 35,
         "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23095,
+      "date": "2026-06-11",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Всемирная история",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 19,
+        "name": "Даулетбаева Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -425719,6 +425710,26 @@
       "teacher": {
         "id": 19,
         "name": "Даулетбаева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23096,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 12,
+        "name": "АиУ 4-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
