@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:46:04.803408",
+  "generated_at": "2026-06-16T20:51:22.026145",
   "schedules": [
     {
       "id": 1,
@@ -390791,6 +390791,26 @@
       "change_reason": null
     },
     {
+      "id": 23133,
+      "date": "2026-06-02",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 3877,
       "date": "2026-06-02",
       "pair_number": 3,
@@ -391526,6 +391546,26 @@
         "id": 22,
         "number": "202"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23134,
+      "date": "2026-06-02",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 76,
+        "name": "ЭС 1-25б"
+      },
+      "teacher": {
+        "id": 20,
+        "name": "Даулетова Э."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
