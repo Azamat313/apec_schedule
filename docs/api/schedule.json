@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:03:02.447859",
+  "generated_at": "2026-06-16T17:07:18.233744",
   "schedules": [
     {
       "id": 1,
@@ -426970,7 +426970,7 @@
       "id": 23014,
       "date": "2026-06-15",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная История",
       "lesson_type": "theory",
       "group": {
@@ -427315,7 +427315,7 @@
       "id": 23015,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -427325,6 +427325,26 @@
       "teacher": {
         "id": 25,
         "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23031,
+      "date": "2026-06-15",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -427775,7 +427795,7 @@
       "id": 23016,
       "date": "2026-06-15",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -427788,29 +427808,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8980,
-      "date": "2026-06-15",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
       "notes": null,
       "change_reason": null
     },
@@ -428298,29 +428295,6 @@
       "change_reason": null
     },
     {
-      "id": 8981,
-      "date": "2026-06-15",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 61,
-        "name": "Султангалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 35,
-        "number": "215"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 9079,
       "date": "2026-06-15",
       "pair_number": 4,
@@ -428370,7 +428344,7 @@
       "id": 23017,
       "date": "2026-06-15",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
@@ -429960,6 +429934,26 @@
       "change_reason": null
     },
     {
+      "id": 23032,
+      "date": "2026-06-16",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22757,
       "date": "2026-06-16",
       "pair_number": 2,
@@ -430400,6 +430394,26 @@
       "change_reason": null
     },
     {
+      "id": 23033,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22758,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -430813,6 +430827,26 @@
         "id": 48,
         "number": "314"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23034,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
@@ -432246,7 +432280,7 @@
       "id": 23018,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Всемирная История",
       "lesson_type": "theory",
       "group": {
@@ -432522,7 +432556,7 @@
       "id": 23019,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -432864,7 +432898,7 @@
       "id": 23020,
       "date": "2026-06-17",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -432874,6 +432908,26 @@
       "teacher": {
         "id": 46,
         "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23035,
+      "date": "2026-06-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -433252,7 +433306,7 @@
       "id": 23021,
       "date": "2026-06-17",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Химия",
       "lesson_type": "theory",
       "group": {
@@ -433262,6 +433316,26 @@
       "teacher": {
         "id": 25,
         "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23036,
+      "date": "2026-06-17",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
       },
       "substitute_teacher": null,
       "room": null,
@@ -433627,6 +433701,46 @@
       "teacher": {
         "id": 6,
         "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23025,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23037,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
       },
       "substitute_teacher": null,
       "room": null,
@@ -434989,6 +435103,26 @@
       "change_reason": null
     },
     {
+      "id": 23026,
+      "date": "2026-06-18",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22768,
       "date": "2026-06-18",
       "pair_number": 3,
@@ -435209,6 +435343,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23027,
+      "date": "2026-06-18",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -436156,6 +436310,26 @@
       "change_reason": null
     },
     {
+      "id": 23028,
+      "date": "2026-06-19",
+      "pair_number": 1,
+      "status": "done",
+      "discipline": "Физическая культура",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 8,
+        "name": "Аристанов А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22771,
       "date": "2026-06-19",
       "pair_number": 1,
@@ -436308,6 +436482,46 @@
       "change_reason": null
     },
     {
+      "id": 23029,
+      "date": "2026-06-19",
+      "pair_number": 2,
+      "status": "done",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23038,
+      "date": "2026-06-19",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 4,
+        "name": "АиУ 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22772,
       "date": "2026-06-19",
       "pair_number": 2,
@@ -436416,6 +436630,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23030,
+      "date": "2026-06-19",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 48,
+        "name": "ХТП 3-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
