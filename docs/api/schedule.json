@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:21:54.617487",
+  "generated_at": "2026-06-16T14:23:12.063288",
   "schedules": [
     {
       "id": 1,
@@ -427680,6 +427680,26 @@
       "change_reason": null
     },
     {
+      "id": 22971,
+      "date": "2026-06-15",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 8980,
       "date": "2026-06-15",
       "pair_number": 3,
@@ -428159,6 +428179,26 @@
       "teacher": {
         "id": 3,
         "name": "Ажгалиев М."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22972,
+      "date": "2026-06-15",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
       },
       "substitute_teacher": null,
       "room": null,
@@ -428691,6 +428731,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22973,
+      "date": "2026-06-15",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
       "room": null,
@@ -431064,6 +431124,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22974,
+      "date": "2026-06-16",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
