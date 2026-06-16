@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:39:21.252617",
+  "generated_at": "2026-06-16T19:41:21.748926",
   "schedules": [
     {
       "id": 1,
@@ -407212,29 +407212,6 @@
       "room": {
         "id": 49,
         "number": "315"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 2028,
-      "date": "2026-06-08",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 25,
-        "name": "ПО 1-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
       },
       "notes": null,
       "change_reason": null
