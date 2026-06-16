@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:31:41.700203",
+  "generated_at": "2026-06-16T20:32:22.116736",
   "schedules": [
     {
       "id": 1,
@@ -414666,29 +414666,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 4910,
-      "date": "2026-06-10",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 66,
-        "name": "АиУ 4-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
       },
       "notes": null,
       "change_reason": null
