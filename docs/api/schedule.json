@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:54:37.534884",
+  "generated_at": "2026-06-16T18:55:32.219040",
   "schedules": [
     {
       "id": 1,
@@ -419508,32 +419508,6 @@
       "change_reason": null
     },
     {
-      "id": 1014,
-      "date": "2026-06-11",
-      "pair_number": 2,
-      "status": "substitution",
-      "discipline": "Физическая культура",
-      "lesson_type": "theory",
-      "group": {
-        "id": 8,
-        "name": "АиУ 2-25"
-      },
-      "teacher": {
-        "id": 65,
-        "name": "Тастанбеков С."
-      },
-      "substitute_teacher": {
-        "id": 102,
-        "name": "Аристанов А. Замена"
-      },
-      "room": {
-        "id": 52,
-        "number": "Спортзал"
-      },
-      "notes": null,
-      "change_reason": "болеет"
-    },
-    {
       "id": 1224,
       "date": "2026-06-11",
       "pair_number": 2,
@@ -420227,29 +420201,6 @@
       "change_reason": null
     },
     {
-      "id": 1016,
-      "date": "2026-06-11",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Начальная военная и технологическая подготовка",
-      "lesson_type": "theory",
-      "group": {
-        "id": 8,
-        "name": "АиУ 2-25"
-      },
-      "teacher": {
-        "id": 45,
-        "name": "Махсотов Д."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 40,
-        "number": "306"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 1223,
       "date": "2026-06-11",
       "pair_number": 3,
@@ -420860,29 +420811,6 @@
       "room": {
         "id": 49,
         "number": "315"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 1015,
-      "date": "2026-06-11",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 8,
-        "name": "АиУ 2-25"
-      },
-      "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
       },
       "notes": null,
       "change_reason": null
