@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:10:45.403351",
+  "generated_at": "2026-06-16T17:16:37.810784",
   "schedules": [
     {
       "id": 1,
@@ -428847,7 +428847,7 @@
       "id": 23040,
       "date": "2026-06-15",
       "pair_number": 5,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
@@ -429977,7 +429977,7 @@
       "id": 23041,
       "date": "2026-06-16",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -430457,7 +430457,7 @@
       "id": 23042,
       "date": "2026-06-16",
       "pair_number": 3,
-      "status": "planned",
+      "status": "done",
       "discipline": "Физика",
       "lesson_type": "theory",
       "group": {
@@ -430914,7 +430914,7 @@
       "id": 23043,
       "date": "2026-06-16",
       "pair_number": 4,
-      "status": "planned",
+      "status": "done",
       "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
@@ -432380,7 +432380,7 @@
       "id": 23044,
       "date": "2026-06-17",
       "pair_number": 1,
-      "status": "planned",
+      "status": "done",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -432676,7 +432676,7 @@
       "id": 23045,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Математика",
       "lesson_type": "theory",
       "group": {
