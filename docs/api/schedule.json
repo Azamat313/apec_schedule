@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:26:33.589397",
+  "generated_at": "2026-06-16T16:58:06.571078",
   "schedules": [
     {
       "id": 1,
@@ -433613,26 +433613,6 @@
         "id": 56,
         "number": "С/з"
       },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 22955,
-      "date": "2026-06-17",
-      "pair_number": 5,
-      "status": "done",
-      "discipline": "Информатика",
-      "lesson_type": "theory",
-      "group": {
-        "id": 62,
-        "name": "ЭС 3-25"
-      },
-      "teacher": {
-        "id": 53,
-        "name": "Рахым К."
-      },
-      "substitute_teacher": null,
-      "room": null,
       "notes": null,
       "change_reason": null
     },
