@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:09:05.444706",
+  "generated_at": "2026-06-16T17:10:45.403351",
   "schedules": [
     {
       "id": 1,
@@ -429974,6 +429974,26 @@
       "change_reason": null
     },
     {
+      "id": 23041,
+      "date": "2026-06-16",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22757,
       "date": "2026-06-16",
       "pair_number": 2,
@@ -430434,6 +430454,26 @@
       "change_reason": null
     },
     {
+      "id": 23042,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22758,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -430864,6 +430904,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23043,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
       },
       "substitute_teacher": null,
       "room": null,
@@ -432317,6 +432377,26 @@
       "change_reason": null
     },
     {
+      "id": 23044,
+      "date": "2026-06-17",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Информатика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 68,
+        "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22761,
       "date": "2026-06-17",
       "pair_number": 1,
@@ -432586,6 +432666,26 @@
       "teacher": {
         "id": 34,
         "name": "Кабиден К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23045,
+      "date": "2026-06-17",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 8,
+        "name": "АиУ 2-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
