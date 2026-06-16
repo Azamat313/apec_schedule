@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:22:20.288913",
+  "generated_at": "2026-06-16T18:23:45.584300",
   "schedules": [
     {
       "id": 1,
@@ -431122,6 +431122,26 @@
       "change_reason": null
     },
     {
+      "id": 23064,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22759,
       "date": "2026-06-16",
       "pair_number": 4,
@@ -432611,6 +432631,26 @@
       "change_reason": null
     },
     {
+      "id": 23065,
+      "date": "2026-06-17",
+      "pair_number": 1,
+      "status": "planned",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22643,
       "date": "2026-06-17",
       "pair_number": 1,
@@ -432920,6 +432960,26 @@
       "teacher": {
         "id": 25,
         "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23066,
+      "date": "2026-06-17",
+      "pair_number": 2,
+      "status": "planned",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -433285,6 +433345,26 @@
         "id": 46,
         "number": "312"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23067,
+      "date": "2026-06-17",
+      "pair_number": 3,
+      "status": "planned",
+      "discipline": "Химия",
+      "lesson_type": "theory",
+      "group": {
+        "id": 25,
+        "name": "ПО 1-25"
+      },
+      "teacher": {
+        "id": 25,
+        "name": "Жолдаскалиева А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
