@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:12:13.083695",
+  "generated_at": "2026-06-16T20:31:41.700203",
   "schedules": [
     {
       "id": 1,
@@ -401879,29 +401879,6 @@
       "change_reason": null
     },
     {
-      "id": 544,
-      "date": "2026-06-05",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 68,
-        "name": "БНГС 1-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 7052,
       "date": "2026-06-05",
       "pair_number": 1,
@@ -415940,29 +415917,6 @@
       "room": {
         "id": 21,
         "number": "201"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 546,
-      "date": "2026-06-10",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 68,
-        "name": "БНГС 1-25б"
-      },
-      "teacher": {
-        "id": 69,
-        "name": "Убигалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 27,
-        "number": "207"
       },
       "notes": null,
       "change_reason": null
