@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:51:31.202975",
+  "generated_at": "2026-06-16T18:52:30.086167",
   "schedules": [
     {
       "id": 1,
@@ -412519,25 +412519,22 @@
       "change_reason": null
     },
     {
-      "id": 1012,
+      "id": 23084,
       "date": "2026-06-09",
       "pair_number": 4,
-      "status": "done",
-      "discipline": "Казахская литература",
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
       "lesson_type": "theory",
       "group": {
         "id": 8,
         "name": "АиУ 2-25"
       },
       "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
+        "id": 80,
+        "name": "Берік А."
       },
       "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
-      },
+      "room": null,
       "notes": null,
       "change_reason": null
     },
