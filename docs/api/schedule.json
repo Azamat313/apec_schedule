@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:20:22.722244",
+  "generated_at": "2026-06-16T18:22:20.288913",
   "schedules": [
     {
       "id": 1,
@@ -427329,7 +427329,7 @@
       "id": 23059,
       "date": "2026-06-15",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "Русский язык и литература",
       "lesson_type": "theory",
       "group": {
@@ -428345,6 +428345,26 @@
       "teacher": {
         "id": 39,
         "name": "Кайыров А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23060,
+      "date": "2026-06-15",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
       },
       "substitute_teacher": null,
       "room": null,
@@ -430605,6 +430625,26 @@
       "change_reason": null
     },
     {
+      "id": 23061,
+      "date": "2026-06-16",
+      "pair_number": 3,
+      "status": "done",
+      "discipline": "Математика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 35,
+        "name": "Кабиденова Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
       "id": 22758,
       "date": "2026-06-16",
       "pair_number": 3,
@@ -431055,6 +431095,26 @@
       "teacher": {
         "id": 80,
         "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23062,
+      "date": "2026-06-16",
+      "pair_number": 4,
+      "status": "done",
+      "discipline": "Физика",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 46,
+        "name": "Мурынов Б."
       },
       "substitute_teacher": null,
       "room": null,
@@ -436232,6 +436292,26 @@
         "id": 10,
         "number": "26"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23063,
+      "date": "2026-06-18",
+      "pair_number": 6,
+      "status": "done",
+      "discipline": "Русский язык и литература",
+      "lesson_type": "theory",
+      "group": {
+        "id": 13,
+        "name": "АиУ 5-25"
+      },
+      "teacher": {
+        "id": 6,
+        "name": "Амангалиева Г."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
