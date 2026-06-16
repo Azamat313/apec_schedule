@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:04:41.686529",
+  "generated_at": "2026-06-16T21:05:20.275978",
   "schedules": [
     {
       "id": 1,
@@ -391678,6 +391678,26 @@
         "id": 35,
         "number": "215"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23150,
+      "date": "2026-06-02",
+      "pair_number": 4,
+      "status": "planned",
+      "discipline": "Английский язык",
+      "lesson_type": "theory",
+      "group": {
+        "id": 73,
+        "name": "ХТП 2-25б"
+      },
+      "teacher": {
+        "id": 80,
+        "name": "Берік А."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
