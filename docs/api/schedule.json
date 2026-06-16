@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:21:05.946495",
+  "generated_at": "2026-06-16T14:21:54.617487",
   "schedules": [
     {
       "id": 1,
@@ -425815,6 +425815,26 @@
       "teacher": {
         "id": 68,
         "name": "Тулегенова К."
+      },
+      "substitute_teacher": null,
+      "room": null,
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 22970,
+      "date": "2026-06-12",
+      "pair_number": 5,
+      "status": "planned",
+      "discipline": "Глобальные компетенции",
+      "lesson_type": "theory",
+      "group": {
+        "id": 40,
+        "name": "ХТП 1-25"
+      },
+      "teacher": {
+        "id": 34,
+        "name": "Кабиден К."
       },
       "substitute_teacher": null,
       "room": null,
