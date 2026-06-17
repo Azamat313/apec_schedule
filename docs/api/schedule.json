@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T12:03:58.523381",
+  "generated_at": "2026-06-17T12:10:10.538371",
   "schedules": [
     {
       "id": 1,
@@ -403310,7 +403310,7 @@
       "id": 23178,
       "date": "2026-06-05",
       "pair_number": 2,
-      "status": "planned",
+      "status": "done",
       "discipline": "География",
       "lesson_type": "theory",
       "group": {
