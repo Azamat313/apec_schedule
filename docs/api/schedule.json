@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:32:23.410423",
+  "generated_at": "2026-06-17T10:49:28.872204",
   "schedules": [
     {
       "id": 1,
@@ -420920,26 +420920,6 @@
       "change_reason": null
     },
     {
-      "id": 23131,
-      "date": "2026-06-11",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 75,
-        "name": "ЭНГМ 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "substitute_teacher": null,
-      "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22917,
       "date": "2026-06-11",
       "pair_number": 3,
@@ -421545,26 +421525,6 @@
         "id": 23,
         "number": "203"
       },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 23132,
-      "date": "2026-06-11",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 75,
-        "name": "ЭНГМ 1-25б"
-      },
-      "teacher": {
-        "id": 32,
-        "name": "Ихсанова Г."
-      },
-      "substitute_teacher": null,
-      "room": null,
       "notes": null,
       "change_reason": null
     },
