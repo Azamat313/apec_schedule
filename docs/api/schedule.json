@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:09:28.402200",
+  "generated_at": "2026-06-17T15:45:03.175810",
   "schedules": [
     {
       "id": 1,
@@ -428619,29 +428619,6 @@
       "change_reason": null
     },
     {
-      "id": 9078,
-      "date": "2026-06-15",
-      "pair_number": 3,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 63,
-        "name": "АиУ 1-25б"
-      },
-      "teacher": {
-        "id": 57,
-        "name": "Саржанова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 22,
-        "number": "202"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 23046,
       "date": "2026-06-15",
       "pair_number": 3,
@@ -429138,29 +429115,6 @@
       },
       "substitute_teacher": null,
       "room": null,
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 9079,
-      "date": "2026-06-15",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 63,
-        "name": "АиУ 1-25б"
-      },
-      "teacher": {
-        "id": 57,
-        "name": "Саржанова Э."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 22,
-        "number": "202"
-      },
       "notes": null,
       "change_reason": null
     },
