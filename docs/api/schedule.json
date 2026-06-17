@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:08:12.105507",
+  "generated_at": "2026-06-17T18:21:05.350522",
   "schedules": [
     {
       "id": 1,
@@ -426580,26 +426580,6 @@
         "id": 46,
         "number": "312"
       },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 23116,
-      "date": "2026-06-12",
-      "pair_number": 5,
-      "status": "done",
-      "discipline": "Физика",
-      "lesson_type": "theory",
-      "group": {
-        "id": 29,
-        "name": "ПО 2-25"
-      },
-      "teacher": {
-        "id": 46,
-        "name": "Мурынов Б."
-      },
-      "substitute_teacher": null,
-      "room": null,
       "notes": null,
       "change_reason": null
     },
