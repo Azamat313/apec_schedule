@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:06:24.831491",
+  "generated_at": "2026-06-17T15:09:28.402200",
   "schedules": [
     {
       "id": 1,
@@ -438839,29 +438839,6 @@
       "change_reason": null
     },
     {
-      "id": 8246,
-      "date": "2026-06-23",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 48,
-        "name": "ХТП 3-25"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 31,
-        "number": "211"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
       "id": 22792,
       "date": "2026-06-23",
       "pair_number": 1,
@@ -438880,29 +438857,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8247,
-      "date": "2026-06-23",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 48,
-        "name": "ХТП 3-25"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 31,
-        "number": "211"
       },
       "notes": null,
       "change_reason": null
@@ -439179,52 +439133,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8250,
-      "date": "2026-06-30",
-      "pair_number": 1,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 48,
-        "name": "ХТП 3-25"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 31,
-        "number": "211"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 8251,
-      "date": "2026-06-30",
-      "pair_number": 2,
-      "status": "done",
-      "discipline": "Английский язык",
-      "lesson_type": "theory",
-      "group": {
-        "id": 48,
-        "name": "ХТП 3-25"
-      },
-      "teacher": {
-        "id": 80,
-        "name": "Берік А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 31,
-        "number": "211"
       },
       "notes": null,
       "change_reason": null
