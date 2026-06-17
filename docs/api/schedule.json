@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T10:49:28.872204",
+  "generated_at": "2026-06-17T11:52:30.957969",
   "schedules": [
     {
       "id": 1,
@@ -5545,29 +5545,6 @@
       "change_reason": null
     },
     {
-      "id": 224,
-      "date": "2026-01-15",
-      "pair_number": 1,
-      "status": "rescheduled",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 30,
-        "number": "210"
-      },
-      "notes": null,
-      "change_reason": "Заболел учитель Иманалиева"
-    },
-    {
       "id": 269,
       "date": "2026-01-15",
       "pair_number": 1,
@@ -6419,52 +6396,6 @@
       "change_reason": null
     },
     {
-      "id": 8327,
-      "date": "2026-01-15",
-      "pair_number": 3,
-      "status": "rescheduled",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 30,
-        "number": "210"
-      },
-      "notes": "",
-      "change_reason": "Заболел учитель Иманалиева"
-    },
-    {
-      "id": 226,
-      "date": "2026-01-15",
-      "pair_number": 3,
-      "status": "cancelled",
-      "discipline": "Казахская литература",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 31,
-        "name": "Иманалиева Г."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 37,
-        "number": "301"
-      },
-      "notes": null,
-      "change_reason": "Заболела"
-    },
-    {
       "id": 248,
       "date": "2026-01-15",
       "pair_number": 3,
@@ -6831,29 +6762,6 @@
       },
       "notes": null,
       "change_reason": null
-    },
-    {
-      "id": 8328,
-      "date": "2026-01-15",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "География",
-      "lesson_type": "theory",
-      "group": {
-        "id": 4,
-        "name": "АиУ 1-25"
-      },
-      "teacher": {
-        "id": 84,
-        "name": "Рыскалиева А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 30,
-        "number": "210"
-      },
-      "notes": "",
-      "change_reason": "Заболел учитель Иманалиева"
     },
     {
       "id": 249,
