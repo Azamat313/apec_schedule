@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:21:05.350522",
+  "generated_at": "2026-06-19T10:42:26.193974",
   "schedules": [
     {
       "id": 1,
@@ -438288,29 +438288,6 @@
       "room": {
         "id": 46,
         "number": "312"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 21843,
-      "date": "2026-06-19",
-      "pair_number": 5,
-      "status": "done",
-      "discipline": "ПО РО 1.6 Устанавливать светильники всех видов, различные электроустановочные изделия, аппараты и проводить ремонт осветительных сетей и оборудования",
-      "lesson_type": "practice",
-      "group": {
-        "id": 60,
-        "name": "ЭС 2-24"
-      },
-      "teacher": {
-        "id": 44,
-        "name": "Махмутов Т."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 36,
-        "number": "216"
       },
       "notes": null,
       "change_reason": null
