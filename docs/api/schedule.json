@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T11:05:14.772530",
+  "generated_at": "2026-06-19T17:06:57.307110",
   "schedules": [
     {
       "id": 1,
@@ -437980,7 +437980,7 @@
       "id": 22713,
       "date": "2026-06-19",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 6.1 Планировать и подготовливать к техническому обслуживанию и ремонту контрольно-измерительные приборы и средства автоматизации",
       "lesson_type": "theory",
       "group": {
@@ -437991,13 +437991,16 @@
         "id": 55,
         "name": "Сагындыккызы Д."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 71,
+        "name": "Утеш М."
+      },
       "room": {
         "id": 8,
         "number": "24"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22711,
