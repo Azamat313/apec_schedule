@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:55:30.094612",
+  "generated_at": "2026-06-19T10:58:24.899539",
   "schedules": [
     {
       "id": 1,
@@ -387675,29 +387675,6 @@
       "room": {
         "id": 26,
         "number": "206"
-      },
-      "notes": null,
-      "change_reason": null
-    },
-    {
-      "id": 21975,
-      "date": "2026-06-01",
-      "pair_number": 4,
-      "status": "done",
-      "discipline": "РО 6.3 Участвовать в разработке организационно-технических мероприятий участка контрольно-измерительных приборов и средств автоматизации",
-      "lesson_type": "theory",
-      "group": {
-        "id": 9,
-        "name": "АиУ 3-23"
-      },
-      "teacher": {
-        "id": 56,
-        "name": "Саматова А."
-      },
-      "substitute_teacher": null,
-      "room": {
-        "id": 16,
-        "number": "105"
       },
       "notes": null,
       "change_reason": null
