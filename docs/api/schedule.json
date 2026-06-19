@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:51:35.515240",
+  "generated_at": "2026-06-19T10:55:30.094612",
   "schedules": [
     {
       "id": 1,
@@ -410218,7 +410218,7 @@
       "id": 22817,
       "date": "2026-06-08",
       "pair_number": 5,
-      "status": "cancelled",
+      "status": "done",
       "discipline": "Физическая культура",
       "lesson_type": "theory",
       "group": {
