@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:58:24.899539",
+  "generated_at": "2026-06-19T11:05:14.772530",
   "schedules": [
     {
       "id": 1,
@@ -435108,6 +435108,26 @@
         "id": 11,
         "number": "28"
       },
+      "notes": null,
+      "change_reason": null
+    },
+    {
+      "id": 23182,
+      "date": "2026-06-17",
+      "pair_number": 5,
+      "status": "done",
+      "discipline": "РО 7.5 Осуществлять процессы глушения и разрядки скважин перед капитальным и подземным ремонтом, проводить заключительные работы после проведения ремонта",
+      "lesson_type": "theory",
+      "group": {
+        "id": 50,
+        "name": "ЭНГМ 1-23"
+      },
+      "teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
+      "substitute_teacher": null,
+      "room": null,
       "notes": null,
       "change_reason": null
     },
