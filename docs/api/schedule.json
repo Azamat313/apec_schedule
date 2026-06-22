@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:49:41.717925",
+  "generated_at": "2026-06-22T11:57:36.988134",
   "schedules": [
     {
       "id": 1,
@@ -387637,7 +387637,7 @@
       "id": 21522,
       "date": "2026-06-01",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -387648,13 +387648,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21974,
@@ -389028,7 +389031,7 @@
       "id": 21450,
       "date": "2026-06-01",
       "pair_number": 7,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 1.1 Проверять рабочее место на соответствие требованиям безопасности",
       "lesson_type": "practice",
       "group": {
@@ -389039,13 +389042,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21467,
@@ -392684,7 +392690,7 @@
       "id": 21350,
       "date": "2026-06-02",
       "pair_number": 5,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 1.5 Соблюдать технику безопасности при подготовительных работах",
       "lesson_type": "theory",
       "group": {
@@ -392695,13 +392701,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21369,
@@ -396914,7 +396923,7 @@
       "id": 22104,
       "date": "2026-06-03",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -396925,13 +396934,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21262,
@@ -401129,7 +401141,7 @@
       "id": 22167,
       "date": "2026-06-04",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -401140,13 +401152,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22168,
@@ -401407,7 +401422,7 @@
       "id": 21496,
       "date": "2026-06-04",
       "pair_number": 5,
-      "status": "done",
+      "status": "substitution",
       "discipline": "ПО РО 2.5 Соблюдать правила промышленной и экологической безопасности",
       "lesson_type": "practice",
       "group": {
@@ -401418,13 +401433,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21516,
@@ -405647,7 +405665,7 @@
       "id": 22231,
       "date": "2026-06-05",
       "pair_number": 4,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 6.6 Контролировать соблюдение требований охраны труда, противопожарной и экологической безопасности",
       "lesson_type": "theory",
       "group": {
@@ -405658,13 +405676,16 @@
         "id": 52,
         "name": "Рахметуллаев Б."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 105,
+        "name": "Кидасова Г."
+      },
       "room": {
         "id": 45,
         "number": "311"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21266,
