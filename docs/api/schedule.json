@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:59:15.586260",
+  "generated_at": "2026-06-22T12:32:18.054486",
   "schedules": [
     {
       "id": 1,
@@ -433822,7 +433822,7 @@
       "id": 22648,
       "date": "2026-06-17",
       "pair_number": 2,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 7.3 Проводить работы по повышению приемистости скважин",
       "lesson_type": "theory",
       "group": {
@@ -433833,13 +433833,16 @@
         "id": 37,
         "name": "Кадргалиева А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 76,
+        "name": "Өтеуов Д."
+      },
       "room": {
         "id": 23,
         "number": "203"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22654,
