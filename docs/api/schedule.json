@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T10:28:20.509326",
+  "generated_at": "2026-06-22T11:47:49.348152",
   "schedules": [
     {
       "id": 1,
@@ -416689,7 +416689,7 @@
       "id": 7007,
       "date": "2026-06-10",
       "pair_number": 3,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -416700,13 +416700,16 @@
         "id": 24,
         "name": "Ермеков Д."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 4,
+        "name": "Айбарұлы Г."
+      },
       "room": {
         "id": 20,
         "number": "111"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "командировка"
     },
     {
       "id": 7137,
