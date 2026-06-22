@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T12:32:18.054486",
+  "generated_at": "2026-06-22T15:54:53.046243",
   "schedules": [
     {
       "id": 1,
@@ -437891,15 +437891,15 @@
         "name": "Дауылбай А."
       },
       "substitute_teacher": {
-        "id": 41,
-        "name": "Калмен С."
+        "id": 4,
+        "name": "Айбарұлы Г."
       },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22708,
@@ -438095,15 +438095,15 @@
         "name": "Дауылбай А."
       },
       "substitute_teacher": {
-        "id": 41,
-        "name": "Калмен С."
+        "id": 4,
+        "name": "Айбарұлы Г."
       },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22895,
@@ -438250,15 +438250,15 @@
         "name": "Дауылбай А."
       },
       "substitute_teacher": {
-        "id": 41,
-        "name": "Калмен С."
+        "id": 4,
+        "name": "Айбарұлы Г."
       },
       "room": {
         "id": 39,
         "number": "305"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 22896,
