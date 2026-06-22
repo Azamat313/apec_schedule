@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T11:47:49.348152",
+  "generated_at": "2026-06-22T11:49:05.436267",
   "schedules": [
     {
       "id": 1,
@@ -423420,7 +423420,7 @@
       "id": 7378,
       "date": "2026-06-12",
       "pair_number": 1,
-      "status": "done",
+      "status": "substitution",
       "discipline": "Информатика",
       "lesson_type": "theory",
       "group": {
@@ -423431,13 +423431,16 @@
         "id": 24,
         "name": "Ермеков Д."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 53,
+        "name": "Рахым К."
+      },
       "room": {
         "id": 20,
         "number": "111"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 4164,
