@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T17:06:57.307110",
+  "generated_at": "2026-06-22T10:28:20.509326",
   "schedules": [
     {
       "id": 1,
@@ -432717,7 +432717,7 @@
       "id": 21826,
       "date": "2026-06-16",
       "pair_number": 6,
-      "status": "done",
+      "status": "substitution",
       "discipline": "РО 2.4 Выполнять операции по электроизмерительной и визуальной проверке",
       "lesson_type": "theory",
       "group": {
@@ -432728,13 +432728,16 @@
         "id": 59,
         "name": "Сериккалиев А."
       },
-      "substitute_teacher": null,
+      "substitute_teacher": {
+        "id": 27,
+        "name": "Жумагалиев Н."
+      },
       "room": {
         "id": 8,
         "number": "24"
       },
       "notes": null,
-      "change_reason": null
+      "change_reason": "система"
     },
     {
       "id": 21834,
