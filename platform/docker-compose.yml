@@ -1,0 +1,32 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      APEC_DATABASE_URL: postgresql+psycopg://apec:apec@db:5432/apec
+      APEC_SECRET_KEY: ${APEC_SECRET_KEY:-change-me-in-production}
+      APEC_LEGACY_DATA_DIR: /srv/legacy_data
+      APEC_AUTO_IMPORT_LEGACY: "true"
+    volumes:
+      # Старые JSON-выгрузки для разовой миграции данных
+      - ../docs/api:/srv/legacy_data:ro
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: apec
+      POSTGRES_PASSWORD: apec
+      POSTGRES_DB: apec
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U apec"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  pgdata:
