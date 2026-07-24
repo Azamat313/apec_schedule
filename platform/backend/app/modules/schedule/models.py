@@ -39,9 +39,10 @@ class Lesson(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     date: Mapped[date] = mapped_column(Date, index=True)
     pair_number: Mapped[int] = mapped_column(Integer)
-    status: Mapped[str] = mapped_column(String(20), default="planned")  # planned|done|cancelled
+    # Статусы взяты из фактических данных выгрузки, см. LessonStatus
+    status: Mapped[str] = mapped_column(String(20), default="planned")
     discipline: Mapped[str] = mapped_column(String(200))
-    lesson_type: Mapped[str] = mapped_column(String(20), default="theory")  # theory|practice|lab
+    lesson_type: Mapped[str] = mapped_column(String(20), default="theory")  # theory|practice
 
     group_id: Mapped[int] = mapped_column(ForeignKey("groups.id"), index=True)
     teacher_id: Mapped[int | None] = mapped_column(ForeignKey("teachers.id"), index=True)

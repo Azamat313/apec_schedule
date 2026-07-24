@@ -18,6 +18,8 @@ _CHANGE_TITLES = {
     "created": "Новая пара",
     "updated": "Изменение в расписании",
     "cancelled": "Пара отменена",
+    "substitution": "Замена преподавателя",
+    "room_changed": "Изменение кабинета",
 }
 
 
@@ -33,6 +35,10 @@ def on_schedule_changed(lesson, change: str, **_) -> None:
         f"{lesson.date} пара {lesson.pair_number}: {lesson.discipline} "
         f"({lesson.group.name})"
     )
+    if change == "substitution" and lesson.substitute_teacher:
+        body += f" — ведёт {lesson.substitute_teacher.name}"
+    elif change == "room_changed" and lesson.room:
+        body += f" — кабинет {lesson.room.number}"
     if lesson.change_reason:
         body += f" — {lesson.change_reason}"
 

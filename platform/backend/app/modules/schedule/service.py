@@ -5,6 +5,7 @@ from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from app.core import events
+from app.modules.schedule.constants import LessonStatus
 from app.modules.schedule.models import Group, Lesson, Room, Teacher
 from app.modules.schedule.schemas import LessonIn, LessonPatch
 
@@ -44,6 +45,7 @@ def create_lesson(db: Session, data: LessonIn) -> Lesson:
     lesson = Lesson(**data.model_dump())
     db.add(lesson)
     db.commit()
+    db.refresh(lesson)
     events.publish("schedule_changed", lesson=lesson, change="created")
     return lesson
 
@@ -56,9 +58,23 @@ def update_lesson(db: Session, lesson_id: int, patch: LessonPatch) -> Lesson:
     for field, value in changes.items():
         setattr(lesson, field, value)
     db.commit()
-    change = "cancelled" if changes.get("status") == "cancelled" else "updated"
-    events.publish("schedule_changed", lesson=lesson, change=change)
+    # Перечитываем связи (teacher/substitute_teacher/room): без этого и ответ API,
+    # и текст уведомления содержали бы устаревшие данные.
+    db.refresh(lesson)
+    events.publish("schedule_changed", lesson=lesson, change=_classify_change(changes))
     return lesson
+
+
+def _classify_change(changes: dict) -> str:
+    """Тип изменения определяет текст уведомления студентам и преподавателям."""
+    status = changes.get("status")
+    if status == LessonStatus.CANCELLED:
+        return "cancelled"
+    if status == LessonStatus.SUBSTITUTION or "substitute_teacher_id" in changes:
+        return "substitution"
+    if "room_id" in changes:
+        return "room_changed"
+    return "updated"
 
 
 def delete_lesson(db: Session, lesson_id: int) -> None:

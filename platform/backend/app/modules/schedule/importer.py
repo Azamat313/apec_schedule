@@ -11,6 +11,7 @@ from pathlib import Path
 from sqlalchemy import func, select
 from sqlalchemy.orm import Session
 
+from app.modules.schedule.constants import LEGACY_STATUS_MAP, LessonStatus
 from app.modules.schedule.models import Group, Lesson, Room, Teacher
 
 log = logging.getLogger(__name__)
@@ -49,13 +50,18 @@ def import_legacy(db: Session, data_dir: Path) -> int:
     db.add_all(rooms.values())
     db.flush()
 
+    unknown_statuses: set[str] = set()
     for entry in entries:
+        raw_status = entry.get("status")
+        status = LEGACY_STATUS_MAP.get(raw_status, LessonStatus.PLANNED)
+        if raw_status and raw_status not in LEGACY_STATUS_MAP:
+            unknown_statuses.add(raw_status)
         db.add(
             Lesson(
                 id=entry["id"],
                 date=date.fromisoformat(entry["date"]),
                 pair_number=entry["pair_number"],
-                status=entry.get("status") or "planned",
+                status=status,
                 discipline=entry["discipline"],
                 lesson_type=entry.get("lesson_type") or "theory",
                 group_id=entry["group"]["id"],
@@ -72,6 +78,11 @@ def import_legacy(db: Session, data_dir: Path) -> int:
 
     db.commit()
     log.info("Импортировано %d пар, %d групп, %d преподавателей", imported, len(groups), len(teachers))
+    if unknown_statuses:
+        log.warning(
+            "Неизвестные статусы в выгрузке (импортированы как planned): %s",
+            ", ".join(sorted(unknown_statuses)),
+        )
     return imported
 
 

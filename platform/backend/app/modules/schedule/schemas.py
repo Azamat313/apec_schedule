@@ -1,6 +1,12 @@
 from datetime import date
+from typing import Literal
 
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel, ConfigDict, Field
+
+from app.modules.schedule.constants import MAX_PAIR_NUMBER
+
+LessonStatusLiteral = Literal["planned", "done", "cancelled", "substitution"]
+LessonTypeLiteral = Literal["theory", "practice"]
 
 
 class GroupOut(BaseModel):
@@ -39,10 +45,10 @@ class LessonOut(BaseModel):
 
 class LessonIn(BaseModel):
     date: date
-    pair_number: int
+    pair_number: int = Field(ge=1, le=MAX_PAIR_NUMBER)
     discipline: str
-    lesson_type: str = "theory"
-    status: str = "planned"
+    lesson_type: LessonTypeLiteral = "theory"
+    status: LessonStatusLiteral = "planned"
     group_id: int
     teacher_id: int | None = None
     substitute_teacher_id: int | None = None
@@ -52,7 +58,7 @@ class LessonIn(BaseModel):
 
 
 class LessonPatch(BaseModel):
-    status: str | None = None
+    status: LessonStatusLiteral | None = None
     substitute_teacher_id: int | None = None
     room_id: int | None = None
     notes: str | None = None
